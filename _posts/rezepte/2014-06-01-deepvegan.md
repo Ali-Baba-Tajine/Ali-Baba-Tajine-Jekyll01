@@ -4,7 +4,7 @@ title: Deep Vegan
 description: "Sehr lecker, supergeil"
 category : Rezepte
 modified: 2014-06-01
-tags: [rezept]
+tags: [rezept, Blumenkohl, Zwiebel, Petersilie]
 image:
   feature: abstract-1.jpg
   credit: dargadgetz
