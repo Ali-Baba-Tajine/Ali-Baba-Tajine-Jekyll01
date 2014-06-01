@@ -2,7 +2,7 @@
 layout: post
 title: "Facebook Album Embed"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
-category : backend
+category : Backend
 tags: [sample post, facebook, embeds]
 image:
   feature: abstract-1.jpg
