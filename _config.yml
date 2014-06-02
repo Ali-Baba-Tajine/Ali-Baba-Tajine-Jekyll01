@@ -2,7 +2,7 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "node_modules"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj"]
 highlighter: true
 markdown: kramdown
 
