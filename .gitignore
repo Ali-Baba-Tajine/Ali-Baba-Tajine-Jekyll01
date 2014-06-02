@@ -9,6 +9,8 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 
+.sql
+
 *.espressostorage
 Z_ORIGINAL_BACKUP
 node_modules
@@ -16,3 +18,4 @@ CNAME
 tajinetheme
 tajinetheme Alias
 OLD_SITE
+*.sql
