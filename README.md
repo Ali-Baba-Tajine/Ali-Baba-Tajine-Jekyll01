@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ali-baba-tajine/ali-baba-tajine.github.io.png?label=ready&title=Ready)](https://waffle.io/ali-baba-tajine/ali-baba-tajine.github.io)
 [![Ali Baba Tajine - Titelbild](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/1913220_703511143042637_486624154_o.jpg)](https://www.facebook.com/pages/Ali-Baba-Tajine/162735787120178?ref=hl)
 
 ## Ali Baba Tajine - Webpräsenz | Relauch Nr. 4
