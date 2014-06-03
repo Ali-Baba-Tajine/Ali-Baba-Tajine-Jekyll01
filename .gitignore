@@ -17,3 +17,4 @@ node_modules
 CNAME
 OLD_SITE
 *.sql
+wp_import
