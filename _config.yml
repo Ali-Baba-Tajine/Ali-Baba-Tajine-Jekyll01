@@ -1,8 +1,6 @@
-# This is the default format. 
-# For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models"]
 highlighter: true
 markdown: kramdown
 
@@ -16,7 +14,6 @@ author :
   email : github@tajine.de
   github : consolacao
   twitter : alibabatajine
-  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
