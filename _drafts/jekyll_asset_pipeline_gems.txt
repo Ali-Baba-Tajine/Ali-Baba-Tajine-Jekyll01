@@ -1,0 +1,219 @@
+Last login: Fri Jun  6 10:33:13 on ttys001
+You have mail.
+imac:~ hhe$ npm install nsutil -g
+npm http GET https://registry.npmjs.org/nsutil
+npm http 200 https://registry.npmjs.org/nsutil
+npm http GET https://registry.npmjs.org/nsutil/-/nsutil-0.1.2.tgz
+npm http 200 https://registry.npmjs.org/nsutil/-/nsutil-0.1.2.tgz
+npm http GET https://registry.npmjs.org/mocha
+npm http 200 https://registry.npmjs.org/mocha
+npm http GET https://registry.npmjs.org/mocha/-/mocha-1.20.1.tgz
+npm http 200 https://registry.npmjs.org/mocha/-/mocha-1.20.1.tgz
+npm http GET https://registry.npmjs.org/commander
+npm http GET https://registry.npmjs.org/diff
+npm http GET https://registry.npmjs.org/glob
+npm http GET https://registry.npmjs.org/growl
+npm http GET https://registry.npmjs.org/jade
+npm http GET https://registry.npmjs.org/debug
+npm http GET https://registry.npmjs.org/mkdirp
+npm http 304 https://registry.npmjs.org/glob
+npm http 200 https://registry.npmjs.org/commander
+npm http 304 https://registry.npmjs.org/growl
+npm http 304 https://registry.npmjs.org/diff
+npm http GET https://registry.npmjs.org/commander/-/commander-2.0.0.tgz
+npm http 200 https://registry.npmjs.org/jade
+npm http GET https://registry.npmjs.org/jade/-/jade-0.26.3.tgz
+npm http 304 https://registry.npmjs.org/mkdirp
+npm http 200 https://registry.npmjs.org/commander/-/commander-2.0.0.tgz
+npm http 200 https://registry.npmjs.org/debug
+npm http 200 https://registry.npmjs.org/jade/-/jade-0.26.3.tgz
+npm http GET https://registry.npmjs.org/ms
+npm http GET https://registry.npmjs.org/minimatch
+npm http GET https://registry.npmjs.org/graceful-fs
+npm http GET https://registry.npmjs.org/inherits
+npm http 304 https://registry.npmjs.org/ms
+npm http 304 https://registry.npmjs.org/graceful-fs
+npm http 304 https://registry.npmjs.org/inherits
+npm http 304 https://registry.npmjs.org/minimatch
+npm http GET https://registry.npmjs.org/lru-cache
+npm http GET https://registry.npmjs.org/sigmund
+npm http 304 https://registry.npmjs.org/lru-cache
+npm http 304 https://registry.npmjs.org/sigmund
+
+> nsutil@0.1.2 install /Users/hhe/.nvm/v0.10.28/lib/node_modules/nsutil
+> node-gyp rebuild
+
+  CXX(target) Release/obj.target/nsutil_osx/src/sutil/sutil_common.o
+  CXX(target) Release/obj.target/nsutil_osx/src/sutil/osx/process_info.o
+  CXX(target) Release/obj.target/nsutil_osx/src/sutil/sutil_osx.o
+  CXX(target) Release/obj.target/nsutil_osx/src/sutil/sutil_posix.o
+  CXX(target) Release/obj.target/nsutil_osx/src/nsutil/nsutil_osx_funcs.o
+  CXX(target) Release/obj.target/nsutil_osx/src/nsutil/nsutil_osx_funcs_async.o
+  CXX(target) Release/obj.target/nsutil_osx/src/nsutil/nsutil_osx.o
+  SOLINK_MODULE(target) Release/nsutil_osx.node
+  SOLINK_MODULE(target) Release/nsutil_osx.node: Finished
+  CXX(target) Release/obj.target/nsutil_posix_osx/src/sutil/sutil_posix.o
+  CXX(target) Release/obj.target/nsutil_posix_osx/src/nsutil/nsutil_posix_funcs.o
+  CXX(target) Release/obj.target/nsutil_posix_osx/src/nsutil/nsutil_posix.o
+  SOLINK_MODULE(target) Release/nsutil_posix_osx.node
+  SOLINK_MODULE(target) Release/nsutil_posix_osx.node: Finished
+  COPY /Users/hhe/.nvm/v0.10.28/lib/node_modules/nsutil/build/Release/x64/nsutil_osx.node
+  COPY /Users/hhe/.nvm/v0.10.28/lib/node_modules/nsutil/build/Release/x64/nsutil_posix_osx.node
+  TOUCH Release/obj.target/action_after_build.stamp
+nsutil@0.1.2 /Users/hhe/.nvm/v0.10.28/lib/node_modules/nsutil
+└── mocha@1.20.1 (commander@2.0.0, diff@1.0.7, growl@1.7.0, mkdirp@0.3.5, debug@1.0.0, jade@0.26.3, glob@3.2.3)
+imac:~ hhe$ apm install linter
+Installing linter to /Users/hhe/.atom/packages ✓
+imac:~ hhe$ apm install linter-json
+Installing linter-json to /Users/hhe/.atom/packages ✗
+Request for package information failed: Not Found
+imac:~ hhe$ npm install jsonlint -g
+npm http GET https://registry.npmjs.org/jsonlint
+npm http 200 https://registry.npmjs.org/jsonlint
+npm http GET https://registry.npmjs.org/jsonlint/-/jsonlint-1.6.0.tgz
+npm http 200 https://registry.npmjs.org/jsonlint/-/jsonlint-1.6.0.tgz
+npm http GET https://registry.npmjs.org/JSV
+npm http GET https://registry.npmjs.org/nomnom
+npm http 200 https://registry.npmjs.org/JSV
+npm http 200 https://registry.npmjs.org/nomnom
+npm http GET https://registry.npmjs.org/JSV/-/JSV-4.0.2.tgz
+npm http GET https://registry.npmjs.org/nomnom/-/nomnom-1.7.0.tgz
+npm http 200 https://registry.npmjs.org/JSV/-/JSV-4.0.2.tgz
+npm http 200 https://registry.npmjs.org/nomnom/-/nomnom-1.7.0.tgz
+npm http GET https://registry.npmjs.org/colors
+npm http GET https://registry.npmjs.org/underscore
+npm http 200 https://registry.npmjs.org/underscore
+npm http 200 https://registry.npmjs.org/colors
+/Users/hhe/.nvm/v0.10.28/bin/jsonlint -> /Users/hhe/.nvm/v0.10.28/lib/node_modules/jsonlint/lib/cli.js
+jsonlint@1.6.0 /Users/hhe/.nvm/v0.10.28/lib/node_modules/jsonlint
+├── nomnom@1.7.0 (underscore@1.4.4, colors@0.5.1)
+└── JSV@4.0.2
+imac:~ hhe$ apm install linter-json
+Installing linter-json to /Users/hhe/.atom/packages ✗
+Request for package information failed: Not Found
+imac:~ hhe$ 
+Last login: Fri Jun  6 15:47:27 on ttys000
+You have mail.
+iMacltksls-2:~ hhe$ npm install grunt-generate-configs -g
+npm http GET https://registry.npmjs.org/grunt-generate-configs
+npm http 200 https://registry.npmjs.org/grunt-generate-configs
+npm http GET https://registry.npmjs.org/grunt-generate-configs/-/grunt-generate-configs-0.6.0.tgz
+npm http 200 https://registry.npmjs.org/grunt-generate-configs/-/grunt-generate-configs-0.6.0.tgz
+npm http GET https://registry.npmjs.org/inquirer
+npm http GET https://registry.npmjs.org/js2coffee
+npm http GET https://registry.npmjs.org/js-yaml
+npm http GET https://registry.npmjs.org/rimraf
+npm http GET https://registry.npmjs.org/js-beautify
+npm http 304 https://registry.npmjs.org/rimraf
+npm http 304 https://registry.npmjs.org/js-yaml
+npm http 304 https://registry.npmjs.org/inquirer
+npm http 304 https://registry.npmjs.org/js-beautify
+npm http 304 https://registry.npmjs.org/js2coffee
+npm http GET https://registry.npmjs.org/lodash
+npm http GET https://registry.npmjs.org/cli-color
+npm http GET https://registry.npmjs.org/mute-stream
+npm http GET https://registry.npmjs.org/async
+npm http GET https://registry.npmjs.org/through
+npm http GET https://registry.npmjs.org/readline2
+npm http GET https://registry.npmjs.org/argparse
+npm http GET https://registry.npmjs.org/esprima
+npm http GET https://registry.npmjs.org/mkdirp
+npm http 200 https://registry.npmjs.org/lodash
+npm http GET https://registry.npmjs.org/config-chain
+npm http GET https://registry.npmjs.org/nopt
+npm http 200 https://registry.npmjs.org/async
+npm http 304 https://registry.npmjs.org/through
+npm http 304 https://registry.npmjs.org/esprima
+npm http 304 https://registry.npmjs.org/cli-color
+npm http 304 https://registry.npmjs.org/mkdirp
+npm http 304 https://registry.npmjs.org/mute-stream
+npm http 304 https://registry.npmjs.org/nopt
+npm http 304 https://registry.npmjs.org/readline2
+npm http 304 https://registry.npmjs.org/argparse
+npm http 304 https://registry.npmjs.org/config-chain
+
+> js2coffee@0.2.7 preinstall /Users/hhe/.nvm/v0.10.28/lib/node_modules/grunt-generate-configs/node_modules/js2coffee
+> npm run-script ./cyclic.js
+
+npm http GET https://registry.npmjs.org/chalk
+npm http GET https://registry.npmjs.org/abbrev
+npm http GET https://registry.npmjs.org/ini
+npm http GET https://registry.npmjs.org/proto-list
+npm http GET https://registry.npmjs.org/underscore
+npm http 304 https://registry.npmjs.org/chalk
+npm http GET https://registry.npmjs.org/file
+npm http GET https://registry.npmjs.org/coffee-script
+npm http 304 https://registry.npmjs.org/underscore
+npm http 304 https://registry.npmjs.org/abbrev
+npm http 304 https://registry.npmjs.org/coffee-script
+npm http 304 https://registry.npmjs.org/ini
+npm http 304 https://registry.npmjs.org/proto-list
+npm http 200 https://registry.npmjs.org/file
+npm http GET https://registry.npmjs.org/es5-ext
+npm http GET https://registry.npmjs.org/memoizee
+npm http 304 https://registry.npmjs.org/es5-ext
+npm http 304 https://registry.npmjs.org/memoizee
+npm http GET https://registry.npmjs.org/has-color
+npm http GET https://registry.npmjs.org/strip-ansi
+npm http GET https://registry.npmjs.org/ansi-styles
+npm http 304 https://registry.npmjs.org/has-color
+npm http 304 https://registry.npmjs.org/strip-ansi
+npm http 304 https://registry.npmjs.org/ansi-styles
+npm http GET https://registry.npmjs.org/underscore.string
+npm http GET https://registry.npmjs.org/event-emitter
+npm http GET https://registry.npmjs.org/next-tick
+npm http 304 https://registry.npmjs.org/underscore.string
+npm http 304 https://registry.npmjs.org/event-emitter
+npm http 304 https://registry.npmjs.org/next-tick
+/Users/hhe/.nvm/v0.10.28/bin/generate_configs -> /Users/hhe/.nvm/v0.10.28/lib/node_modules/grunt-generate-configs/bin/generate_configs
+npm WARN package.json couchapp@0.11.0 No repository field.
+npm WARN package.json yaml@0.2.3 No repository field.
+grunt-generate-configs@0.6.0 /Users/hhe/.nvm/v0.10.28/lib/node_modules/grunt-generate-configs
+├── rimraf@2.2.8
+├── js-beautify@1.5.1 (mkdirp@0.3.5, nopt@2.2.1, config-chain@1.1.8)
+├── js2coffee@0.2.7 (file@0.2.2, underscore@1.5.2, nopt@2.1.2, coffee-script@1.6.3)
+├── js-yaml@3.0.2 (esprima@1.0.4, argparse@0.1.15)
+└── inquirer@0.4.1 (mute-stream@0.0.4, through@2.3.4, async@0.2.10, readline2@0.1.0, lodash@2.4.1, cli-color@0.2.3)
+iMacltksls-2:~ hhe$ gem install jekyll-asset-pipeline
+Fetching: directory_watcher-1.5.1.gem (100%)
+Successfully installed directory_watcher-1.5.1
+Fetching: kramdown-0.14.2.gem (100%)
+Successfully installed kramdown-0.14.2
+Fetching: pygments.rb-0.3.7.gem (100%)
+Successfully installed pygments.rb-0.3.7
+Fetching: jekyll-0.12.1.gem (100%)
+Successfully installed jekyll-0.12.1
+Fetching: jekyll-asset-pipeline-0.1.6.gem (100%)
+Successfully installed jekyll-asset-pipeline-0.1.6
+Parsing documentation for directory_watcher-1.5.1
+Installing ri documentation for directory_watcher-1.5.1
+Parsing documentation for jekyll-0.12.1
+Installing ri documentation for jekyll-0.12.1
+Parsing documentation for jekyll-asset-pipeline-0.1.6
+Installing ri documentation for jekyll-asset-pipeline-0.1.6
+Parsing documentation for kramdown-0.14.2
+Installing ri documentation for kramdown-0.14.2
+Parsing documentation for pygments.rb-0.3.7
+Installing ri documentation for pygments.rb-0.3.7
+Done installing documentation for directory_watcher, jekyll, jekyll-asset-pipeline, kramdown, pygments.rb after 3 seconds
+5 gems installed
+iMacltksls-2:~ hhe$ gem install word-to-markdown
+Fetching: nokogiri-styles-0.1.2.gem (100%)
+Successfully installed nokogiri-styles-0.1.2
+Fetching: descriptive_statistics-1.1.5.gem (100%)
+Successfully installed descriptive_statistics-1.1.5
+Fetching: reverse_markdown-0.5.1.gem (100%)
+Successfully installed reverse_markdown-0.5.1
+Fetching: word-to-markdown-1.0.0.gem (100%)
+Successfully installed word-to-markdown-1.0.0
+Parsing documentation for descriptive_statistics-1.1.5
+Installing ri documentation for descriptive_statistics-1.1.5
+Parsing documentation for nokogiri-styles-0.1.2
+Installing ri documentation for nokogiri-styles-0.1.2
+Parsing documentation for reverse_markdown-0.5.1
+Installing ri documentation for reverse_markdown-0.5.1
+Parsing documentation for word-to-markdown-1.0.0
+Installing ri documentation for word-to-markdown-1.0.0
+Done installing documentation for descriptive_statistics, nokogiri-styles, reverse_markdown, word-to-markdown after 0 seconds
+4 gems installed
+iMacltksls-2:~ hhe$ 
