@@ -1,8 +1,18 @@
 Sorry this page does not exist =(
 
-<form>
-  <input type="text" id="st-search-input" class="st-search-input" />
+<!--<form class="form-horizontal" role="form">
+  <input type="text" id="st-search-input" class="st-search-input form-control input-lg" placeholder="Suchen"/>
+</form>-->
+
+<form role="form">
+  <div class="form-group">
+    <label for="st-search-input">Suchen</label>
+    <input type="text" class="form-control input-lg" id="st-search-input" placeholder="Suchen">
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
 </form>
+
+
 <script type="text/javascript">
 var Swiftype = window.Swiftype || {};
   (function() {
