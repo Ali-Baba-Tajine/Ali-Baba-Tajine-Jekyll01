@@ -4,7 +4,7 @@ require:
 - bootstrap-sass
 project_path: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
 http_path: /
-css_dir: css
-sass_dir: _sass
+css_dir: assets/css
+sass_dir: assets/_sass
 images_dir: images
-javascripts_dir: javascripts
+javascripts_dir: assets/js
