@@ -5,15 +5,17 @@ header : Changelog
 group: navigation
 ---
 
+{% include JB/setup %}
+
 
 ## HEAD
 
 ### Major Enhancements
 
-### Minor Enahncements
+### Minor Enhancements
   * Add `drafts` folder support (#167)
   * Add `excerpt` support (#168)
-  * Create History.markdown to help project management (#169)
+  * Create History.md to help project management (#169)
 
 ### Bug Fixes
 
