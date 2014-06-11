@@ -6,15 +6,13 @@
 <head>
 {% include head.html %}
 </head>
-
 <body id="page" {% if page.image.feature %}class="feature"{% endif %}>
-
+<div id="wrap">
 {% include browser-upgrade.html %}
 {% include navigation.html %}
-
-
 <div class="container" id="main" role="main">
     {{ content }}
+</div>
 </div>
 <div class="footer-wrapper">
   <footer role="contentinfo">
