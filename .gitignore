@@ -20,3 +20,9 @@ assets_not_used
 _duplicate
 *.zip
 _plugins_notused
+.sass-cache/
+*.scssc
+
+*.scssc
+
+*.scssc

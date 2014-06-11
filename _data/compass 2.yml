@@ -1,0 +1,18 @@
+---
+require:
+- jekyll-compass
+- bootstrap-sass
+project_path: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+http_path: /
+css_dir: assets/css
+sass_dir: assets/_sass
+images_dir: images
+javascripts_dir: assets/js
+
+output_style: compact
+sass_options:
+  unix_newlines: true
+  
+import_paths:
+- assets/bootstrap
+---
