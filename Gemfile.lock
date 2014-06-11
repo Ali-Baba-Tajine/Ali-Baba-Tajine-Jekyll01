@@ -64,6 +64,8 @@ GEM
     jekyll-compass (1.0.6)
       compass (>= 0.12, < 2)
       jekyll (>= 1.3, < 3)
+    jekyll-ebook (0.0.2)
+      pandoc-ruby (~> 0.6.0)
     jekyll-mentions (0.0.6)
       html-pipeline (~> 1.5.0)
       jekyll (~> 1.4)
@@ -97,6 +99,7 @@ GEM
     omniauth (1.2.1)
       hashie (>= 1.2, < 3)
       rack (~> 1.0)
+    pandoc-ruby (0.6.1)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.8)
@@ -156,6 +159,7 @@ DEPENDENCIES
   glynn
   jekyll
   jekyll-compass
+  jekyll-ebook
   jekyll-mentions
   jekyll-redirect-from
   jekyll-sitemap
@@ -164,6 +168,7 @@ DEPENDENCIES
   json
   kramdown
   omniauth (~> 1.2.1)
+  pandoc-ruby
   rake
   redcarpet (~> 2.3)
   stringex

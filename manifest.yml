@@ -1,0 +1,9 @@
+title: Ali Baba Tajine
+author: Harald Haesler
+date: Juni 2014
+
+epub-filename: Ali_Baba_Tajine_Blog.epub
+epub-cover-image: epub/epubcover.jpg
+epub-stylesheet: epub/stylesheet.css
+epub-metadata: epub/metadata.xml
+epub-dir: /epub/rendered/
