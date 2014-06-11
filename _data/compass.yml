@@ -1,7 +1,6 @@
 ---
 require:
 - jekyll-compass
-- bootstrap-sass
 project_path: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
 http_path: /
 css_dir: assets/css
