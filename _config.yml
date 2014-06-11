@@ -85,10 +85,6 @@ JB :
   atom_path : /atom.xml
   rss_path : /rss.xml
 
-  # Settings for comments helper
-  # Set 'provider' to the comment provider you want to use.
-  # Set 'provider' to false to turn commenting off globally.
-  #
   comments :
     provider : disqus
     disqus :
@@ -99,20 +95,12 @@ JB :
       width: 580
       colorscheme: light
    
-  # Settings for analytics helper
-  # Set 'provider' to the analytics provider you want to use.
-  # Set 'provider' to false to turn analytics off globally.
-  #        
   analytics :
     provider : google 
     google : 
         tracking_id : 'UA-123-12'
 
-  # Settings for sharing helper. 
-  # Sharing is for things like tweet, plusone, like, reddit buttons etc.
-  # Set 'provider' to the sharing provider you want to use.
-  # Set 'provider' to false to turn sharing off globally.
-  #
+ 
   sharing :
     provider : true
     
@@ -126,9 +114,6 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
-include: [".htaccess"]
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models", "Gruntfile.js", "assets_not_used"]
   
 jekyll_timeago:
   depth: 2 # Level of detail
@@ -148,3 +133,15 @@ jekyll_timeago:
   week: 'Woche'
   days: 'Tagen'
   day: 'Tag'
+  
+gallerytag:
+  dir: images/galleries
+  url: /images/galleries
+  thumb_width: 150
+  thumb_height: 150
+  columns: 4  
+  
+include: [".htaccess"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models", "Gruntfile.js", "assets_not_used"]
+  
+  
