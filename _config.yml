@@ -134,6 +134,6 @@ gallerytag:
   columns: 4  
   
 include: [".htaccess"]
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models", "Gruntfile.js", "assets_not_used"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models", "Gruntfile.js", "assets_not_used", "SICHERUNGEN"]
   
   
