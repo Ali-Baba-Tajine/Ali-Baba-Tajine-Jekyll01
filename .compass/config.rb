@@ -9,4 +9,4 @@ images_dir = "images"
 javascripts_dir = "assets/js"
 output_style = :expanded
 relative_assets = true
-line_comments = true
+line_comments = false

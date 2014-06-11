@@ -1,11 +1,9 @@
-/* line 1, ../../_sass/leaflet/leaflet_custom.scss */
 html, body {
   height: 100%;
   padding: 0;
   margin: 0;
 }
 
-/* line 7, ../../_sass/leaflet/leaflet_custom.scss */
 #map {
   position: absolute;
   width: 100%;
