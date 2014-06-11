@@ -47,6 +47,7 @@ This excursion was far too big for the beginning and so I must stop immediately.
 
 #### Design
 #### Fahrplan | Roadmap
+[Gitter Chatroom](https://gitter.im/Ali-Baba-Tajine)
 #### Weitere Verbesserungen | Wishlist
 #### Copyright und Lizenz
 
