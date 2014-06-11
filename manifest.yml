@@ -4,6 +4,18 @@ date: Juni 2014
 
 epub-filename: Ali_Baba_Tajine_Blog.epub
 epub-cover-image: epub/epubcover.jpg
-epub-stylesheet: epub/stylesheet.css
+epub-stylesheet: epub/epub.css
 epub-metadata: epub/metadata.xml
 epub-dir: /epub/rendered/
+
+header-items:
+- title
+- author
+- author-note
+- citation
+
+content-dir: ./
+contents: 
+    - section-title: "Rezepte"
+    files:
+    - 2014-06-01-deepvegan.md
