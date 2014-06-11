@@ -36,6 +36,8 @@ gems:
 - jekyll-sitemap
 - jekyll-compass
 - jekyll-timeago
+- jekyll-ebook
+- pandoc-ruby
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
