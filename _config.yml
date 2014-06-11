@@ -8,12 +8,11 @@ author :
 
 production_url : http://ali-baba-tajine.github.io
 permalink: /:categories/:title 
-paginate: 5
+paginate: false
 
 timezone:    Germany/Munich
 future:      true
 highlighter: pygments
-highlighter: true
 markdown: kramdown
 kramdown:
   auto_ids: true
