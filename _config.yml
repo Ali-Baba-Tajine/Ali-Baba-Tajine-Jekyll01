@@ -130,3 +130,21 @@ JB :
 include: [".htaccess"]
 exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models", "Gruntfile.js", "assets_not_used"]
   
+jekyll_timeago:
+  depth: 2 # Level of detail
+  today: 'Heute'
+  yesterday: 'Gestern'
+  tomorrow: 'Morgen'
+  and: 'und'
+  suffix: ''
+  prefix: 'vor'
+  suffix_future: 'in'
+  prefix_future: ''
+  years: 'Jahren'
+  year: 'Jahr'
+  months: 'Monaten'
+  month: 'Monat'
+  weeks: 'Wochen'
+  week: 'Woche'
+  days: 'Tagen'
+  day: 'Tag'
