@@ -7892,11 +7892,6 @@ button.close {
     display: none !important;
   }
 }
-/* line 5, ../_sass/flatly.scss */
-body {
-  padding-top: 60px;
-}
-
 /* line 9, ../_sass/bootswatch/flatly/_bootswatch.scss */
 .navbar {
   border-width: 0;
@@ -8139,4 +8134,37 @@ input:focus {
 .well {
   -webkit-box-shadow: none;
   box-shadow: none;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+/* line 5, ../_sass/_sticky-footer.scss */
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+/* line 11, ../_sass/_sticky-footer.scss */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+/* line 21, ../_sass/_sticky-footer.scss */
+#footer {
+  height: 60px;
+  background-color: gray;
+}
+
+/* line 26, ../_sass/_sticky-footer.scss */
+#footer p {
+  line-height: 30px;
+  margin-bottom: 0px;
 }
