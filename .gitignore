@@ -1,6 +1,5 @@
 _site/*
 _theme_packages/*
-
 Thumbs.db
 .DS_Store
 
@@ -8,15 +7,13 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
-
-.sql
+*.sql
 
 *.espressostorage
 Z_ORIGINAL_BACKUP
 node_modules
 CNAME
 OLD_SITE
-*.sql
 wp_import
 to_integrate
 assets_not_used
