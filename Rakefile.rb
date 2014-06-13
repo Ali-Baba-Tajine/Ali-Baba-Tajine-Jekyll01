@@ -1,6 +1,8 @@
 require "rubygems"
 require "bundler/setup"
 require "stringex"
+require 'date'
+require 'yaml'
 
 ## -- Config -- ##
 
@@ -16,7 +18,7 @@ new_page_ext    = "md"  # default new page file extension when using the new_pag
 
 # usage rake new_post
 desc "Create a new post in #{posts_dir}"
-task :new_post, :title do |t, args|
+task :post, :title do |t, args|
   if args.title
     title = args.title
   else
@@ -47,7 +49,7 @@ end
 
 # usage rake new_page
 desc "Create a new page"
-task :new_page, :title do |t, args|
+task :page, :title do |t, args|
   if args.title
     title = args.title
   else

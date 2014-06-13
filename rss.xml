@@ -3,7 +3,6 @@ layout: nil
 title : RSS Feed
 header : RSS Feed
 group: netz
-
 ---
 
 <?xml version="1.0" encoding="UTF-8" ?>
