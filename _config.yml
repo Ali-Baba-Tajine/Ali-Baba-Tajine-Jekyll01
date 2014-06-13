@@ -8,7 +8,7 @@ author:
   
 
 production_url : http://ali-baba-tajine.github.io
-permalink: /:categories/:title 
+permalink: /:title 
 paginate: 1
 
 timezone:    Germany/Munich
