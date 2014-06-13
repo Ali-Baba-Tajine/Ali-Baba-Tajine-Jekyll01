@@ -1,7 +1,8 @@
 ---
 layout: dropdown
 title: Über uns
-description: "Herzlich willkommen"
+description: "In den Ländern des Maghreb – Algerien, Tunesien und Marokko – ist die Tajine auf dem 
+Land immer noch der Alltagskochtopf"
 tags: [navigation]
 ---
 
@@ -16,7 +17,6 @@ jedoch für den Handel hergestellt, übernehmen Männer diese Arbeit. In den lä
 Regionen leben die Menschen vorwiegend von der Landwirtschaft. Erst wenn die Männer älter 
 werden und die Landarbeit an die Söhne abgeben, fangen sie an Tajines zu töpfern, um damit 
 einen Zuverdienst für die Familie zu sichern.
-vier spitze Tajines
 Die Formen sind verschieden – die spitzen Deckel sind eher arabisch und die halbrunden 
 Deckel gibt es bei den Berbern. In Marokko werden inzwischen etwa 80% aller Tajines mit 
 Glasur versehen. Es gilt als schöner und praktischer, weil die Töpfe leichter zu reinigen wären. 
