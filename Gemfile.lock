@@ -81,6 +81,8 @@ GEM
     jekyll-mentions (0.0.6)
       html-pipeline (~> 1.5.0)
       jekyll (~> 1.4)
+    jekyll-navigation (0.0.1)
+      liquid
     jekyll-redirect-from (0.3.1)
       jekyll (~> 1.4)
     jekyll-sitemap (0.3.0)
@@ -200,6 +202,7 @@ DEPENDENCIES
   jekyll-compass
   jekyll-ebook
   jekyll-mentions
+  jekyll-navigation
   jekyll-redirect-from
   jekyll-sitemap
   jekyll-timeago
