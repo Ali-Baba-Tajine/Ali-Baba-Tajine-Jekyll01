@@ -1,13 +1,26 @@
 ---
 layout: dropdown
 title: Über uns
+category : Backend
+modified: 2014-06-13
+header: Maghreb
 description: "In den Ländern des Maghreb – Algerien, Tunesien und Marokko – ist die Tajine auf dem 
 Land immer noch der Alltagskochtopf"
 tags: [navigation]
+group: info
+navigation:
+  order: 1
+  parent: /portfolio.html
+image:
+  feature: abstract-1.jpg
+  credit: Harald Haesler
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+comments: true
+share: true
 ---
 
 
-Hintergrund
+### Hintergrund
 
 Die Tajine gibt es in ihrer Ursprungsform schon seit tausenden von Jahren.
 In den Ländern des Maghreb – Algerien, Tunesien und Marokko – ist die Tajine auf dem 

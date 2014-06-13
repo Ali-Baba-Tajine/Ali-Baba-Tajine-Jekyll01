@@ -37,7 +37,6 @@ gems:
 - jekyll-timeago
 - jekyll-ebook
 - pandoc-ruby
-- navigation
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -134,6 +133,6 @@ gallerytag:
   columns: 4  
   
 include: [".htaccess"]
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN"]
   
   
