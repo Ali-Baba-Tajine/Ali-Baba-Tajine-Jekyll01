@@ -6,7 +6,7 @@
 <head>
 {% include head.html %}
 </head>
-<body id="page" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="{{ page.title }}" {% if page.image.feature %}class="feature"{% endif %}>
 <div id="wrap">
 {% include browser-upgrade.html %}
 {% include abt_dropdown_navigation.html %}

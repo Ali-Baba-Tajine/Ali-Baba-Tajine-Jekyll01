@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /themen/
+layout: dropdown
 title: "Themen"
 description: 
 modified: 2014-06-13 17:39
