@@ -48,7 +48,7 @@ JB :
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
-  CNAME (http://ali-baba-tajine.github.io)
+  # CNAME (http://ali-baba-tajine.github.io)
   BASE_PATH : false
 
   # ex: 
