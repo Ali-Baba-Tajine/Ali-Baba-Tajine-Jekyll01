@@ -5,6 +5,18 @@ author :
   email : github@tajine.de
   github : consolacao
   twitter : alibabatajine
+  
+owner:
+	name:           Harald Haesler
+	avatar:         avatar.jpg
+	bio:            "Visual Artist: graphics, layouts for print and web, publishing for clients"
+	# Social networking links used in footer. Update and remove as you like.
+	twitter:        alibabatajine
+	facebook:       Harald.Haesler?ref=profile
+	flickr:         70783822@N04
+	tumblr:         haesler 
+	# For Google Authorship https://plus.google.com/authorship
+	google_plus:   https://plus.google.com/105817282553018339451?rel=author
 
 production_url : http://ali-baba-tajine.github.io
 permalink: /:categories/:title 

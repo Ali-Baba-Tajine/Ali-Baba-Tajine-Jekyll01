@@ -65,14 +65,25 @@ task :post do
   
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
-    post.puts "---"
-    post.puts "layout: post"
-    post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    post.puts 'description: ""'
+	post.puts "---"
+	post.puts "layout: post"
+	post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+	post.puts "header: """
+	post.puts "description: """
     post.puts "category: #{category}"
-    post.puts "tags: #{tags}"
-    post.puts "---"
-    post.puts "{% include JB/setup %}"
+	post.puts "group: """
+	post.puts "navigation: """
+	post.puts "  order: """
+	post.puts "  parent: "/""
+	post.puts "image:"
+	post.puts "  feature: x.jpg"
+	post.puts "  credit: Harald Haesler"
+	post.puts "  creditlink: http://www."
+	post.puts "comments: true"
+	post.puts "share: true"
+	post.puts "tags: [#{tags}]"
+	post.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
+	post.puts "---"
   end
 end # task :post
 
