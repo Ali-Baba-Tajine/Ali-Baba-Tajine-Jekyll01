@@ -1,22 +1,11 @@
-title : Ali Baba Tajine
+title: Ali Baba Tajine
 tagline: Das Original
-author :
-  name : Ali Baba Tajine
-  email : github@tajine.de
-  github : consolacao
-  twitter : alibabatajine
+author:
+  name: Ali Baba Tajine
+  email: github@tajine.de
+  github: consolacao
+  twitter: alibabatajine
   
-owner:
-	name:           Harald Haesler
-	avatar:         avatar.jpg
-	bio:            "Visual Artist: graphics, layouts for print and web, publishing for clients"
-	# Social networking links used in footer. Update and remove as you like.
-	twitter:        alibabatajine
-	facebook:       Harald.Haesler?ref=profile
-	flickr:         70783822@N04
-	tumblr:         haesler 
-	# For Google Authorship https://plus.google.com/authorship
-	google_plus:   https://plus.google.com/105817282553018339451?rel=author
 
 production_url : http://ali-baba-tajine.github.io
 permalink: /:categories/:title 
@@ -145,6 +134,6 @@ gallerytag:
   columns: 4  
   
 include: [".htaccess"]
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_models", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN"]
   
   
