@@ -1,0 +1,46 @@
+---
+layout: abtpage
+title: Über uns
+description: "Herzlich willkommen"
+tags: [Jekyll, theme]
+---
+
+
+Hintergrund
+
+Die Tajine gibt es in ihrer Ursprungsform schon seit tausenden von Jahren.
+In den Ländern des Maghreb – Algerien, Tunesien und Marokko – ist die Tajine auf dem 
+Land immer noch der Alltagskochtopf, der in jeder Familie selbst hergestellt wird.
+Aus Tradition fertigt jede Frau ihre eigene Tajine für ihren Haushalt. Werden die Töpfe 
+jedoch für den Handel hergestellt, übernehmen Männer diese Arbeit. In den ländlichen
+Regionen leben die Menschen vorwiegend von der Landwirtschaft. Erst wenn die Männer älter 
+werden und die Landarbeit an die Söhne abgeben, fangen sie an Tajines zu töpfern, um damit 
+einen Zuverdienst für die Familie zu sichern.
+vier spitze Tajines
+Die Formen sind verschieden – die spitzen Deckel sind eher arabisch und die halbrunden 
+Deckel gibt es bei den Berbern. In Marokko werden inzwischen etwa 80% aller Tajines mit 
+Glasur versehen. Es gilt als schöner und praktischer, weil die Töpfe leichter zu reinigen wären. 
+Allerdings gibt es dort kaum Glasuren, die kein Blei enthalten. Nach unserem Lebensmittelrecht 
+dürfte man diese Töpfe nicht zur Zubereitung von Speisen verwenden. Sie eignen sich allenfalls 
+zum Anrichten.
+Eine Tajine kann man mitten auf die Glut stellen und das Kochgut kalt ablöschen. 
+Wer das einmal(!) mit einem industriell gefertigten Römertopf probiert hat, wird sich das kaum 
+vorstellen können.Traditionell hatte dieser aus unbehandeltem Lehm gebrannte Topf einen 
+gewölbten Boden, er wurde zum Garen der Speisen direkt über die Glut gestellt.
+
+
+
+
+<!-- Fügen Sie dieses Tag an der Stelle ein, an der die +1-Schaltfläche erscheinen soll. -->
+<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+
+<!-- Fügen Sie dieses Tag nach dem letzten +1-Schaltfläche-Tag ein. -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'de'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
