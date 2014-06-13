@@ -14,7 +14,7 @@
 <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:creator" content="@{{ site.owner.twitter }}">
 <meta name="twitter:domain" content="{{ site.url }}">{% endif %}
-<meta property="fb:app_id" content="247874644454" /> 
+<!--<meta property="fb:app_id" content="247874644454" /> -->
 <meta property="og:locale" content="de_DE">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
@@ -25,9 +25,8 @@
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
 {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-<script src="http://connect.facebook.net/de_DE/all.js#xfbml=1" type="text/javascript"></script>
+<!--<script src="http://connect.facebook.net/de_DE/all.js#xfbml=1" type="text/javascript"></script>-->
 <link rel="canonical" href="{{ canonical }}">
-<link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 {% if site.owner.google_plus %}<link rel="author" href="{{ site.owner.google_plus }}?rel=author">{% endif %}
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
