@@ -1,7 +1,7 @@
 ---
 layout: dropdown
-title: ""
-header: ""
+title: "Impressum"
+header: "Impressum"
 category: 
 description: ""
 group: info
@@ -12,8 +12,10 @@ image:
   feature: 
   credit: Ali Baba Tajine
   creditlink: http://www.tajine.de/
-comments: true
+comments: false
 share: true
 tags: [navigation]
 modified: 2014-06-14 00:00:00 +0200
 ---
+
+# Impressum
