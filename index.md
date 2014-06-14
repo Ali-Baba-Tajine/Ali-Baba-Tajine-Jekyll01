@@ -43,6 +43,3 @@ gewölbten Boden, er wurde zum Garen der Speisen direkt über die Glut gestellt.
 
 
 
-<div class="container" id="share" role="share">
-	{% include sharebuttons.html %}
-</div>
