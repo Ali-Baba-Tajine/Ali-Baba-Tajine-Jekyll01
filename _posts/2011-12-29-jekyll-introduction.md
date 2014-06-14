@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: abt_post
 category : Lektionen
 tagline: "Supporting tagline"
 tags : [jekyll, structure]
