@@ -6,8 +6,11 @@ group: blog
 ---
 {% include abtsetup.html %}
 
-{% assign categories_list = site.categories %}
-{% include abt_themenliste.html %}
+<ul class="tag_box inline hidden">
+  {% assign categories_list = site.categories %}
+  {% include abt_themenliste.html %}
+</ul>
+
 
 
 {% for category in site.categories %} 
