@@ -111,6 +111,13 @@ gallerytag:
   thumb_width: 150
   thumb_height: 150
   columns: 4  
+
+ftp_host: 'ftp.kochtopfkurs.de.server1367-han.de-nserver.de'
+ftp_dir: '/www.kochtopfkurs.de/jekyll'
+ftp_passive: false
+ftp_port: 21                  
+ftp_username: 'kocqnbxy'     
+ftp_password: 'abt54321'
   
 include: [".htaccess"]
 exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec"]

@@ -1,19 +1,19 @@
 ---
 layout: dropdown
-title: 
-category : 
-modified: 2014-06-13
+title: ""
+category: 
 header: 
 description: ""
-tags: [navigation]
 group: info
 navigation:
   order: 1
   parent: 
 image:
   feature: 
-  credit: Harald Haesler
+  credit: Ali Baba Tajine
   creditlink: http://www.tajine.de/
 comments: true
 share: true
+tags: [navigation]
+modified: 2014-06-14 00:00:00 +0200
 ---
