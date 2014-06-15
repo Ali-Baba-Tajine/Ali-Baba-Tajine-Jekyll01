@@ -1,5 +1,6 @@
 ---
 layout: dropdown
+permalink: /impressum.html
 title: "Impressum"
 header: "Impressum"
 category: 
