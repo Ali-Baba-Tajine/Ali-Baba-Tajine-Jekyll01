@@ -7,9 +7,12 @@ author:
   twitter: alibabatajine
   
 url: http://ali-baba-tajine.github.io
+baseurl: http://ali-baba-tajine.github.io
 production_url : http://ali-baba-tajine.github.io
-permalink: /:title 
+permalink: /:title
+relative_permalinks: false
 paginate: 1
+encoding: utf-8
 
 timezone:    Germany/Munich
 future:      true
