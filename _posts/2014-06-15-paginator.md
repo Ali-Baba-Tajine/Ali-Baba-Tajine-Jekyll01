@@ -3,7 +3,7 @@ layout: post
 title: "paginator"
 description: ""
 category: 
-tags: []
+tags: [code]
 ---
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
