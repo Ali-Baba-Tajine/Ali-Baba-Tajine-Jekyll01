@@ -41,5 +41,9 @@ Wer das einmal(!) mit einem industriell gefertigten Römertopf probiert hat, wir
 vorstellen können.Traditionell hatte dieser aus unbehandeltem Lehm gebrannte Topf einen 
 gewölbten Boden, er wurde zum Garen der Speisen direkt über die Glut gestellt.
 
-
+<div class="jumbotron">
+  <h1>Hello, world!</h1>
+  <p>...</p>
+  <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
+</div>
 
