@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dropdown
 title: "paginator"
 description: ""
 category: 
