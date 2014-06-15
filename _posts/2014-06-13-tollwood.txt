@@ -8,6 +8,6 @@ image:
   feature: 
   credit: 
   creditlink: 
-comments: true
-share: true
+comments: 
+share: 
 ---
