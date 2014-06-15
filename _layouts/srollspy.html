@@ -1,30 +1,5 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="de"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="de"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="de"><!--<![endif]-->
-<html xmlns:fb="http://ogp.me/ns/fb#">
-{% include head.html %}
-</head>
-<body id="{{ page.title }}" {% if page.image.feature %}class="feature"{% endif %}data-spy="scroll" data-target="#spion">
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div id="wrap">
-{% include browser-upgrade.html %}
-{% include abt_dropdown_navigation.html %}
-
-<div class="container" id="main" role="main">
-<div class="row">
-  <div class="col-xs-6 col-md-4">
-  Sidebar with scrollspy
   <div id="spion">
-      <ul class="list-group">
+      <ul class="list-unstyled">
 <li>Anker 1</li>
 <li>Anker 2</li>    
 <li>Anker 3</li>    
@@ -32,21 +7,4 @@
 <li>Anker 5</li>    
 </ul>
  </div>
-  
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-8">
-    <h1 class="">{{ page.title }}</h1>
-    {{ content }}
-  </div>
-</div>
-</div>
-</div>
-<div class="footer-wrapper">
-  <footer role="contentinfo">
-    {% include footer.html %}
-  </footer>
-</div>
-{% include google_analytics.html %}
-{% include scripts.html %}          
-</body>
-</html>
+ 
