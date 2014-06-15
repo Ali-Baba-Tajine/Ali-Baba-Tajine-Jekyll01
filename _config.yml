@@ -7,7 +7,7 @@ author:
   twitter: alibabatajine
   
 url: http://ali-baba-tajine.github.io
-baseurl: http://ali-baba-tajine.github.io
+baseurl: ""
 production_url : http://ali-baba-tajine.github.io
 permalink: /:title
 relative_permalinks: false
