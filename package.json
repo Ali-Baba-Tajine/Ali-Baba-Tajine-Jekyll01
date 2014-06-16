@@ -36,7 +36,7 @@
     "browserify": "4.x.x",
     "browserify-shim": "3.5.x",
     "coffeeify": "0.6.x",
-    "connect": "~2.14.3",
+    "connect": "3.x.x",
     "gulp": "3.x.x",
     "gulp-changed": "0.4.x",
     "gulp-compass": "1.x.x",
