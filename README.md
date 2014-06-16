@@ -5,7 +5,8 @@
 > A Work in Progress …
 
 ### Dependencies and Compilation Checkers
-[![Dependency Status](https://david-dm.org/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io.png?theme=shields.io)](https://david-dm.org/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io) | [![Stories in Ready](https://badge.waffle.io/ali-baba-tajine/ali-baba-tajine.github.io.png?label=ready&title=Ready)](https://waffle.io/ali-baba-tajine/ali-baba-tajine.github.io) | [![Build Status](https://travis-ci.org/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io.svg?branch=master)](https://travis-ci.org/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io) | [![Gitter chat](https://badges.gitter.im/Ali-Baba-Tajine.png)](https://gitter.im/Ali-Baba-Tajine)
+[![Dependency Status](https://david-dm.org/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io.png?theme=shields.io)](https://david-dm.org/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io) | [![Stories in Ready](https://badge.waffle.io/ali-baba-tajine/ali-baba-tajine.github.io.png?label=ready&title=Ready)](https://waffle.io/ali-baba-tajine/ali-baba-tajine.github.io) | [![Build Status](https://travis-ci.org/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io.svg?branch=master)](https://travis-ci.org/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io) | [![Gitter chat](https://badges.gitter.im/Ali-Baba-Tajine.png)](https://gitter.im/Ali-Baba-Tajine) | [![Code Climate](https://img.shields.io/codeclimate/github/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io.svg)](https://codeclimate.com/github/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io)
+
 
 
 
