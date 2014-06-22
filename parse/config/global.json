@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Ali Baba Anypic": {
+            "applicationId": "0xmXyDJP6xffU7HDLctet341Kcy1eiHdYjKR4WaK", 
+            "masterKey": "HCu2bkQIHUBKI51zeSYlr0NQ0wYUOXv1utTW5Q2w"
+        }, 
+        "_default": {
+            "link": "Ali Baba Anypic"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.18"
+    }
+}
