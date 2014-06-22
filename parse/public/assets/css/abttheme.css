@@ -25,11 +25,6 @@ a:focus {
           border-radius: 8px;
 }
 .btn {
-  font-size: 12px;
-  font-weight: bold;
-	-webkit-border-radius: 2px;
-     -moz-border-radius: 2px;
-          border-radius: 2px;
   -webkit-transition: all .2s;
      -moz-transition: all .2s;
       -ms-transition: all .2s;
@@ -62,6 +57,7 @@ a:focus {
   color: #fff;
   background-color: #2a3940;
 }
+
 .loader {
   position: fixed;
   z-index: 100000;
@@ -73,34 +69,34 @@ a:focus {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 40px;
-  height: 40px;
+  width: 55px;
+  height: 55px;
   margin: -20px 0 0 -20px;
   background-image: url(../img/31.gif);
   background-repeat: no-repeat;
   background-position: center center;
 }
-#navbar-top { min-height: 51px }
+#navbar-top { min-height: 60px }
 .navbar-default {
   margin-bottom: 0;
-  background-color: #fff;
+  background-color: #e9d0b6;
   border-top: 0;
   -webkit-border-radius: 0;
      -moz-border-radius: 0;
           border-radius: 0;
-}
+				}
 .navbar-default .navbar-brand {
   font-weight: 600;
-  text-transform: uppercase;
+	font-size: 20px;
 }
 .navbar-default .navbar-nav > li > a {
   font-weight: 600;
-  text-transform: uppercase;
+	font-size: 20px;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #0093cf;
+  color: #6666af;
   background-color: transparent;
 }
 .navbar-default .navbar-toggle { border-color: transparent }
@@ -136,24 +132,25 @@ a:focus {
   background-image: url(../img/cover/zellpat01.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
 }
 #home h1 {
   margin-top: 0;
   margin-bottom: 20px;
   font-size: 120px;
+	font-weight: 900;
+}
+#home h2 {
+  margin-top: 0;
+  margin-bottom: 60px;
+  font-size: 90px;
+	font-weight: 300;
 }
 #home a { margin: 0 5px }
 #home h3 {
   margin-top: 20px;
   margin-bottom: 0;
 }
-#services {
-  background-color: #f5f5f5;
-  border-bottom: solid 1px #e7e7e7;
-}
-#services .service i { margin-top: 60px }
-#services .service:hover i { color: #71be3c }
+
 #work .heading p { margin-bottom: 60px }
 #portfolio { width: 100% }
 #portfolio .filters { margin-bottom: 20px }
@@ -212,16 +209,7 @@ a:focus {
   color: #fff;
   background-color: #2a3940;
 }
-#testimonials .item { margin-bottom: 30px }
-#testimonials .quote {
-  padding: 0 90px;
-  font-size: 16px;
-}
-#testimonials .quote:before {
-  margin-right: 10px;
-  font-family: fontawesome;
-  content: '\f10d';
-}
+
 
 #about .content { padding-bottom: 0 }
 #about .teammate { 
