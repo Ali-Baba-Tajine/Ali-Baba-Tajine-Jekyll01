@@ -1,11 +1,4 @@
-/*
 
-Merlin - Responsive One Page Template
-Version: 1.0
-By: Hasan Alibegic, hasan461@gmail.com
-License: Apache License v2.0
-
-*/
 body {
   font-family: 'Source Sans Pro', sans-serif;
   color: #444;
@@ -34,8 +27,7 @@ a:focus {
 .btn {
   font-size: 12px;
   font-weight: bold;
-  text-transform: uppercase;
-  -webkit-border-radius: 2px;
+	-webkit-border-radius: 2px;
      -moz-border-radius: 2px;
           border-radius: 2px;
   -webkit-transition: all .2s;
@@ -84,7 +76,7 @@ a:focus {
   width: 40px;
   height: 40px;
   margin: -20px 0 0 -20px;
-  background-image: url(../img/fading-line.gif);
+  background-image: url(../img/31.gif);
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -141,7 +133,7 @@ a:focus {
 #home {
   padding: 0;
   color: #fff;
-  background-image: url(../img/cover/home.jpg);
+  background-image: url(../img/cover/zellpat01.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -149,7 +141,7 @@ a:focus {
 #home h1 {
   margin-top: 0;
   margin-bottom: 20px;
-  font-size: 60px;
+  font-size: 120px;
 }
 #home a { margin: 0 5px }
 #home h3 {
@@ -230,40 +222,7 @@ a:focus {
   font-family: fontawesome;
   content: '\f10d';
 }
-#testimonials .client { color: #ccc }
-#testimonials .carousel-indicators li {
-  width: 9px;
-  height: 9px;
-  border-color: #a6a6a6;
-  -webkit-border-radius: 2px;
-     -moz-border-radius: 2px;
-          border-radius: 2px;
-  -webkit-transition: all 0.25s linear;
-     -moz-transition: all 0.25s linear;
-       -o-transition: all 0.25s linear;
-          transition: all 0.25s linear;
-}
-#testimonials .carousel-indicators li:hover,
-#testimonials .carousel-indicators li:focus { border-color: #fff }
-#testimonials .carousel-indicators .active {
-  width: 9px;
-  height: 9px;
-  margin: 1px;
-  background-color: #71be3c;
-  border-color: #fff;
-}
-#testimonials .carousel-indicators {
-  bottom: 0;
-  margin-bottom: 0;
-}
-#testimonials .carousel-control {
-  top: 15%;
-  width: 0%;
-  display: none;
-  font-size: 40px;
-  background-image: none;
-  text-shadow: none;
-}
+
 #about .content { padding-bottom: 0 }
 #about .teammate { 
   margin-top: 60px; 
