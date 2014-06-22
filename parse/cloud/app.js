@@ -18,9 +18,9 @@ app.post('/send_email', function(req, res) {
   var Email = Parse.Object.extend("Email");
   var email = new Email({ email: req.body.email });
   email.save().then(function() {
-    res.render('home', { message: "Congrats, we'll contact you when we release!" });
+    res.render('home', { message: "Vielen Dank! Sie werden benachrichtigt." });
   }, function() {
-    res.send('Oops, something went wrong!');
+    res.send('Oops, da ist etwas schief gelaufen!');
   });
 });
 
