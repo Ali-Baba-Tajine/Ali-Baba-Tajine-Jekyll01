@@ -10,10 +10,11 @@ url:
 baseurl:
 production_url:
 permalink: /:categories/:title.html
+relative_permalinks: false
 encoding: utf-8
 
-timezone:    Germany/Munich
-future:      true
+timezone: Germany/Munich
+future: true
 highlighter: pygments
 markdown: kramdown
 kramdown:
@@ -30,54 +31,6 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-
-# All Jekyll-Bootstrap specific configurations are namespaced into this hash
-#
-JB :
-  version : 0.3.0
-
-  # All links will be namespaced by BASE_PATH if defined.
-  # Links in your website should always be prefixed with {{BASE_PATH}}
-  # however this value will be dynamically changed depending on your deployment situation.
-  #
-  # CNAME (http://ali-baba-tajine.github.io)
-  BASE_PATH : false
-
-  # ex: 
-  #   http://s3.amazonaws.com/yoursite/themes/watermelon
-  #   /assets
-  #
-  ASSET_PATH : false
-  
-  # These paths are to the main pages Jekyll-Bootstrap ships with.
-  # Some JB helpers refer to these paths; change them here if needed.
-  #
-  archive_path: /archive.html
-  categories_path : /kategorien.html
-  tags_path : /themen.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
-
-  comments :
-    provider : disqus
-    disqus :
-      short_name : alibabatajine
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
-   
-  analytics :
-    provider : google 
-    google : 
-        tracking_id : 'UA-123-12'
-
- 
-  sharing :
-    provider : true
-    
-    
 jekyll_timeago:
   depth: 2 # Level of detail
   today: 'Heute'
@@ -97,21 +50,8 @@ jekyll_timeago:
   days: 'Tagen'
   day: 'Tag'
   
-gallerytag:
-  dir: /images/galleries
-  url: /images/galleries
-  thumb_width: 150
-  thumb_height: 150
-  columns: 4  
-
-ftp_host: 'ftp.kochtopfkurs.de.server1367-han.de-nserver.de'
-ftp_dir: '/www.kochtopfkurs.de/jekyll'
-ftp_passive: false
-ftp_port: 21                  
-ftp_username: 'kocqnbxy'     
-ftp_password: 'abt54321'
   
 include: [".htaccess"]
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec", "parse", "minify.sh", "config"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec", "parse", "minify.sh", "config", "sass_default"]
   
   
