@@ -11,9 +11,9 @@
     <title xml:lang="en"></title>
     <atom:link type="application/atom+xml" href="http://mamp:8888//feed.xml" rel="self"/>
     <link>http://mamp:8888//</link>
-    <pubDate>Tue, 08 Jul 2014 20:45:04 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Jul 2014 20:45:04 +0000</lastBuildDate>
-    <language>en-US</language>
+    <pubDate>Tue, 08 Jul 2014 21:13:25 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Jul 2014 21:13:25 +0000</lastBuildDate>
+    <language>de-DE</language>
     <description></description>
     
       <item>
@@ -123,6 +123,87 @@
         <pubDate>Sat, 31 May 2014 00:00:00 +0000</pubDate>
         <link>http://mamp:8888//code/snippets.html</link>
         <guid isPermaLink="true">http://mamp:8888//code/snippets.html</guid>
+      </item>
+    
+      <item>
+        <title>Nick DiMatteo</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/nick-dimatteo.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Mar 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//nick-dimatteo.html</link>
+        <guid isPermaLink="true">http://mamp:8888//nick-dimatteo.html</guid>
+      </item>
+    
+      <item>
+        <title>20jeans</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/20jeans.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Mar 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//20jeans.html</link>
+        <guid isPermaLink="true">http://mamp:8888//20jeans.html</guid>
+      </item>
+    
+      <item>
+        <title>Unroll.Me</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/unrollme.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//unrollme.html</link>
+        <guid isPermaLink="true">http://mamp:8888//unrollme.html</guid>
+      </item>
+    
+      <item>
+        <title>Robinhood</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/robinhood.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//robinhood.html</link>
+        <guid isPermaLink="true">http://mamp:8888//robinhood.html</guid>
+      </item>
+    
+      <item>
+        <title>Themeclue</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/themeclue.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//themeclue.html</link>
+        <guid isPermaLink="true">http://mamp:8888//themeclue.html</guid>
+      </item>
+    
+      <item>
+        <title>Red Antler</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/redantler.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//redantler.html</link>
+        <guid isPermaLink="true">http://mamp:8888//redantler.html</guid>
+      </item>
+    
+      <item>
+        <title>Newsweek</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/newsweek.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Feb 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//newsweek.html</link>
+        <guid isPermaLink="true">http://mamp:8888//newsweek.html</guid>
+      </item>
+    
+      <item>
+        <title>Little</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/little.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Feb 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//little.html</link>
+        <guid isPermaLink="true">http://mamp:8888//little.html</guid>
+      </item>
+    
+      <item>
+        <title>Engine Yard</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/screenshots/engine-yard.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+        <link>http://mamp:8888//engine-yard.html</link>
+        <guid isPermaLink="true">http://mamp:8888//engine-yard.html</guid>
       </item>
     
   </channel>
