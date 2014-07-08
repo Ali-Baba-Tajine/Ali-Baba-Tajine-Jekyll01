@@ -9,7 +9,7 @@ author:
 url: http://ali-baba-tajine.github.io
 baseurl: ""
 production_url : http://ali-baba-tajine.github.io
-permalink: /:title
+permalink: /:categories/:title.html
 relative_permalinks: false
 paginate: 1
 encoding: utf-8
@@ -32,15 +32,6 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-gems:
-- jekyll-mentions
-- jemoji
-- jekyll-redirect-from
-- jekyll-sitemap
-- jekyll-compass
-- jekyll-timeago
-- jekyll-ebook
-- pandoc-ruby
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -123,6 +114,6 @@ ftp_username: 'kocqnbxy'
 ftp_password: 'abt54321'
   
 include: [".htaccess"]
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec", "parse"]
   
   

@@ -1,12 +1,11 @@
 # Require any additional compass plugins here.
-require 'bootstrap-sass'
 project_type = :stand_alone
-css_dir = "assets/css"
-sass_dir = "assets/_sass"
-fonts_dir = "assets/fonts"
-svg_dir = "assets/svg"
-images_dir = "images"
-javascripts_dir = "assets/js"
+css_dir = "css"
+sass_dir = "_scss"
+fonts_dir = "fonts"
+svg_dir = "svg"
+images_dir = "img"
+javascripts_dir = "js"
 output_style = :expanded
-relative_assets = true
+relative_assets = false
 line_comments = false
