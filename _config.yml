@@ -6,12 +6,10 @@ author:
   github: consolacao
   twitter: alibabatajine
   
-url: http://ali-baba-tajine.github.io
-baseurl: ""
-production_url: http://ali-baba-tajine.github.io
+url:
+baseurl:
+production_url:
 permalink: /:categories/:title.html
-relative_permalinks: false
-paginate: 1
 encoding: utf-8
 
 timezone:    Germany/Munich
