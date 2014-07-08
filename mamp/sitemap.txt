@@ -6,7 +6,6 @@
 /atom.xml
 /beitraege.html
 /blog.html
-/feed.xml
 /hovereffects.html
 /impressum.html
 /index.html
@@ -19,4 +18,4 @@
 /tags.html
 /themen.html
 
-/Snippets.html
+/code/snippets.html
