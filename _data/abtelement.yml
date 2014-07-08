@@ -1,0 +1,35 @@
+- categories: [termin, aktuell]
+  number: 1
+  logo: H
+  link:
+  name: Tollwood Festival
+  hausplatz: Olympiapark
+  strasse: 
+  plz: 
+  ort: München
+  datumstart1: 02. Juli 2014
+  datumstart2:
+  datumende: 27. Juli 2014
+  uhrzeitvon: Ab 11 Uhr
+  uhrzeitbis: Bis 23 Uhr
+  
+- categories: [termin, aktuell]
+  number: 2
+  logo: H
+  name: vhs Kochtopfkurs
+  hausplatz: Umweltstation
+  strasse: 
+  plz: 87764
+  ort: Legau
+  datumstart1: 02. Juli 2014
+  datumstart2:
+  datumende: 27. Juli 2014
+  uhrzeitvon: Ab 11 Uhr
+  uhrzeitbis: Bis 23 Uhr
+  
+
+- categories: [other, nonmetal]
+  number: 1
+  symbol: H
+  name: Tollwood Festival
+  weight: 1.00794
