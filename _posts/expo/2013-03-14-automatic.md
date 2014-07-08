@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "Automatic"
 slug: automatic
 source: http://automatic.com

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "Hidden Depth"
 slug: hidden-depth
 source: http://hiddendepth.ie/

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "SoundReady"
 slug: soundready
 source: http://soundready.fm

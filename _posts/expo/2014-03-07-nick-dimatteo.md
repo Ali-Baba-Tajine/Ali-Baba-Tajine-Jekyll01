@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "Nick DiMatteo"
 slug: nickdimatteo
 source: http://nickdimatteo.com

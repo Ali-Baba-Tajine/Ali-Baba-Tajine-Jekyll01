@@ -1,0 +1,24 @@
+# Dependencies
+pygments:         false
+
+
+# Permalinks
+permalink:        pretty
+
+
+# Settings
+destination:      ./_gh_pages
+exclude:          ["README.md"]
+paginate:         10
+encoding:         UTF-8
+future:           false
+name:             Bootstrap Expo
+url:              http://expo.getbootstrap.com
+
+
+# Links
+expo_repo:        https://github.com/twbs/bootstrap-expo/
+expo_new_issue:   https://github.com/twbs/bootstrap-expo/issues/new
+
+docs:             http://getbootstrap.com
+blog:             http://blog.getbootstrap.com

@@ -5,126 +5,17 @@
         <description>Ali Baba Tajine - Ali Baba Tajine</description>
         <link></link>
         <link></link>
-        <lastBuildDate>2014-07-08T21:13:25+00:00</lastBuildDate>
-        <pubDate>2014-07-08T21:13:25+00:00</pubDate>
+        <lastBuildDate>2014-07-08T22:44:49+00:00</lastBuildDate>
+        <pubDate>2014-07-08T22:44:49+00:00</pubDate>
         <ttl>1800</ttl>
 
-
-        <item>
-                <title>Snippets</title>
-                <description>&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;Syntax highlighting&lt;/a&gt; is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;/p&gt;
-
-&lt;h3 id=&quot;pygments-code-blocks&quot;&gt;Pygments Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/assets/less/pygments.less&lt;/code&gt; and compile &lt;code&gt;main.less&lt;/code&gt; with your favorite preprocessor. Or edit &lt;code&gt;main.css&lt;/code&gt; if that’s your thing, the classes you want to modify all begin with &lt;code&gt;.highlight&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Line numbering enabled:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;pagination&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navigation&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;     {% if page.previous %}
-&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt;         &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ site.url }}{{ page.previous.url }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ page.previous.title }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt;     {% endif %}
-&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt;     {% if page.next %}
-&lt;span class=&quot;lineno&quot;&gt;6&lt;/span&gt;         &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ site.url }}{{ page.next.url }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ page.next.title }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;7&lt;/span&gt;     {% endif %}
-&lt;span class=&quot;lineno&quot;&gt;8&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;index.html&amp;#39;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;_layouts&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_index.html&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_title_prefix&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Tagged: &amp;#39;&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_title_suffix&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;amp;#8211;&amp;#39;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;description&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&amp;quot;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;standard-code-block&quot;&gt;Standard Code Block&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&amp;gt;
-    {% if page.previous %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
-    {% endif %}
-    {% if page.next %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
-    {% endif %}
-&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&quot;fenced-code-blocks&quot;&gt;Fenced Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/assets/less/coderay.less&lt;/code&gt; and compile &lt;code&gt;main.less&lt;/code&gt; with your favorite preprocessor. Or edit &lt;code&gt;main.css&lt;/code&gt; if that’s your thing, the classes you want to modify all begin with &lt;code&gt;.coderay&lt;/code&gt;. Line numbers and a few other things can be modified in &lt;code&gt;_config.yml&lt;/code&gt; under &lt;code&gt;coderay&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div&gt;&lt;div class=&quot;CodeRay&quot;&gt;
-  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;id&quot;&gt;#container&lt;/span&gt; {
-    &lt;span class=&quot;key&quot;&gt;float&lt;/span&gt;: &lt;span class=&quot;value&quot;&gt;left&lt;/span&gt;;
-    &lt;span class=&quot;key&quot;&gt;margin&lt;/span&gt;: &lt;span class=&quot;float&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;float&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;float&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;float&quot;&gt;0&lt;/span&gt;;
-    &lt;span class=&quot;key&quot;&gt;width&lt;/span&gt;: &lt;span class=&quot;float&quot;&gt;100%&lt;/span&gt;;
-}
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div&gt;&lt;div class=&quot;CodeRay&quot;&gt;
-  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;attribute-name&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;pagination&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;attribute-name&quot;&gt;role&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;navigation&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;gt;&lt;/span&gt;
-    {% if page.previous %}
-        &lt;span class=&quot;tag&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;attribute-name&quot;&gt;href&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;{{ site.url }}{{ page.previous.url }}&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;attribute-name&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;btn&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;attribute-name&quot;&gt;title&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;{{ page.previous.title }}&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;tag&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-    {% if page.next %}
-        &lt;span class=&quot;tag&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;attribute-name&quot;&gt;href&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;{{ site.url }}{{ page.next.url }}&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;attribute-name&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;btn&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;attribute-name&quot;&gt;title&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;{{ page.next.title }}&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;tag&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-&lt;span class=&quot;tag&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;comment&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div&gt;&lt;div class=&quot;CodeRay&quot;&gt;
-  &lt;div class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;keyword&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;Jekyll&lt;/span&gt;
-  &lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;class&quot;&gt;TagIndex&lt;/span&gt; &amp;lt; &lt;span class=&quot;constant&quot;&gt;Page&lt;/span&gt;
-    &lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;function&quot;&gt;initialize&lt;/span&gt;(site, base, dir, tag)
-      &lt;span class=&quot;instance-variable&quot;&gt;@site&lt;/span&gt; = site
-      &lt;span class=&quot;instance-variable&quot;&gt;@base&lt;/span&gt; = base
-      &lt;span class=&quot;instance-variable&quot;&gt;@dir&lt;/span&gt; = dir
-      &lt;span class=&quot;instance-variable&quot;&gt;@name&lt;/span&gt; = &lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;index.html&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;
-      &lt;span class=&quot;predefined-constant&quot;&gt;self&lt;/span&gt;.process(&lt;span class=&quot;instance-variable&quot;&gt;@name&lt;/span&gt;)
-      &lt;span class=&quot;predefined-constant&quot;&gt;self&lt;/span&gt;.read_yaml(&lt;span class=&quot;constant&quot;&gt;File&lt;/span&gt;.join(base, &lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;_layouts&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;), &lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;tag_index.html&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;)
-      &lt;span class=&quot;predefined-constant&quot;&gt;self&lt;/span&gt;.data[&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;] = tag
-      tag_title_prefix = site.config[&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;] || &lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;Tagged: &lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;
-      tag_title_suffix = site.config[&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;tag_title_suffix&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;] || &lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;&amp;amp;#8211;&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;
-      &lt;span class=&quot;predefined-constant&quot;&gt;self&lt;/span&gt;.data[&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;] = &lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;inline&quot;&gt;&lt;span class=&quot;inline-delimiter&quot;&gt;#{&lt;/span&gt;tag_title_prefix&lt;span class=&quot;inline-delimiter&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;inline&quot;&gt;&lt;span class=&quot;inline-delimiter&quot;&gt;#{&lt;/span&gt;tag&lt;span class=&quot;inline-delimiter&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;
-      &lt;span class=&quot;predefined-constant&quot;&gt;self&lt;/span&gt;.data[&lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&#39;&lt;/span&gt;&lt;/span&gt;] = &lt;span class=&quot;string&quot;&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;inline&quot;&gt;&lt;span class=&quot;inline-delimiter&quot;&gt;#{&lt;/span&gt;tag&lt;span class=&quot;inline-delimiter&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;content&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;&amp;quot;&lt;/span&gt;&lt;/span&gt;
-    &lt;span class=&quot;keyword&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;keyword&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;keyword&quot;&gt;end&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-                <link>/code/snippets.html</link>
-                <guid>/code/snippets</guid>
-                <pubDate>2014-05-31T00:00:00+00:00</pubDate>
-        </item>
 
         <item>
                 <title>Nick DiMatteo</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/nick-dimatteo.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/nick-dimatteo.html</link>
-                <guid>/nick-dimatteo</guid>
+                <link>/expo/nick-dimatteo.html</link>
+                <guid>/expo/nick-dimatteo</guid>
                 <pubDate>2014-03-07T00:00:00+00:00</pubDate>
         </item>
 
@@ -132,8 +23,8 @@
                 <title>20jeans</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/20jeans.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/20jeans.html</link>
-                <guid>/20jeans</guid>
+                <link>/expo/20jeans.html</link>
+                <guid>/expo/20jeans</guid>
                 <pubDate>2014-03-07T00:00:00+00:00</pubDate>
         </item>
 
@@ -141,8 +32,8 @@
                 <title>Unroll.Me</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/unrollme.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/unrollme.html</link>
-                <guid>/unrollme</guid>
+                <link>/expo/unrollme.html</link>
+                <guid>/expo/unrollme</guid>
                 <pubDate>2014-02-26T00:00:00+00:00</pubDate>
         </item>
 
@@ -150,8 +41,8 @@
                 <title>Robinhood</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/robinhood.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/robinhood.html</link>
-                <guid>/robinhood</guid>
+                <link>/expo/robinhood.html</link>
+                <guid>/expo/robinhood</guid>
                 <pubDate>2014-02-26T00:00:00+00:00</pubDate>
         </item>
 
@@ -159,8 +50,8 @@
                 <title>Themeclue</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/themeclue.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/themeclue.html</link>
-                <guid>/themeclue</guid>
+                <link>/expo/themeclue.html</link>
+                <guid>/expo/themeclue</guid>
                 <pubDate>2014-02-24T00:00:00+00:00</pubDate>
         </item>
 
@@ -168,8 +59,8 @@
                 <title>Red Antler</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/redantler.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/redantler.html</link>
-                <guid>/redantler</guid>
+                <link>/expo/redantler.html</link>
+                <guid>/expo/redantler</guid>
                 <pubDate>2014-02-24T00:00:00+00:00</pubDate>
         </item>
 
@@ -177,8 +68,8 @@
                 <title>Newsweek</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/newsweek.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/newsweek.html</link>
-                <guid>/newsweek</guid>
+                <link>/expo/newsweek.html</link>
+                <guid>/expo/newsweek</guid>
                 <pubDate>2014-02-12T00:00:00+00:00</pubDate>
         </item>
 
@@ -186,8 +77,8 @@
                 <title>Little</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/little.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/little.html</link>
-                <guid>/little</guid>
+                <link>/expo/little.html</link>
+                <guid>/expo/little</guid>
                 <pubDate>2014-02-12T00:00:00+00:00</pubDate>
         </item>
 
@@ -195,8 +86,8 @@
                 <title>Engine Yard</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/engine-yard.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/engine-yard.html</link>
-                <guid>/engine-yard</guid>
+                <link>/expo/engine-yard.html</link>
+                <guid>/expo/engine-yard</guid>
                 <pubDate>2014-02-10T00:00:00+00:00</pubDate>
         </item>
 
@@ -204,8 +95,8 @@
                 <title>Ditto</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/ditto.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/ditto.html</link>
-                <guid>/ditto</guid>
+                <link>/expo/ditto.html</link>
+                <guid>/expo/ditto</guid>
                 <pubDate>2014-02-10T00:00:00+00:00</pubDate>
         </item>
 
@@ -213,8 +104,8 @@
                 <title>Ooomf</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/ooomf-2.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/ooomf.html</link>
-                <guid>/ooomf</guid>
+                <link>/expo/ooomf.html</link>
+                <guid>/expo/ooomf</guid>
                 <pubDate>2014-02-07T00:00:00+00:00</pubDate>
         </item>
 
@@ -222,8 +113,8 @@
                 <title>Hyde + Hyde</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/hydearchitects.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/hyde-hyde.html</link>
-                <guid>/hyde-hyde</guid>
+                <link>/expo/hyde-hyde.html</link>
+                <guid>/expo/hyde-hyde</guid>
                 <pubDate>2014-02-07T00:00:00+00:00</pubDate>
         </item>
 
@@ -231,8 +122,8 @@
                 <title>Involvio</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/involvio.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/involvio.html</link>
-                <guid>/involvio</guid>
+                <link>/expo/involvio.html</link>
+                <guid>/expo/involvio</guid>
                 <pubDate>2014-02-05T00:00:00+00:00</pubDate>
         </item>
 
@@ -240,8 +131,8 @@
                 <title>GRK Fresh</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/grkfresh.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/grkfresh.html</link>
-                <guid>/grkfresh</guid>
+                <link>/expo/grkfresh.html</link>
+                <guid>/expo/grkfresh</guid>
                 <pubDate>2014-02-05T00:00:00+00:00</pubDate>
         </item>
 
@@ -249,8 +140,8 @@
                 <title>Webflow</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/webflow.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/webflow.html</link>
-                <guid>/webflow</guid>
+                <link>/expo/webflow.html</link>
+                <guid>/expo/webflow</guid>
                 <pubDate>2014-02-04T00:00:00+00:00</pubDate>
         </item>
 
@@ -258,8 +149,8 @@
                 <title>Playboard</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/playboard.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/playboard.html</link>
-                <guid>/playboard</guid>
+                <link>/expo/playboard.html</link>
+                <guid>/expo/playboard</guid>
                 <pubDate>2014-02-03T00:00:00+00:00</pubDate>
         </item>
 
@@ -267,8 +158,8 @@
                 <title>MAN Super</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/mansuper.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/mansuper.html</link>
-                <guid>/mansuper</guid>
+                <link>/expo/mansuper.html</link>
+                <guid>/expo/mansuper</guid>
                 <pubDate>2014-01-06T00:00:00+00:00</pubDate>
         </item>
 
@@ -276,8 +167,8 @@
                 <title>WildPhotos</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/wildphotos.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/wildphotos.html</link>
-                <guid>/wildphotos</guid>
+                <link>/expo/wildphotos.html</link>
+                <guid>/expo/wildphotos</guid>
                 <pubDate>2013-12-23T00:00:00+00:00</pubDate>
         </item>
 
@@ -285,8 +176,8 @@
                 <title>Blimp</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/blimp.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/blimp.html</link>
-                <guid>/blimp</guid>
+                <link>/expo/blimp.html</link>
+                <guid>/expo/blimp</guid>
                 <pubDate>2013-12-23T00:00:00+00:00</pubDate>
         </item>
 
@@ -294,8 +185,8 @@
                 <title>Todaymade</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/todaymade.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/todaymade.html</link>
-                <guid>/todaymade</guid>
+                <link>/expo/todaymade.html</link>
+                <guid>/expo/todaymade</guid>
                 <pubDate>2013-12-20T00:00:00+00:00</pubDate>
         </item>
 
@@ -303,8 +194,8 @@
                 <title>Flow for Instagram</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/flow-for-instagram.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/flow-for-instagram.html</link>
-                <guid>/flow-for-instagram</guid>
+                <link>/expo/flow-for-instagram.html</link>
+                <guid>/expo/flow-for-instagram</guid>
                 <pubDate>2013-12-20T00:00:00+00:00</pubDate>
         </item>
 
@@ -312,8 +203,8 @@
                 <title>Differential</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/differential.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/differential.html</link>
-                <guid>/differential</guid>
+                <link>/expo/differential.html</link>
+                <guid>/expo/differential</guid>
                 <pubDate>2013-12-18T00:00:00+00:00</pubDate>
         </item>
 
@@ -321,8 +212,8 @@
                 <title>Exosource</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/exosource.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/exosource.html</link>
-                <guid>/exosource</guid>
+                <link>/expo/exosource.html</link>
+                <guid>/expo/exosource</guid>
                 <pubDate>2013-11-13T00:00:00+00:00</pubDate>
         </item>
 
@@ -330,8 +221,8 @@
                 <title>Hidden Depth</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/hidden-depth.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/hidden-depth.html</link>
-                <guid>/hidden-depth</guid>
+                <link>/expo/hidden-depth.html</link>
+                <guid>/expo/hidden-depth</guid>
                 <pubDate>2013-08-15T00:00:00+00:00</pubDate>
         </item>
 
@@ -339,8 +230,8 @@
                 <title>Black Swan State Theatre Company</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/black-swan-state-theatre-company.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/black-swan-state-theatre-company.html</link>
-                <guid>/black-swan-state-theatre-company</guid>
+                <link>/expo/black-swan-state-theatre-company.html</link>
+                <guid>/expo/black-swan-state-theatre-company</guid>
                 <pubDate>2013-08-15T00:00:00+00:00</pubDate>
         </item>
 
@@ -348,8 +239,8 @@
                 <title>STYLIGHT</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/stylight.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/stylight.html</link>
-                <guid>/stylight</guid>
+                <link>/expo/stylight.html</link>
+                <guid>/expo/stylight</guid>
                 <pubDate>2013-08-12T00:00:00+00:00</pubDate>
         </item>
 
@@ -357,8 +248,8 @@
                 <title>Localcrime</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/localcrime.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/localcrime.html</link>
-                <guid>/localcrime</guid>
+                <link>/expo/localcrime.html</link>
+                <guid>/expo/localcrime</guid>
                 <pubDate>2013-08-08T00:00:00+00:00</pubDate>
         </item>
 
@@ -366,8 +257,8 @@
                 <title>Coinbase</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/coinbase.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/coinbase.html</link>
-                <guid>/coinbase</guid>
+                <link>/expo/coinbase.html</link>
+                <guid>/expo/coinbase</guid>
                 <pubDate>2013-08-06T00:00:00+00:00</pubDate>
         </item>
 
@@ -375,8 +266,8 @@
                 <title>Fortrabbit</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/fortrabbit.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/fortrabbit.html</link>
-                <guid>/fortrabbit</guid>
+                <link>/expo/fortrabbit.html</link>
+                <guid>/expo/fortrabbit</guid>
                 <pubDate>2013-08-05T00:00:00+00:00</pubDate>
         </item>
 
@@ -384,8 +275,8 @@
                 <title>Smart Design</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/smart-design.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/smart-design.html</link>
-                <guid>/smart-design</guid>
+                <link>/expo/smart-design.html</link>
+                <guid>/expo/smart-design</guid>
                 <pubDate>2013-08-01T00:00:00+00:00</pubDate>
         </item>
 
@@ -393,8 +284,8 @@
                 <title>Gabriel Valdivia</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/gabriel-valdivia.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/gabriel-valdivia.html</link>
-                <guid>/gabriel-valdivia</guid>
+                <link>/expo/gabriel-valdivia.html</link>
+                <guid>/expo/gabriel-valdivia</guid>
                 <pubDate>2013-07-29T00:00:00+00:00</pubDate>
         </item>
 
@@ -402,8 +293,8 @@
                 <title>MOX</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/mox.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/mox.html</link>
-                <guid>/mox</guid>
+                <link>/expo/mox.html</link>
+                <guid>/expo/mox</guid>
                 <pubDate>2013-07-25T00:00:00+00:00</pubDate>
         </item>
 
@@ -411,8 +302,8 @@
                 <title>Les Bonbecs</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/les-bonbecs.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/les-bonbecs.html</link>
-                <guid>/les-bonbecs</guid>
+                <link>/expo/les-bonbecs.html</link>
+                <guid>/expo/les-bonbecs</guid>
                 <pubDate>2013-07-22T00:00:00+00:00</pubDate>
         </item>
 
@@ -420,8 +311,8 @@
                 <title>Cecchi</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/cecchi.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/cecchi.html</link>
-                <guid>/cecchi</guid>
+                <link>/expo/cecchi.html</link>
+                <guid>/expo/cecchi</guid>
                 <pubDate>2013-07-19T00:00:00+00:00</pubDate>
         </item>
 
@@ -429,8 +320,8 @@
                 <title>Infinum</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/infinum.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/infinum.html</link>
-                <guid>/infinum</guid>
+                <link>/expo/infinum.html</link>
+                <guid>/expo/infinum</guid>
                 <pubDate>2013-07-16T00:00:00+00:00</pubDate>
         </item>
 
@@ -438,8 +329,8 @@
                 <title>Inc</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/inc.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/inc.html</link>
-                <guid>/inc</guid>
+                <link>/expo/inc.html</link>
+                <guid>/expo/inc</guid>
                 <pubDate>2013-06-21T00:00:00+00:00</pubDate>
         </item>
 
@@ -447,8 +338,8 @@
                 <title>Sentry</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/sentry.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/sentry.html</link>
-                <guid>/sentry</guid>
+                <link>/expo/sentry.html</link>
+                <guid>/expo/sentry</guid>
                 <pubDate>2013-05-09T00:00:00+00:00</pubDate>
         </item>
 
@@ -456,8 +347,8 @@
                 <title>Laravel</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/laravel.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/laravel.html</link>
-                <guid>/laravel</guid>
+                <link>/expo/laravel.html</link>
+                <guid>/expo/laravel</guid>
                 <pubDate>2013-05-07T00:00:00+00:00</pubDate>
         </item>
 
@@ -465,8 +356,8 @@
                 <title>Grunt</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/gruntjs.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/gruntjs.html</link>
-                <guid>/gruntjs</guid>
+                <link>/expo/gruntjs.html</link>
+                <guid>/expo/gruntjs</guid>
                 <pubDate>2013-05-06T00:00:00+00:00</pubDate>
         </item>
 
@@ -474,8 +365,8 @@
                 <title>BitTorrent Labs</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/bittorrent-labs.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/bittorrent-labs.html</link>
-                <guid>/bittorrent-labs</guid>
+                <link>/expo/bittorrent-labs.html</link>
+                <guid>/expo/bittorrent-labs</guid>
                 <pubDate>2013-04-28T00:00:00+00:00</pubDate>
         </item>
 
@@ -483,8 +374,8 @@
                 <title>Easybring</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/easybring.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/easybring.html</link>
-                <guid>/easybring</guid>
+                <link>/expo/easybring.html</link>
+                <guid>/expo/easybring</guid>
                 <pubDate>2013-04-25T00:00:00+00:00</pubDate>
         </item>
 
@@ -492,8 +383,8 @@
                 <title>Kippt Developers</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/kippt-developers.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/kippt-developers.html</link>
-                <guid>/kippt-developers</guid>
+                <link>/expo/kippt-developers.html</link>
+                <guid>/expo/kippt-developers</guid>
                 <pubDate>2013-04-22T00:00:00+00:00</pubDate>
         </item>
 
@@ -501,8 +392,8 @@
                 <title>Learndot</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/learndot.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/learndot.html</link>
-                <guid>/learndot</guid>
+                <link>/expo/learndot.html</link>
+                <guid>/expo/learndot</guid>
                 <pubDate>2013-04-18T00:00:00+00:00</pubDate>
         </item>
 
@@ -510,8 +401,8 @@
                 <title>Flywheel</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/flywheel.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/flywheel.html</link>
-                <guid>/flywheel</guid>
+                <link>/expo/flywheel.html</link>
+                <guid>/expo/flywheel</guid>
                 <pubDate>2013-04-15T00:00:00+00:00</pubDate>
         </item>
 
@@ -519,8 +410,8 @@
                 <title>ooomf</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/ooomf.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/ooomf.html</link>
-                <guid>/ooomf</guid>
+                <link>/expo/ooomf.html</link>
+                <guid>/expo/ooomf</guid>
                 <pubDate>2013-04-11T00:00:00+00:00</pubDate>
         </item>
 
@@ -528,8 +419,8 @@
                 <title>KRUNCH</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/krunch.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/krunch.html</link>
-                <guid>/krunch</guid>
+                <link>/expo/krunch.html</link>
+                <guid>/expo/krunch</guid>
                 <pubDate>2013-04-08T00:00:00+00:00</pubDate>
         </item>
 
@@ -537,8 +428,8 @@
                 <title>YaSound</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/yasound.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/yasound.html</link>
-                <guid>/yasound</guid>
+                <link>/expo/yasound.html</link>
+                <guid>/expo/yasound</guid>
                 <pubDate>2013-04-04T00:00:00+00:00</pubDate>
         </item>
 
@@ -546,8 +437,8 @@
                 <title>Flat UI</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/flat-ui.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/flat-ui.html</link>
-                <guid>/flat-ui</guid>
+                <link>/expo/flat-ui.html</link>
+                <guid>/expo/flat-ui</guid>
                 <pubDate>2013-04-01T00:00:00+00:00</pubDate>
         </item>
 
@@ -555,8 +446,8 @@
                 <title>Kippt</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/kippt-new.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/kippt.html</link>
-                <guid>/kippt</guid>
+                <link>/expo/kippt.html</link>
+                <guid>/expo/kippt</guid>
                 <pubDate>2013-03-19T00:00:00+00:00</pubDate>
         </item>
 
@@ -564,8 +455,8 @@
                 <title>Webflow</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/webflow.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/webflow.html</link>
-                <guid>/webflow</guid>
+                <link>/expo/webflow.html</link>
+                <guid>/expo/webflow</guid>
                 <pubDate>2013-03-18T00:00:00+00:00</pubDate>
         </item>
 
@@ -573,8 +464,8 @@
                 <title>Pulse</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/pulse.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/pulse.html</link>
-                <guid>/pulse</guid>
+                <link>/expo/pulse.html</link>
+                <guid>/expo/pulse</guid>
                 <pubDate>2013-03-16T00:00:00+00:00</pubDate>
         </item>
 
@@ -582,8 +473,8 @@
                 <title>Automatic</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/automatic.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/automatic.html</link>
-                <guid>/automatic</guid>
+                <link>/expo/automatic.html</link>
+                <guid>/expo/automatic</guid>
                 <pubDate>2013-03-14T00:00:00+00:00</pubDate>
         </item>
 
@@ -591,8 +482,8 @@
                 <title>Women and Tech</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/womenandtech.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/womenandtech.html</link>
-                <guid>/womenandtech</guid>
+                <link>/expo/womenandtech.html</link>
+                <guid>/expo/womenandtech</guid>
                 <pubDate>2013-03-04T00:00:00+00:00</pubDate>
         </item>
 
@@ -600,8 +491,8 @@
                 <title>DIY.org</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/diy.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/diy.html</link>
-                <guid>/diy</guid>
+                <link>/expo/diy.html</link>
+                <guid>/expo/diy</guid>
                 <pubDate>2013-03-02T00:00:00+00:00</pubDate>
         </item>
 
@@ -609,8 +500,8 @@
                 <title>Delicious</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/delicious.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/delicious.html</link>
-                <guid>/delicious</guid>
+                <link>/expo/delicious.html</link>
+                <guid>/expo/delicious</guid>
                 <pubDate>2013-02-21T00:00:00+00:00</pubDate>
         </item>
 
@@ -618,8 +509,8 @@
                 <title>Go Squared</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/gosquared.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/gosquared.html</link>
-                <guid>/gosquared</guid>
+                <link>/expo/gosquared.html</link>
+                <guid>/expo/gosquared</guid>
                 <pubDate>2013-02-20T00:00:00+00:00</pubDate>
         </item>
 
@@ -627,8 +518,8 @@
                 <title>Easel</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/easel.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/easel.html</link>
-                <guid>/easel</guid>
+                <link>/expo/easel.html</link>
+                <guid>/expo/easel</guid>
                 <pubDate>2013-02-19T00:00:00+00:00</pubDate>
         </item>
 
@@ -636,8 +527,8 @@
                 <title>Tonx</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/tonx.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/tonx.html</link>
-                <guid>/tonx</guid>
+                <link>/expo/tonx.html</link>
+                <guid>/expo/tonx</guid>
                 <pubDate>2013-02-18T00:00:00+00:00</pubDate>
         </item>
 
@@ -645,8 +536,8 @@
                 <title>JSHint</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/jshint.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/jshint.html</link>
-                <guid>/jshint</guid>
+                <link>/expo/jshint.html</link>
+                <guid>/expo/jshint</guid>
                 <pubDate>2013-02-17T00:00:00+00:00</pubDate>
         </item>
 
@@ -654,8 +545,8 @@
                 <title>Synco</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/synco.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/synco.html</link>
-                <guid>/synco</guid>
+                <link>/expo/synco.html</link>
+                <guid>/expo/synco</guid>
                 <pubDate>2013-02-16T00:00:00+00:00</pubDate>
         </item>
 
@@ -663,8 +554,8 @@
                 <title>Karma</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/karma.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/karma.html</link>
-                <guid>/karma</guid>
+                <link>/expo/karma.html</link>
+                <guid>/expo/karma</guid>
                 <pubDate>2013-02-15T00:00:00+00:00</pubDate>
         </item>
 
@@ -672,8 +563,8 @@
                 <title>MetroTwit</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/metrotwit.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/metrotwit.html</link>
-                <guid>/metrotwit</guid>
+                <link>/expo/metrotwit.html</link>
+                <guid>/expo/metrotwit</guid>
                 <pubDate>2013-02-14T00:00:00+00:00</pubDate>
         </item>
 
@@ -681,8 +572,8 @@
                 <title>Codecademy</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/codecademy.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/codecademy.html</link>
-                <guid>/codecademy</guid>
+                <link>/expo/codecademy.html</link>
+                <guid>/expo/codecademy</guid>
                 <pubDate>2013-02-13T00:00:00+00:00</pubDate>
         </item>
 
@@ -690,8 +581,8 @@
                 <title>Jetstrap</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/jetstrap.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/jetstrap.html</link>
-                <guid>/jetstrap</guid>
+                <link>/expo/jetstrap.html</link>
+                <guid>/expo/jetstrap</guid>
                 <pubDate>2013-02-12T00:00:00+00:00</pubDate>
         </item>
 
@@ -699,8 +590,8 @@
                 <title>DivShot</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/divshot.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/divshot.html</link>
-                <guid>/divshot</guid>
+                <link>/expo/divshot.html</link>
+                <guid>/expo/divshot</guid>
                 <pubDate>2013-02-11T00:00:00+00:00</pubDate>
         </item>
 
@@ -708,8 +599,8 @@
                 <title>GatherContent</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/gathercontent.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/gathercontent.html</link>
-                <guid>/gathercontent</guid>
+                <link>/expo/gathercontent.html</link>
+                <guid>/expo/gathercontent</guid>
                 <pubDate>2013-02-10T00:00:00+00:00</pubDate>
         </item>
 
@@ -717,8 +608,8 @@
                 <title>Twitter Translation Center</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/twitter-translation-center.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/twitter-translation-center.html</link>
-                <guid>/twitter-translation-center</guid>
+                <link>/expo/twitter-translation-center.html</link>
+                <guid>/expo/twitter-translation-center</guid>
                 <pubDate>2013-02-09T00:00:00+00:00</pubDate>
         </item>
 
@@ -726,8 +617,8 @@
                 <title>SoundReady</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/soundready.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/soundready.html</link>
-                <guid>/soundready</guid>
+                <link>/expo/soundready.html</link>
+                <guid>/expo/soundready</guid>
                 <pubDate>2013-02-08T00:00:00+00:00</pubDate>
         </item>
 
@@ -735,8 +626,8 @@
                 <title>Breaking News</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/breakingnews.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/breakingnews.html</link>
-                <guid>/breakingnews</guid>
+                <link>/expo/breakingnews.html</link>
+                <guid>/expo/breakingnews</guid>
                 <pubDate>2013-02-07T00:00:00+00:00</pubDate>
         </item>
 
@@ -744,8 +635,8 @@
                 <title>Desk</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/desk.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/desk.html</link>
-                <guid>/desk</guid>
+                <link>/expo/desk.html</link>
+                <guid>/expo/desk</guid>
                 <pubDate>2013-02-06T00:00:00+00:00</pubDate>
         </item>
 
@@ -753,8 +644,8 @@
                 <title>Jumpstart UI</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/jumpstart-ui.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/jumpstart-ui.html</link>
-                <guid>/jumpstart-ui</guid>
+                <link>/expo/jumpstart-ui.html</link>
+                <guid>/expo/jumpstart-ui</guid>
                 <pubDate>2013-02-05T00:00:00+00:00</pubDate>
         </item>
 
@@ -762,8 +653,8 @@
                 <title>Athey Creek</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/athey-creek.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/athey-creek.html</link>
-                <guid>/athey-creek</guid>
+                <link>/expo/athey-creek.html</link>
+                <guid>/expo/athey-creek</guid>
                 <pubDate>2013-02-04T00:00:00+00:00</pubDate>
         </item>
 
@@ -771,8 +662,8 @@
                 <title>Fleetio</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/fleetio.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/fleetio.html</link>
-                <guid>/fleetio</guid>
+                <link>/code/fleetio.html</link>
+                <guid>/code/fleetio</guid>
                 <pubDate>2013-02-03T00:00:00+00:00</pubDate>
         </item>
 
@@ -780,8 +671,8 @@
                 <title>Adopt-a-Hydrant</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/adoptahydrant.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/adoptahydrant.html</link>
-                <guid>/adoptahydrant</guid>
+                <link>/expo/adoptahydrant.html</link>
+                <guid>/expo/adoptahydrant</guid>
                 <pubDate>2013-02-02T00:00:00+00:00</pubDate>
         </item>
 
@@ -789,8 +680,8 @@
                 <title>8020 Select</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/8020select.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/8020select.html</link>
-                <guid>/8020select</guid>
+                <link>/expo/8020select.html</link>
+                <guid>/expo/8020select</guid>
                 <pubDate>2013-02-01T00:00:00+00:00</pubDate>
         </item>
 
@@ -798,8 +689,8 @@
                 <title>Kippt</title>
                 <description>&lt;p&gt;&lt;img src=&quot;/screenshots/kippt.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/kippt.html</link>
-                <guid>/kippt</guid>
+                <link>/expo/kippt.html</link>
+                <guid>/expo/kippt</guid>
                 <pubDate>2012-09-26T00:00:00+00:00</pubDate>
         </item>
 

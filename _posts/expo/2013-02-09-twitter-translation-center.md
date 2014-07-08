@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "Twitter Translation Center"
 slug: twitter-translation-center
 source: http://translate.twitter.com

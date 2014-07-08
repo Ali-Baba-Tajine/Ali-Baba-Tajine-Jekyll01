@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "Codecademy"
 slug: codecademy
 source: http://codecademy.com

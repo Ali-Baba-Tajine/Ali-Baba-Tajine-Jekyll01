@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "Themeclue"
 slug: themeclue
 source: http://www.themeclue.com

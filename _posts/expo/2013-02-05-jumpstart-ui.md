@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "Jumpstart UI"
 slug: jumpstart-ui
 source: http://jumpstartui.com

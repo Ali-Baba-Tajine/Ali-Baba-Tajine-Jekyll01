@@ -1,5 +1,6 @@
 ---
 layout: post
+category: expo
 title: "Localcrime"
 slug: localcrime
 source: http://www.localcrimeapp.com/
