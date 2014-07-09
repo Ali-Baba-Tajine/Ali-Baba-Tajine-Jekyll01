@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="de">
 <head>
   {% if page.category != 'homepage' %}{% assign root_path = '../' %}{% assign link_path = '..' %}{% else %}{% assign link_path = '.' %}{% endif %}
@@ -18,7 +18,7 @@
 <body class="{{ page.category }} {{ page.body_class }}">
   
   <nav id="site-nav">
-    <h1><a href="{{ site.url }}index.html">{{ site.name }}</a></h1>
+    <h1><a href="{{ site.url }}index.html">{{ site.title }}</a></h1>
 
     <h2>Docs</h2>
     
@@ -49,6 +49,17 @@
         {% endif %}
       {% endfor %}
     </ul>
+<!-- 
+    <ul>
+      {% for demo in site.categories.isotope reversed %}
+        {% if page.title == demo.title and page.category == 'isotope' %}
+          <li class="current"><a href="#content">{{ isotope.title }}</a></li>
+        {% else %}
+          <li><a href="{{ link_path }}{{ isotope.url }}">{{ isotope.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </ul>
+ -->
     
     <h2>Custom</h2>
     

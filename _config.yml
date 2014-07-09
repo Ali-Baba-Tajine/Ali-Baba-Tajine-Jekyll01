@@ -17,7 +17,6 @@ paginate: 10
 isotope_js: js/jquery.isotope.min.js
 jquery_js: js/vendor/jquery.min.js
 
-
 timezone: Germany/Munich
 future: true
 highlighter: pygments
@@ -37,7 +36,7 @@ kramdown:
     coderay_css: class
 
 jekyll_timeago:
-  depth: 2 # Level of detail
+  depth: 7 # Level of detail
   today: 'Heute'
   yesterday: 'Gestern'
   tomorrow: 'Morgen'
@@ -57,6 +56,6 @@ jekyll_timeago:
   
   
 include: [".htaccess"]
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "_to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec", "parse", "minify.sh", "config", "sass_default", "Gemfile", "Gemfile.lock", "Capfile", "grayscale"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "_to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec", "parse", "minify.sh", "config", "sass_default", "Gemfile", "Gemfile.lock", "Capfile", "grayscale", "scrolling-nav", "backend_original"]
   
   

@@ -5,8 +5,8 @@
         <description>Ali Baba Tajine - Ali Baba Tajine</description>
         <link></link>
         <link></link>
-        <lastBuildDate>2014-07-09T04:45:29+00:00</lastBuildDate>
-        <pubDate>2014-07-09T04:45:29+00:00</pubDate>
+        <lastBuildDate>2014-07-09T06:48:02+00:00</lastBuildDate>
+        <pubDate>2014-07-09T06:48:02+00:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -6584,7 +6584,10 @@ $(function(){
 
         <item>
                 <title>ABT Tabs</title>
-                <description>  &lt;section id=&quot;copy&quot;&gt;
+                <description>  &lt;a href=&quot;https://github.com/twbs/bootstrap/archive/v3.0.0.zip&quot; class=&quot;btn btn-outline-inverse btn-lg&quot; onclick=&quot;_gaq.push([&#39;_trackEvent&#39;, &#39;Jumbotron actions&#39;, &#39;Download&#39;, &#39;Download 3.0.0&#39;]);&quot;&gt;Download Bootstrap&lt;/a&gt;
+  
+  
+  &lt;section id=&quot;copy&quot;&gt;
     &lt;p&gt;Sort item elements based on any data you can extract from them.&lt;/p&gt;
     &lt;p&gt;See &lt;a href=&quot;../docs/sorting.html&quot;&gt;docs on sorting&lt;/a&gt;.&lt;/p&gt;
   &lt;/section&gt;
