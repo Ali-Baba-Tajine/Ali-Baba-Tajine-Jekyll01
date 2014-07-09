@@ -1,3 +1,4 @@
+// Generated using bootswatch
 module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-recess');
     grunt.loadNpmTasks('grunt-contrib-concat');
