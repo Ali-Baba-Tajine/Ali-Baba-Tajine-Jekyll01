@@ -1,67 +1,92 @@
 <!DOCTYPE html>
-<html class="full" lang="de">
+<html class="" lang="de">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Herzlich willkommen!</title>
-    <link href="http://mamp:8888/fonts/sourcesanspro.css" rel="stylesheet" type="text/css" media="screen, projection, print" />
-    <link href="http://mamp:8888/css_copy/slatestrap.css" rel="stylesheet" type="text/css" media="screen, projection" >
-    <link href="http://mamp:8888/css_copy/slateswatch.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
-    <link href="http://mamp:8888/css_copy/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
-    <link href="http://mamp:8888/css_copy/abttheme.css" rel="stylesheet" type="text/css" media="screen, projection" />
-    <link href="http://mamp:8888/css_copy/the-big-picture.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <title>Diaschau - Bildschirmfuellend</title>
+    <link href="http://0.0.0.0:4000/fonts/sourcesanspro.css" rel="stylesheet" type="text/css" media="screen, projection, print" />
+    <link href="http://0.0.0.0:4000/css_copy/slatestrap.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="http://0.0.0.0:4000/css_copy/slateswatch.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="http://0.0.0.0:4000/css_copy/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="http://0.0.0.0:4000/css_copy/abttheme.css" rel="stylesheet" type="text/css" media="screen, projection" />
+    <link href="http://0.0.0.0:4000/css_copy/full-slider.css" rel="stylesheet" type="text/css" media="screen, projection" >
+<!--    <link href="http://0.0.0.0:4000/css_copy/the-big-picture.css" rel="stylesheet" type="text/css" media="screen, projection" >-->
 </head>
 <body>
     <nav class="navbar navbar-fixed-bottom navbar-responsive" role="navigation">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand active" href="index.html">Ali Baba Tajine</a>
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#abtcollapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar weiss"></span>
+                        <span class="icon-bar weiss"></span>
+                        <span class="icon-bar weiss"></span>
+                    </button>
+                    <a class="navbar-brand active" href="index.html">Ali Baba Tajine</a>
+                </div>
+    
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="abtcollapse">
+                    <ul class="nav navbar-nav">
+                    	<li><a href="http://0.0.0.0:4000/start.html">START</a></li>
+                    	<li><a href="http://0.0.0.0:4000/info.html">INFO</a></li>
+    									<li><a href="http://0.0.0.0:4000/blog.html">BLOG</a></li>
+    									<li><a href="http://0.0.0.0:4000/netz.html">NETZ</a></li>
+    									<li><a href="http://0.0.0.0:4000/backend_anima/index.html">BACK</a></li>
+    									<li><a href="https://shop.tajine.de" target="_blank">SHOP</a></li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
             </div>
+            <!-- /.container -->
+        </nav>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav">
-                	<li><a href="http://mamp:8888/start.html">START</a></li>
-                	<li><a href="http://mamp:8888/info.html">INFO</a></li>
-									<li><a href="http://mamp:8888/blog.html">BLOG</a></li>
-									<li><a href="http://mamp:8888/netz.html">NETZ</a></li>
-									<li><a href="http://mamp:8888/backend_anima/index.html">BACK</a></li>
-									<li><a href="https://shop.tajine.de" target="_blank">SHOP</a></li>
-                </ul>
+    <div id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="fill" style="background-image:url('./img/bildschirmfuellend/DSC_5006zellpatweb.jpg');"></div>
+                <div class="carousel-caption">
+                    <h1>TOPFFAVORITEN</h1>
+                </div>
             </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
-
-    <div class="container" id="home">
-        <div class="row">
-            <div class="col-lg-12 col-sm-12">
-<!--                <h1>Ali Baba Tajine <span>Das Original</span></h1>-->
-                <h2>Ali Baba Tajine</h2>
-                <div class="page-header" id="banner">
-                        <div class="row">
-                          <div class="col-lg-12">
-                            <h1>Topffavoriten</h1>
-                            <a href="https://shop.tajine.de/" class="btn btn-outline-inverse btn-lg" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Link', 'Shopbesuch']);">Shop</a>
-                          </div>
-                          <div class="col-lg-12">
-                            
-                          </div>
-                        </div>
-                      </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('./img/bildschirmfuellend/DSC_5006zellpatweb.jpg');"></div>
+                <div class="carousel-caption">
+                    <h1>IMMER TOPFFIT</h1>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('./img/bildschirmfuellend/DSC_5006zellpatweb.jpg');"></div>
+                <div class="carousel-caption">
+                    <h1>LEHM UND LEHM LASSEN</h1>
+                </div>
             </div>
         </div>
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
     </div>
-    <script src="js/vendor/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+
+    <div class="container">
+    </div>
+    <script src="./js/vendor/jquery.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/bootstrap-touch-carousel.js"></script>
+    <script>
+    $('.carousel').carousel({
+        interval: 3000
+    })
+    </script>
 </body>
 </html>

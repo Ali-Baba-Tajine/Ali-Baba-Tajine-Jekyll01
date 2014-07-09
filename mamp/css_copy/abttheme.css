@@ -7,11 +7,14 @@ h2,
 h3,
 h4,
 h5,
-h6 { font-weight: 600 }
+h6 { font-weight: 600;
+	margin-top: 0;
+	padding-top: 0;
+}
 .hiding { opacity: 0 }
 .showing { opacity: 1 }
 
-#home h1 {
+h1 {
   margin-top: 0;
   margin-bottom: 20px;
   font-size: 120px;

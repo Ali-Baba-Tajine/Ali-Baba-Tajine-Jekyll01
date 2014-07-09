@@ -14,6 +14,7 @@
 /iisondex.html
 /impressum.html
 /index.html
+/index_static.html
 /info.html
 /lageplan.html
 /netz.html
