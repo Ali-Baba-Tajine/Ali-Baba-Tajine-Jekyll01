@@ -7,9 +7,8 @@
 /atom.xml
 /beitraege.html
 /blog.html
-/css/bootstrap-expo.css
-/css_09072014/bootstrap-expo.css
 /css_copy/bootstrap-expo.css
+/css/bootstrap-expo.css
 /expo.html
 /hero.html
 /hovereffects.html

@@ -56,6 +56,6 @@ jekyll_timeago:
   
   
 include: [".htaccess"]
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "_to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec", "parse", "minify.sh", "config", "sass_default", "Gemfile", "Gemfile.lock", "Capfile", "grayscale", "scrolling-nav", "backend_original"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md", "node_modules", "OLD_SITE", "SQL", "Ali-Baba-Tajine.github.io.esproj", "_to_integrate", "Z_ORIGINAL_BACKUP", "3D_MODELLE", "Gruntfile.js", "assets_not_used", "SICHERUNGEN", "epub", "Rakefile.rb", "TRASHCAN", "package.json", "jekyll-navigation.gemspec", "parse", "minify.sh", "config", "sass_default", "Gemfile", "Gemfile.lock", "Capfile", "grayscale", "scrolling-nav", "backend_original", "Ali-Baba-Tajine2014.bbprojectd", "css_09072014"]
   
   
