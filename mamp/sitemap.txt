@@ -3,12 +3,11 @@
 /404.html
 /500.html
 /archive.html
-/atom%20alt.xml
 /atom.xml
 /beitraege.html
 /blog.html
-/css_copy/bootstrap-expo.css
 /css/bootstrap-expo.css
+/css_copy/bootstrap-expo.css
 /expo.html
 /hero.html
 /hovereffects.html
@@ -24,6 +23,7 @@
 /sitemap.txt
 /slate.html
 /start.html
+/stickyfooternav.html
 /tags.html
 /themen.html
 /page2/index.html
