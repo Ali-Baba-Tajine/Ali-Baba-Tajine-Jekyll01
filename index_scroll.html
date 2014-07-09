@@ -1,3 +1,9 @@
+---
+layout: abtscroll
+title : "Herzlich willkommen beim Scrollen!"
+group: index
+---
+
 <!DOCTYPE html>
 <html class="full" lang="de">
 <head>
@@ -6,12 +12,12 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Herzlich willkommen!</title>
-    <link href="http://0.0.0.0:4000/fonts/sourcesanspro.css" rel="stylesheet" type="text/css" media="screen, projection, print" />
-    <link href="http://0.0.0.0:4000/css_copy/slatestrap.css" rel="stylesheet" type="text/css" media="screen, projection" >
-    <link href="http://0.0.0.0:4000/css_copy/slateswatch.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
-    <link href="http://0.0.0.0:4000/css_copy/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
-    <link href="http://0.0.0.0:4000/css_copy/abttheme.css" rel="stylesheet" type="text/css" media="screen, projection" />
-    <link href="http://0.0.0.0:4000/css_copy/the-big-picture.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="{{ site.url }}fonts/sourcesanspro.css" rel="stylesheet" type="text/css" media="screen, projection, print" />
+    <link href="{{ site.url }}css_copy/slatestrap.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="{{ site.url }}css_copy/slateswatch.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="{{ site.url }}css_copy/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="{{ site.url }}css_copy/abttheme.css" rel="stylesheet" type="text/css" media="screen, projection" />
+    <link href="{{ site.url }}css_copy/the-big-picture.css" rel="stylesheet" type="text/css" media="screen, projection" >
 </head>
 <body>
     <nav class="navbar navbar-fixed-bottom navbar-responsive" role="navigation">
@@ -23,17 +29,17 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand active" href="index.html">Ali Baba Tajine</a>
+                <a class="navbar-brand active" href="index.html">{{ site.title }}</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                	<li><a href="http://0.0.0.0:4000/start.html">START</a></li>
-                	<li><a href="http://0.0.0.0:4000/info.html">INFO</a></li>
-									<li><a href="http://0.0.0.0:4000/blog.html">BLOG</a></li>
-									<li><a href="http://0.0.0.0:4000/netz.html">NETZ</a></li>
-									<li><a href="http://0.0.0.0:4000/backend_anima/index.html">BACK</a></li>
+                	<li><a href="{{ site.url }}start.html">START</a></li>
+                	<li><a href="{{ site.url }}info.html">INFO</a></li>
+									<li><a href="{{ site.url }}blog.html">BLOG</a></li>
+									<li><a href="{{ site.url }}netz.html">NETZ</a></li>
+									<li><a href="{{ site.url }}backend_anima/index.html">BACK</a></li>
 									<li><a href="https://shop.tajine.de" target="_blank">SHOP</a></li>
                 </ul>
             </div>

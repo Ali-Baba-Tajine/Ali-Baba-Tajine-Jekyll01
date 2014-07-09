@@ -5,12 +5,10 @@
   <p class="masthead-lead">
     Beautiful and inspiring uses of <a href="{{ site.docs }}">Bootstrap</a>, curated by <a href="https://twitter.com/mdo">@mdo</a>.
   </p>
-
   <hr class="masthead-hr">
-
   <ul class="masthead-nav">
     <li class="nav-item">
-      <a class="nav-link{% if page.title == "Home" %} nav-link-active{% endif %}" href="/">Home</a>
+      <a class="nav-link{% if page.title == "Home" %} nav-link-active{% endif %}" href="/">Index</a>
     </li>
 
     {% assign pages_list = site.pages %}
@@ -26,7 +24,6 @@
   </ul>
 
   <hr class="masthead-hr">
-
   <ul class="masthead-nav">
     <li class="nav-item">
       <a class="nav-link" href="/about#suggestions">Suggest a site</a>
@@ -38,8 +35,5 @@
       <a class="nav-link" href="https://twitter.com/twbootstrap" target="_blank">Twitter</a>
     </li>
   </ul>
-
   <hr class="masthead-hr">
-
-  {% include expocarbonads.html %}
 </div>

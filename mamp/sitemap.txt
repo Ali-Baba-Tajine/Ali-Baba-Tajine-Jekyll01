@@ -6,8 +6,8 @@
 /atom.xml
 /beitraege.html
 /blog.html
-/css/bootstrap-expo.css
 /css_copy/bootstrap-expo.css
+/css/bootstrap-expo.css
 /expo.html
 /hero.html
 /hovereffects.html
@@ -15,6 +15,8 @@
 /impressum.html
 /index.html
 /index_carousel.html
+/index_prejumbotron.html
+/index_scroll.html
 /info.html
 /lageplan.html
 /netz.html
