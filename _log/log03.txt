@@ -1,0 +1,826 @@
+Last login: Tue Jul  8 20:37:51 on ttys000
+You have mail.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass clear cache
+Command not found: clear
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass --help
+Usage: compass help [command]
+
+Description:
+  The Compass Stylesheet Authoring Framework helps you
+  build and maintain your stylesheets and makes it easy
+  for you to use stylesheet libraries provided by others.
+
+Donating:
+  Compass is charityware. If you find it useful please make
+  a tax deductable donation: http://umdf.org/compass
+
+To get help on a particular command please specify the command.
+
+Primary Commands:
+  * clean	- Remove generated files and the sass cache
+  * compile	- Compile Sass stylesheets to CSS
+  * create	- Create a new compass project
+  * init	- Add compass to an existing project
+  * watch	- Compile Sass stylesheets to CSS when they change
+Other Commands:
+  * config	- Generate a configuration file for the provided command line options.
+  * extension	- Manage the list of compass extensions on your system
+  * frameworks	- List the available frameworks
+  * grid-img	- Generates a grid background image.
+  * help	- Get help on a compass command or extension
+  * imports	- Emit an imports suitable for passing to the sass command-line.
+  * install	- Install an extension's pattern into your compass project
+  * interactive	- Interactively evaluate SassScript
+  * sprite	- Generate an import for your sprites.
+  * stats	- Report statistics about your stylesheets
+  * unpack	- Copy an extension into your extensions folder.
+  * validate	- Validate your generated css.
+  * version	- Print out version information
+
+Available Frameworks & Patterns:
+
+  * blueprint
+    - blueprint/basic      - A basic blueprint install that mimics the actual blueprint css.
+    - blueprint/buttons    - Button Plugin
+    - blueprint/link_icons - Icons for common types of links
+    - blueprint/project    - The blueprint framework.
+    - blueprint/semantic   - The blueprint framework for use with semantic markup.
+  * compass
+    - compass/ellipsis     - Plugin for cross-browser ellipsis truncated text.
+    - compass/extension    - Generate a compass extension.
+    - compass/pie          - Integration with http://css3pie.com/
+    - compass/project      - The default project layout.
+
+Global Options:
+    -r, --require LIBRARY            Require the given ruby LIBRARY before running commands.
+                                       This is used to access compass plugins without having a
+                                       project configuration file.
+    -l, --load FRAMEWORK_DIR         Load the framework or extensions found in the FRAMEWORK directory.
+    -L, --load-all FRAMEWORKS_DIR    Load all the frameworks or extensions found in the FRAMEWORKS_DIR directory.
+    -I, --import-path IMPORT_PATH    Makes files under the IMPORT_PATH folder findable by Sass's @import directive.
+    -q, --quiet                      Quiet mode.
+        --trace                      Show a full stacktrace on error
+        --force                      Allows compass to overwrite existing files.
+        --dry-run                    Dry Run. Tells you what it plans to do.
+        --boring                     Turn off colorized output.
+    -?, -h, --help                   Show this message
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass clean
+   remove .sass-cache/ 
+   remove css/abtmain.css 
+   remove css/bootstrap/bootstrap.css 
+   remove css/bootstrap.css 
+   remove css/flatly.css 
+   remove css/highlight.css 
+   remove css/ihover.css 
+   remove css/leaflet/L.Control.Zoomslider.css 
+   remove css/leaflet/leaflet.css 
+   remove css/leaflet/leaflet_custom.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+   create css/abtmain.css 
+   create css/bootstrap/bootstrap.css 
+   create css/bootstrap.css 
+   create css/flatly.css 
+   create css/highlight.css 
+   create css/ihover.css 
+   create css/leaflet/L.Control.Zoomslider.css 
+   create css/leaflet/leaflet.css 
+   create css/leaflet/leaflet_custom.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: ./mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: ./mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+   create css/sticky-footer.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+  Liquid Exception: Included file '_includes/carbonads.html' not found in _includes/expo/masthead.html, included in _layouts/post.html
+error: Included file '_includes/carbonads.html' not found. Use --trace to view backtrace
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+  Liquid Exception: Included file '_includes/header.html' not found in _layouts/expodefault.html
+error: Included file '_includes/header.html' not found. Use --trace to view backtrace
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+    error _sass/bootstrap-expo.scss (Line 1: Invalid CSS after "-": expected number or function, was "--")
+   create css/bootstrap-expo.css 
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+    error _sass/bootstrap-expo.scss (Line 1: Invalid CSS after "{%": expected placeholder name, was " include css/bo...")
+overwrite css/bootstrap-expo.css 
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll --help
+  NAME:
+
+    jekyll
+
+  DESCRIPTION:
+
+    Jekyll is a blog-aware, static site generator in Ruby
+
+  COMMANDS:
+        
+    build                Build your site                
+    default                             
+    docs                 Launch local server with docs for Jekyll v2.0.3                
+    doctor               Search site and print specific deprecation warnings            
+    help                 Display global or [command] help documentation                 
+    import               Import your old blog to Jekyll         
+    new                  Creates a new Jekyll site scaffold in PATH             
+    serve                Serve your site locally                
+
+  ALIASES:
+  
+    hyde                 doctor   
+    server               serve   
+
+  GLOBAL OPTIONS:
+        
+    -s, --source [DIR] 
+        Source directory (defaults to ./)
+        
+    -d, --destination [DIR] 
+        Destination directory (defaults to ./_site)
+        
+    --safe 
+        Safe mode (defaults to false)
+        
+    -p, --plugins PLUGINS_DIR1[,PLUGINS_DIR2[,...]] 
+        Plugins directory (defaults to ./_plugins)
+        
+    --layouts DIR 
+        Layouts directory (defaults to ./_layouts)
+        
+    -h, --help 
+        Display help documentation
+        
+    -v, --version 
+        Display version information
+        
+    -t, --trace 
+        Display backtrace when an error occurs
+        
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll docs
+Configuration file: none
+{"source"=>"/Users/hhe/.rvm/gems/ruby-2.0.0-p451/site", "destination"=>"/Users/hhe/.rvm/gems/ruby-2.0.0-p451/site/_site", "plugins"=>"_plugins", "layouts"=>"_layouts", "data_source"=>"_data", "keep_files"=>[".git", ".svn"], "gems"=>[], "collections"=>nil, "timezone"=>nil, "encoding"=>"utf-8", "safe"=>false, "detach"=>false, "show_drafts"=>nil, "limit_posts"=>0, "lsi"=>false, "future"=>true, "unpublished"=>false, "relative_permalinks"=>false, "markdown"=>"kramdown", "highlighter"=>"pygments", "permalink"=>"date", "baseurl"=>"", "include"=>[".htaccess"], "exclude"=>[], "paginate_path"=>"/page:num", "markdown_ext"=>"markdown,mkdown,mkdn,mkd,md", "textile_ext"=>"textile", "port"=>"4000", "host"=>"0.0.0.0", "excerpt_separator"=>"\n\n", "defaults"=>[], "maruku"=>{"use_tex"=>false, "use_divs"=>false, "png_engine"=>"blahtex", "png_dir"=>"images/latex", "png_url"=>"/images/latex", "fenced_code_blocks"=>true}, "rdiscount"=>{"extensions"=>[]}, "redcarpet"=>{"extensions"=>[]}, "kramdown"=>{"auto_ids"=>true, "footnote_nr"=>1, "entity_output"=>"as_char", "toc_levels"=>"1..6", "smart_quotes"=>"lsquo,rsquo,ldquo,rdquo", "use_coderay"=>false, "coderay"=>{"coderay_wrap"=>"div", "coderay_line_numbers"=>"inline", "coderay_line_number_start"=>1, "coderay_tab_width"=>4, "coderay_bold_every"=>10, "coderay_css"=>"style"}}, "redcloth"=>{"hard_breaks"=>true}}
+Configuration file: none
+            Source: /Users/hhe/.rvm/gems/ruby-2.0.0-p451/site
+       Destination: /Users/hhe/.rvm/gems/ruby-2.0.0-p451/site/_site
+      Generating... 
+error: No such file or directory - /Users/hhe/.rvm/gems/ruby-2.0.0-p451/site/. Use --trace to view backtrace
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll doctor
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/kippt.html' is the destination for the following pages: _posts/expo/2012-09-26-kippt.md, _posts/expo/2013-03-19-kippt.md
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/webflow.html' is the destination for the following pages: _posts/expo/2013-03-18-webflow.md, _posts/expo/2014-02-04-webflow.md
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/ooomf.html' is the destination for the following pages: _posts/expo/2013-04-11-ooomf.md, _posts/expo/2014-02-07-ooomf.md
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll doctor
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/webflow.html' is the destination for the following pages: _posts/expo/2013-03-18-webflow.md, _posts/expo/2014-02-04-webflow.md
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/ooomf.html' is the destination for the following pages: _posts/expo/2013-04-11-ooomf.md, _posts/expo/2014-02-07-ooomf.md
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll doctor
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+  Your test results are in. Everything looks fine.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+identical css/abtmain.css 
+    error _sass/animate.scss (Line 11 of _sass/animate/animations/attention-seekers/_bounce.scss: Undefined variable: "$experimental-support-for-webkit".)
+   create css/animate.css 
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+   create css/variables.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+unchanged _sass/variables.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-09 04:29:11 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:16 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:21 ...done.
+      Regenerating: 1 files at 2014-07-09 04:29:24 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:33 ...done.
+      Regenerating: 71 files at 2014-07-09 04:29:36 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:42 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:49 ...done.
+      Regenerating: 266 files at 2014-07-09 04:29:57 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:04 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:09 ...done.
+      Regenerating: 1 files at 2014-07-09 04:30:12 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:19 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:24 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:29 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:34 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:39 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:44 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:49 ...done.
+      Regenerating: 153 files at 2014-07-09 04:30:54 ...done.
+      Regenerating: 263 files at 2014-07-09 04:31:01 ...done.
+      Regenerating: 232 files at 2014-07-09 04:31:08 ...done.
+      Regenerating: 196 files at 2014-07-09 04:31:15 ...done.
+      Regenerating: 208 files at 2014-07-09 04:31:23 ...done.
+      Regenerating: 258 files at 2014-07-09 04:31:32 ...done.
+      Regenerating: 216 files at 2014-07-09 04:31:38 ...done.
+      Regenerating: 145 files at 2014-07-09 04:31:44 ...done.
+      Regenerating: 286 files at 2014-07-09 04:31:54 ...done.
+      Regenerating: 220 files at 2014-07-09 04:32:02 ...done.
+      Regenerating: 87 files at 2014-07-09 04:32:09 ...done.
+      Regenerating: 284 files at 2014-07-09 04:32:17 ...done.
+      Regenerating: 136 files at 2014-07-09 04:32:24 ...done.
+      Regenerating: 251 files at 2014-07-09 04:32:34 ...done.
+      Regenerating: 144 files at 2014-07-09 04:32:41 ...done.
+      Regenerating: 144 files at 2014-07-09 04:32:49 ...done.
+      Regenerating: 285 files at 2014-07-09 04:32:57 ...done.
+      Regenerating: 170 files at 2014-07-09 04:33:06 ...done.
+      Regenerating: 261 files at 2014-07-09 04:33:15 ...done.
+      Regenerating: 254 files at 2014-07-09 04:33:25 ...done.
+      Regenerating: 166 files at 2014-07-09 04:33:31 ...done.
+      Regenerating: 125 files at 2014-07-09 04:33:39 ...done.
+      Regenerating: 277 files at 2014-07-09 04:33:50 ...done.
+      Regenerating: 277 files at 2014-07-09 04:33:59 ...done.
+      Regenerating: 145 files at 2014-07-09 04:34:07 ...done.
+      Regenerating: 181 files at 2014-07-09 04:34:17 ...done.
+      Regenerating: 169 files at 2014-07-09 04:34:26 ...done.
+      Regenerating: 89 files at 2014-07-09 04:34:34 ...done.
+      Regenerating: 253 files at 2014-07-09 04:34:45 ...done.
+      Regenerating: 211 files at 2014-07-09 04:34:53 ...done.
+      Regenerating: 240 files at 2014-07-09 04:35:02 ...done.
+      Regenerating: 132 files at 2014-07-09 04:35:12 ...done.
+      Regenerating: 164 files at 2014-07-09 04:35:21 ...done.
+      Regenerating: 285 files at 2014-07-09 04:35:32 ...done.
+      Regenerating: 168 files at 2014-07-09 04:35:41 ...done.
+      Regenerating: 227 files at 2014-07-09 04:35:51 ...done.
+      Regenerating: 286 files at 2014-07-09 04:36:03 ...done.
+      Regenerating: 218 files at 2014-07-09 04:36:13 ...done.
+      Regenerating: 259 files at 2014-07-09 04:36:25 ...done.
+      Regenerating: 132 files at 2014-07-09 04:36:34 ...done.
+      Regenerating: 261 files at 2014-07-09 04:36:48 ...done.
+      Regenerating: 229 files at 2014-07-09 04:36:59 ...done.
+      Regenerating: 132 files at 2014-07-09 04:37:08 ...done.
+      Regenerating: 202 files at 2014-07-09 04:37:18 ...done.
+      Regenerating: 286 files at 2014-07-09 04:37:30 ...done.
+      Regenerating: 232 files at 2014-07-09 04:37:42 ...done.
+      Regenerating: 257 files at 2014-07-09 04:37:53 ...done.
+      Regenerating: 46 files at 2014-07-09 04:38:01 ...done.
+      Regenerating: 286 files at 2014-07-09 04:38:15 ...done.
+      Regenerating: 152 files at 2014-07-09 04:38:27 ...done.
+      Regenerating: 276 files at 2014-07-09 04:38:40 ...done.
+      Regenerating: 125 files at 2014-07-09 04:38:51 ...done.
+      Regenerating: 221 files at 2014-07-09 04:39:06 ...done.
+      Regenerating: 263 files at 2014-07-09 04:39:18 ...done.
+      Regenerating: 149 files at 2014-07-09 04:39:29 ...done.
+      Regenerating: 241 files at 2014-07-09 04:39:45 ...done.
+      Regenerating: 262 files at 2014-07-09 04:39:58 ...done.
+      Regenerating: 279 files at 2014-07-09 04:40:11 ...done.
+      Regenerating: 123 files at 2014-07-09 04:40:23 ...done.
+      Regenerating: 172 files at 2014-07-09 04:40:40 ...done.
+      Regenerating: 284 files at 2014-07-09 04:40:53 ...done.
+      Regenerating: 217 files at 2014-07-09 04:41:06 ...done.
+      Regenerating: 277 files at 2014-07-09 04:41:19 ...done.
+      Regenerating: 167 files at 2014-07-09 04:41:33 ...done.
+      Regenerating: 197 files at 2014-07-09 04:41:46 ...error:
+             Error: No such file or directory - /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/sb-admin-v2/blank.html
+             Error: Run jekyll build --trace for more information.
+      Regenerating: 205 files at 2014-07-09 04:42:00 ...done.
+      Regenerating: 245 files at 2014-07-09 04:42:16 ...done.
+      Regenerating: 306 files at 2014-07-09 04:42:37 ...done.
+      Regenerating: 262 files at 2014-07-09 04:42:53 ...done.
+      Regenerating: 160 files at 2014-07-09 04:43:07 ^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ 

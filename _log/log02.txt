@@ -1,0 +1,431 @@
+Last login: Tue Jul  8 16:03:35 on ttys002
+You have mail.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+error: Address already in use - bind(2). Use --trace to view backtrace
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 14:58:48 ...done.
+      Regenerating: 1 files at 2014-07-08 14:58:51 ...done.
+      Regenerating: 2 files at 2014-07-08 14:59:03 ...done.
+      Regenerating: 2 files at 2014-07-08 14:59:14 ...done.
+      Regenerating: 1 files at 2014-07-08 14:59:45 ...done.
+      Regenerating: 1 files at 2014-07-08 15:00:06 ...done.
+      Regenerating: 1 files at 2014-07-08 15:00:43 ...done.
+      Regenerating: 2 files at 2014-07-08 15:00:47 ...done.
+      Regenerating: 1 files at 2014-07-08 15:02:15 ...done.
+      Regenerating: 1 files at 2014-07-08 15:04:13 ...done.
+      Regenerating: 1 files at 2014-07-08 15:04:59 ...done.
+      Regenerating: 1 files at 2014-07-08 15:05:19 ...done.
+      Regenerating: 1 files at 2014-07-08 15:06:38 ...done.
+      Regenerating: 4 files at 2014-07-08 15:09:38 ...done.
+      Regenerating: 1 files at 2014-07-08 15:10:07 ...done.
+      Regenerating: 1 files at 2014-07-08 15:10:42 ...done.
+      Regenerating: 1 files at 2014-07-08 15:11:54 ...done.
+      Regenerating: 3 files at 2014-07-08 15:12:26 ...done.
+      Regenerating: 1 files at 2014-07-08 15:13:19 ...done.
+      Regenerating: 1 files at 2014-07-08 15:14:12 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 15:16:56 ...done.
+      Regenerating: 1 files at 2014-07-08 15:17:14 ...done.
+      Regenerating: 1 files at 2014-07-08 15:19:10 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 15:21:07 ...done.
+      Regenerating: 2 files at 2014-07-08 15:21:21 ...done.
+      Regenerating: 2 files at 2014-07-08 15:21:37 ...done.
+      Regenerating: 1 files at 2014-07-08 15:22:08 ...done.
+      Regenerating: 1 files at 2014-07-08 15:23:18 ...done.
+      Regenerating: 1 files at 2014-07-08 15:23:50 ...done.
+      Regenerating: 1 files at 2014-07-08 15:23:57 ...done.
+      Regenerating: 1 files at 2014-07-08 15:24:08 ...done.
+      Regenerating: 2 files at 2014-07-08 15:24:23 ...done.
+      Regenerating: 1 files at 2014-07-08 15:25:12 ...done.
+      Regenerating: 1 files at 2014-07-08 15:25:28 ...done.
+      Regenerating: 1 files at 2014-07-08 15:25:45 ...done.
+      Regenerating: 2 files at 2014-07-08 15:26:01 ...done.
+      Regenerating: 2 files at 2014-07-08 15:26:13   Liquid Exception: Included file '_includes/head.html' not found in _layouts/dropdown.html
+...error:
+             Error: Included file '_includes/head.html' not found
+             Error: Run jekyll build --trace for more information.
+      Regenerating: 1 files at 2014-07-08 15:28:47   Liquid Exception: Included file '_includes/head.html' not found in _layouts/dropdown.html
+...error:
+             Error: Included file '_includes/head.html' not found
+             Error: Run jekyll build --trace for more information.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 15:37:30 ...done.
+      Regenerating: 1 files at 2014-07-08 15:38:44 ...done.
+      Regenerating: 2 files at 2014-07-08 15:38:53 ...done.
+      Regenerating: 2 files at 2014-07-08 15:38:57 ...done.
+      Regenerating: 2 files at 2014-07-08 15:40:07 ...done.
+      Regenerating: 4 files at 2014-07-08 15:41:05 ...done.
+      Regenerating: 1 files at 2014-07-08 15:45:13 ...done.
+      Regenerating: 1 files at 2014-07-08 15:45:22 ...done.
+      Regenerating: 1 files at 2014-07-08 15:46:37 ...done.
+      Regenerating: 1 files at 2014-07-08 15:46:42 ...done.
+      Regenerating: 1 files at 2014-07-08 15:49:32 ...done.
+      Regenerating: 2 files at 2014-07-08 15:50:24 ...done.
+      Regenerating: 1 files at 2014-07-08 15:52:02 ...done.
+      Regenerating: 1 files at 2014-07-08 15:52:20 ...done.
+      Regenerating: 1 files at 2014-07-08 15:52:40 ...done.
+      Regenerating: 1 files at 2014-07-08 15:54:26 ...done.
+      Regenerating: 1 files at 2014-07-08 15:55:07 ...done.
+      Regenerating: 1 files at 2014-07-08 15:57:07 ...done.
+      Regenerating: 2 files at 2014-07-08 15:57:56 ...done.
+      Regenerating: 1 files at 2014-07-08 15:58:10 ...done.
+      Regenerating: 1 files at 2014-07-08 16:00:41 ...done.
+      Regenerating: 1 files at 2014-07-08 16:01:31 ...done.
+      Regenerating: 1 files at 2014-07-08 16:02:10 ...done.
+      Regenerating: 2 files at 2014-07-08 16:03:06 ...done.
+      Regenerating: 5 files at 2014-07-08 16:03:42 ...done.
+      Regenerating: 4 files at 2014-07-08 16:04:00 ...done.
+      Regenerating: 1 files at 2014-07-08 16:05:57 ...done.
+      Regenerating: 2 files at 2014-07-08 16:06:28 ...done.
+      Regenerating: 1 files at 2014-07-08 16:06:46 ...done.
+      Regenerating: 1 files at 2014-07-08 16:08:03 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 16:10:11 ...done.
+      Regenerating: 1 files at 2014-07-08 16:10:39 ...done.
+      Regenerating: 1 files at 2014-07-08 16:11:43 ...done.
+      Regenerating: 1 files at 2014-07-08 16:12:30 ...done.
+      Regenerating: 1 files at 2014-07-08 16:12:40 ...done.
+      Regenerating: 4 files at 2014-07-08 16:12:46 ...done.
+      Regenerating: 1 files at 2014-07-08 16:13:14 ...done.
+      Regenerating: 1 files at 2014-07-08 16:13:52 ...done.
+      Regenerating: 1 files at 2014-07-08 16:13:59 ...done.
+      Regenerating: 1 files at 2014-07-08 16:16:28 ...done.
+      Regenerating: 1 files at 2014-07-08 16:17:59 ...done.
+      Regenerating: 1 files at 2014-07-08 16:18:06 ...done.
+      Regenerating: 2 files at 2014-07-08 16:18:21 ...done.
+      Regenerating: 1 files at 2014-07-08 16:26:45 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+Nothing to compile. If you're trying to start a new project, you have left off the directory argument.
+Run "compass -h" to get help.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+   remove .sass-cache/ 
+   remove css/bootstrap/bootstrap.css 
+   remove css/flatly.css 
+   remove css/highlight.css 
+   remove css/ihover.css 
+   remove css/leaflet/leaflet_custom.css 
+   remove css/pygments/autumn.css 
+   remove css/pygments/borland.css 
+   remove css/pygments/bw.css 
+   remove css/pygments/colorful.css 
+   remove css/pygments/default.css 
+   remove css/pygments/emacs.css 
+   remove css/pygments/friendly.css 
+   remove css/pygments/fruity.css 
+   remove css/pygments/manni.css 
+   remove css/pygments/monokai.css 
+   remove css/pygments/murphy.css 
+   remove css/pygments/native.css 
+   remove css/pygments/pastie.css 
+   remove css/pygments/perldoc.css 
+   remove css/pygments/rrt.css 
+   remove css/pygments/solarized.css 
+   remove css/pygments/tango.css 
+   remove css/pygments/trac.css 
+   remove css/pygments/vim.css 
+   remove css/pygments/vs.css 
+   remove css/toc.css 
+   create css/bootstrap/bootstrap.css 
+   create css/flatly.css 
+   create css/highlight.css 
+   create css/ihover.css 
+   create css/leaflet/leaflet_custom.css 
+   create css/pygments/autumn.css 
+   create css/pygments/borland.css 
+   create css/pygments/bw.css 
+   create css/pygments/colorful.css 
+   create css/pygments/default.css 
+   create css/pygments/emacs.css 
+   create css/pygments/friendly.css 
+   create css/pygments/fruity.css 
+   create css/pygments/manni.css 
+   create css/pygments/monokai.css 
+   create css/pygments/murphy.css 
+   create css/pygments/native.css 
+   create css/pygments/pastie.css 
+   create css/pygments/perldoc.css 
+   create css/pygments/rrt.css 
+   create css/pygments/solarized.css 
+   create css/pygments/tango.css 
+   create css/pygments/trac.css 
+   create css/pygments/vim.css 
+   create css/pygments/vs.css 
+   create css/toc.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 16:41:48 ...done.
+      Regenerating: 1 files at 2014-07-08 16:44:14 ...done.
+      Regenerating: 12 files at 2014-07-08 16:45:55 ...done.
+      Regenerating: 18 files at 2014-07-08 16:46:03 ...done.
+      Regenerating: 36 files at 2014-07-08 16:47:44 ...done.
+      Regenerating: 2 files at 2014-07-08 16:48:25 ...done.
+      Regenerating: 2 files at 2014-07-08 16:48:30 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 16:54:41 ...done.
+      Regenerating: 2 files at 2014-07-08 16:55:39 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 17:03:14 ...done.
+      Regenerating: 1 files at 2014-07-08 17:03:43 ...done.
+      Regenerating: 1 files at 2014-07-08 17:04:30 ...done.
+      Regenerating: 1 files at 2014-07-08 17:06:34 ...done.
+      Regenerating: 34 files at 2014-07-08 17:13:28 ...done.
+      Regenerating: 1 files at 2014-07-08 17:14:22 ...done.
+      Regenerating: 2 files at 2014-07-08 17:15:24 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+   create css/leaflet/L.Control.Zoomslider.css 
+   create css/leaflet/leaflet.css 
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/pygments/autumn.scss
+unchanged _sass/pygments/borland.scss
+unchanged _sass/pygments/bw.scss
+unchanged _sass/pygments/colorful.scss
+unchanged _sass/pygments/default.scss
+unchanged _sass/pygments/emacs.scss
+unchanged _sass/pygments/friendly.scss
+unchanged _sass/pygments/fruity.scss
+unchanged _sass/pygments/manni.scss
+unchanged _sass/pygments/monokai.scss
+unchanged _sass/pygments/murphy.scss
+unchanged _sass/pygments/native.scss
+unchanged _sass/pygments/pastie.scss
+unchanged _sass/pygments/perldoc.scss
+unchanged _sass/pygments/rrt.scss
+unchanged _sass/pygments/solarized.scss
+unchanged _sass/pygments/tango.scss
+unchanged _sass/pygments/trac.scss
+unchanged _sass/pygments/vim.scss
+unchanged _sass/pygments/vs.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 17:33:02 ...done.
+      Regenerating: 1 files at 2014-07-08 17:33:36 ...done.
+      Regenerating: 1 files at 2014-07-08 17:34:05 ...done.
+      Regenerating: 2 files at 2014-07-08 17:34:20 ...done.
+      Regenerating: 2 files at 2014-07-08 17:43:00 ...done.
+      Regenerating: 3 files at 2014-07-08 17:43:26 ...done.
+      Regenerating: 1 files at 2014-07-08 17:52:35 ...done.
+      Regenerating: 1 files at 2014-07-08 17:54:01 ...done.
+      Regenerating: 1 files at 2014-07-08 17:57:20 ...done.
+      Regenerating: 1 files at 2014-07-08 17:57:36 ...done.
+      Regenerating: 2 files at 2014-07-08 17:57:41 ...done.
+      Regenerating: 1 files at 2014-07-08 17:57:55 ...done.
+      Regenerating: 1 files at 2014-07-08 17:58:10 ...done.
+      Regenerating: 1 files at 2014-07-08 17:58:37 ...done.
+      Regenerating: 1 files at 2014-07-08 17:58:47 ...done.
+      Regenerating: 1 files at 2014-07-08 17:58:57 ...done.
+      Regenerating: 1 files at 2014-07-08 17:59:17 ...done.
+      Regenerating: 1 files at 2014-07-08 17:59:50 ...done.
+      Regenerating: 1 files at 2014-07-08 18:00:11 ...done.
+      Regenerating: 1 files at 2014-07-08 18:00:24 ...done.
+      Regenerating: 1 files at 2014-07-08 18:00:36 ...done.
+      Regenerating: 1 files at 2014-07-08 18:00:44 ...done.
+      Regenerating: 1 files at 2014-07-08 18:01:12 ...done.
+      Regenerating: 1 files at 2014-07-08 18:01:28 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+   remove .sass-cache/ 
+   remove css/abtmain.css 
+   remove css/bootstrap/bootstrap.css 
+   remove css/flatly.css 
+   remove css/highlight.css 
+   remove css/ihover.css 
+   remove css/leaflet/L.Control.Zoomslider.css 
+   remove css/leaflet/leaflet.css 
+   remove css/leaflet/leaflet_custom.css 
+   create css/abtmain.css 
+   create css/bootstrap/bootstrap.css 
+   create css/flatly.css 
+   create css/highlight.css 
+   create css/ihover.css 
+   create css/leaflet/L.Control.Zoomslider.css 
+   create css/leaflet/leaflet.css 
+   create css/leaflet/leaflet_custom.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 18:13:46 ...done.
+      Regenerating: 1 files at 2014-07-08 18:13:54 ...done.
+      Regenerating: 1 files at 2014-07-08 18:14:42 ...done.
+      Regenerating: 2 files at 2014-07-08 18:14:51 ...done.
+^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+   remove .sass-cache/ 
+   remove css/abtmain.css 
+   remove css/bootstrap/bootstrap.css 
+   remove css/bootstrap.css 
+   remove css/flatly.css 
+   remove css/highlight.css 
+   remove css/ihover.css 
+   remove css/leaflet/L.Control.Zoomslider.css 
+   remove css/leaflet/leaflet.css 
+   remove css/leaflet/leaflet_custom.css 
+   create css/abtmain.css 
+   create css/bootstrap/bootstrap.css 
+   create css/bootstrap.css 
+   create css/flatly.css 
+   create css/highlight.css 
+   create css/ihover.css 
+   create css/leaflet/L.Control.Zoomslider.css 
+   create css/leaflet/leaflet.css 
+   create css/leaflet/leaflet_custom.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 10 files at 2014-07-08 18:21:11 ...done.
+      Regenerating: 18 files at 2014-07-08 18:26:18 ...done.
+      Regenerating: 6 files at 2014-07-08 18:27:08 ...done.
+^C^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ 
