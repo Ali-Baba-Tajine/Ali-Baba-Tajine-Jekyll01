@@ -1,0 +1,1381 @@
+Last login: Tue Jul  8 20:37:51 on ttys000
+You have mail.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass clear cache
+Command not found: clear
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass --help
+Usage: compass help [command]
+
+Description:
+  The Compass Stylesheet Authoring Framework helps you
+  build and maintain your stylesheets and makes it easy
+  for you to use stylesheet libraries provided by others.
+
+Donating:
+  Compass is charityware. If you find it useful please make
+  a tax deductable donation: http://umdf.org/compass
+
+To get help on a particular command please specify the command.
+
+Primary Commands:
+  * clean	- Remove generated files and the sass cache
+  * compile	- Compile Sass stylesheets to CSS
+  * create	- Create a new compass project
+  * init	- Add compass to an existing project
+  * watch	- Compile Sass stylesheets to CSS when they change
+Other Commands:
+  * config	- Generate a configuration file for the provided command line options.
+  * extension	- Manage the list of compass extensions on your system
+  * frameworks	- List the available frameworks
+  * grid-img	- Generates a grid background image.
+  * help	- Get help on a compass command or extension
+  * imports	- Emit an imports suitable for passing to the sass command-line.
+  * install	- Install an extension's pattern into your compass project
+  * interactive	- Interactively evaluate SassScript
+  * sprite	- Generate an import for your sprites.
+  * stats	- Report statistics about your stylesheets
+  * unpack	- Copy an extension into your extensions folder.
+  * validate	- Validate your generated css.
+  * version	- Print out version information
+
+Available Frameworks & Patterns:
+
+  * blueprint
+    - blueprint/basic      - A basic blueprint install that mimics the actual blueprint css.
+    - blueprint/buttons    - Button Plugin
+    - blueprint/link_icons - Icons for common types of links
+    - blueprint/project    - The blueprint framework.
+    - blueprint/semantic   - The blueprint framework for use with semantic markup.
+  * compass
+    - compass/ellipsis     - Plugin for cross-browser ellipsis truncated text.
+    - compass/extension    - Generate a compass extension.
+    - compass/pie          - Integration with http://css3pie.com/
+    - compass/project      - The default project layout.
+
+Global Options:
+    -r, --require LIBRARY            Require the given ruby LIBRARY before running commands.
+                                       This is used to access compass plugins without having a
+                                       project configuration file.
+    -l, --load FRAMEWORK_DIR         Load the framework or extensions found in the FRAMEWORK directory.
+    -L, --load-all FRAMEWORKS_DIR    Load all the frameworks or extensions found in the FRAMEWORKS_DIR directory.
+    -I, --import-path IMPORT_PATH    Makes files under the IMPORT_PATH folder findable by Sass's @import directive.
+    -q, --quiet                      Quiet mode.
+        --trace                      Show a full stacktrace on error
+        --force                      Allows compass to overwrite existing files.
+        --dry-run                    Dry Run. Tells you what it plans to do.
+        --boring                     Turn off colorized output.
+    -?, -h, --help                   Show this message
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass clean
+   remove .sass-cache/ 
+   remove css/abtmain.css 
+   remove css/bootstrap/bootstrap.css 
+   remove css/bootstrap.css 
+   remove css/flatly.css 
+   remove css/highlight.css 
+   remove css/ihover.css 
+   remove css/leaflet/L.Control.Zoomslider.css 
+   remove css/leaflet/leaflet.css 
+   remove css/leaflet/leaflet_custom.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+   create css/abtmain.css 
+   create css/bootstrap/bootstrap.css 
+   create css/bootstrap.css 
+   create css/flatly.css 
+   create css/highlight.css 
+   create css/ihover.css 
+   create css/leaflet/L.Control.Zoomslider.css 
+   create css/leaflet/leaflet.css 
+   create css/leaflet/leaflet_custom.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_site
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: ./mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: ./mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+   create css/sticky-footer.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+  Liquid Exception: Included file '_includes/carbonads.html' not found in _includes/expo/masthead.html, included in _layouts/post.html
+error: Included file '_includes/carbonads.html' not found. Use --trace to view backtrace
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+  Liquid Exception: Included file '_includes/header.html' not found in _layouts/expodefault.html
+error: Included file '_includes/header.html' not found. Use --trace to view backtrace
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+    error _sass/bootstrap-expo.scss (Line 1: Invalid CSS after "-": expected number or function, was "--")
+   create css/bootstrap-expo.css 
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+    error _sass/bootstrap-expo.scss (Line 1: Invalid CSS after "{%": expected placeholder name, was " include css/bo...")
+overwrite css/bootstrap-expo.css 
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll --help
+  NAME:
+
+    jekyll
+
+  DESCRIPTION:
+
+    Jekyll is a blog-aware, static site generator in Ruby
+
+  COMMANDS:
+        
+    build                Build your site                
+    default                             
+    docs                 Launch local server with docs for Jekyll v2.0.3                
+    doctor               Search site and print specific deprecation warnings            
+    help                 Display global or [command] help documentation                 
+    import               Import your old blog to Jekyll         
+    new                  Creates a new Jekyll site scaffold in PATH             
+    serve                Serve your site locally                
+
+  ALIASES:
+  
+    hyde                 doctor   
+    server               serve   
+
+  GLOBAL OPTIONS:
+        
+    -s, --source [DIR] 
+        Source directory (defaults to ./)
+        
+    -d, --destination [DIR] 
+        Destination directory (defaults to ./_site)
+        
+    --safe 
+        Safe mode (defaults to false)
+        
+    -p, --plugins PLUGINS_DIR1[,PLUGINS_DIR2[,...]] 
+        Plugins directory (defaults to ./_plugins)
+        
+    --layouts DIR 
+        Layouts directory (defaults to ./_layouts)
+        
+    -h, --help 
+        Display help documentation
+        
+    -v, --version 
+        Display version information
+        
+    -t, --trace 
+        Display backtrace when an error occurs
+        
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll docs
+Configuration file: none
+{"source"=>"/Users/hhe/.rvm/gems/ruby-2.0.0-p451/site", "destination"=>"/Users/hhe/.rvm/gems/ruby-2.0.0-p451/site/_site", "plugins"=>"_plugins", "layouts"=>"_layouts", "data_source"=>"_data", "keep_files"=>[".git", ".svn"], "gems"=>[], "collections"=>nil, "timezone"=>nil, "encoding"=>"utf-8", "safe"=>false, "detach"=>false, "show_drafts"=>nil, "limit_posts"=>0, "lsi"=>false, "future"=>true, "unpublished"=>false, "relative_permalinks"=>false, "markdown"=>"kramdown", "highlighter"=>"pygments", "permalink"=>"date", "baseurl"=>"", "include"=>[".htaccess"], "exclude"=>[], "paginate_path"=>"/page:num", "markdown_ext"=>"markdown,mkdown,mkdn,mkd,md", "textile_ext"=>"textile", "port"=>"4000", "host"=>"0.0.0.0", "excerpt_separator"=>"\n\n", "defaults"=>[], "maruku"=>{"use_tex"=>false, "use_divs"=>false, "png_engine"=>"blahtex", "png_dir"=>"images/latex", "png_url"=>"/images/latex", "fenced_code_blocks"=>true}, "rdiscount"=>{"extensions"=>[]}, "redcarpet"=>{"extensions"=>[]}, "kramdown"=>{"auto_ids"=>true, "footnote_nr"=>1, "entity_output"=>"as_char", "toc_levels"=>"1..6", "smart_quotes"=>"lsquo,rsquo,ldquo,rdquo", "use_coderay"=>false, "coderay"=>{"coderay_wrap"=>"div", "coderay_line_numbers"=>"inline", "coderay_line_number_start"=>1, "coderay_tab_width"=>4, "coderay_bold_every"=>10, "coderay_css"=>"style"}}, "redcloth"=>{"hard_breaks"=>true}}
+Configuration file: none
+            Source: /Users/hhe/.rvm/gems/ruby-2.0.0-p451/site
+       Destination: /Users/hhe/.rvm/gems/ruby-2.0.0-p451/site/_site
+      Generating... 
+error: No such file or directory - /Users/hhe/.rvm/gems/ruby-2.0.0-p451/site/. Use --trace to view backtrace
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll doctor
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/kippt.html' is the destination for the following pages: _posts/expo/2012-09-26-kippt.md, _posts/expo/2013-03-19-kippt.md
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/webflow.html' is the destination for the following pages: _posts/expo/2013-03-18-webflow.md, _posts/expo/2014-02-04-webflow.md
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/ooomf.html' is the destination for the following pages: _posts/expo/2013-04-11-ooomf.md, _posts/expo/2014-02-07-ooomf.md
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll doctor
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/webflow.html' is the destination for the following pages: _posts/expo/2013-03-18-webflow.md, _posts/expo/2014-02-04-webflow.md
+          Conflict: The URL '/Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/mamp/expo/ooomf.html' is the destination for the following pages: _posts/expo/2013-04-11-ooomf.md, _posts/expo/2014-02-07-ooomf.md
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll doctor
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+  Your test results are in. Everything looks fine.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+        Pagination: Pagination is enabled, but I couldn't find an index.html page to use as the pagination template. Skipping pagination.
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+identical css/abtmain.css 
+    error _sass/animate.scss (Line 11 of _sass/animate/animations/attention-seekers/_bounce.scss: Undefined variable: "$experimental-support-for-webkit".)
+   create css/animate.css 
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+   create css/variables.css 
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+unchanged _sass/variables.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-09 04:29:11 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:16 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:21 ...done.
+      Regenerating: 1 files at 2014-07-09 04:29:24 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:33 ...done.
+      Regenerating: 71 files at 2014-07-09 04:29:36 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:42 ...done.
+      Regenerating: 286 files at 2014-07-09 04:29:49 ...done.
+      Regenerating: 266 files at 2014-07-09 04:29:57 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:04 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:09 ...done.
+      Regenerating: 1 files at 2014-07-09 04:30:12 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:19 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:24 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:29 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:34 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:39 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:44 ...done.
+      Regenerating: 286 files at 2014-07-09 04:30:49 ...done.
+      Regenerating: 153 files at 2014-07-09 04:30:54 ...done.
+      Regenerating: 263 files at 2014-07-09 04:31:01 ...done.
+      Regenerating: 232 files at 2014-07-09 04:31:08 ...done.
+      Regenerating: 196 files at 2014-07-09 04:31:15 ...done.
+      Regenerating: 208 files at 2014-07-09 04:31:23 ...done.
+      Regenerating: 258 files at 2014-07-09 04:31:32 ...done.
+      Regenerating: 216 files at 2014-07-09 04:31:38 ...done.
+      Regenerating: 145 files at 2014-07-09 04:31:44 ...done.
+      Regenerating: 286 files at 2014-07-09 04:31:54 ...done.
+      Regenerating: 220 files at 2014-07-09 04:32:02 ...done.
+      Regenerating: 87 files at 2014-07-09 04:32:09 ...done.
+      Regenerating: 284 files at 2014-07-09 04:32:17 ...done.
+      Regenerating: 136 files at 2014-07-09 04:32:24 ...done.
+      Regenerating: 251 files at 2014-07-09 04:32:34 ...done.
+      Regenerating: 144 files at 2014-07-09 04:32:41 ...done.
+      Regenerating: 144 files at 2014-07-09 04:32:49 ...done.
+      Regenerating: 285 files at 2014-07-09 04:32:57 ...done.
+      Regenerating: 170 files at 2014-07-09 04:33:06 ...done.
+      Regenerating: 261 files at 2014-07-09 04:33:15 ...done.
+      Regenerating: 254 files at 2014-07-09 04:33:25 ...done.
+      Regenerating: 166 files at 2014-07-09 04:33:31 ...done.
+      Regenerating: 125 files at 2014-07-09 04:33:39 ...done.
+      Regenerating: 277 files at 2014-07-09 04:33:50 ...done.
+      Regenerating: 277 files at 2014-07-09 04:33:59 ...done.
+      Regenerating: 145 files at 2014-07-09 04:34:07 ...done.
+      Regenerating: 181 files at 2014-07-09 04:34:17 ...done.
+      Regenerating: 169 files at 2014-07-09 04:34:26 ...done.
+      Regenerating: 89 files at 2014-07-09 04:34:34 ...done.
+      Regenerating: 253 files at 2014-07-09 04:34:45 ...done.
+      Regenerating: 211 files at 2014-07-09 04:34:53 ...done.
+      Regenerating: 240 files at 2014-07-09 04:35:02 ...done.
+      Regenerating: 132 files at 2014-07-09 04:35:12 ...done.
+      Regenerating: 164 files at 2014-07-09 04:35:21 ...done.
+      Regenerating: 285 files at 2014-07-09 04:35:32 ...done.
+      Regenerating: 168 files at 2014-07-09 04:35:41 ...done.
+      Regenerating: 227 files at 2014-07-09 04:35:51 ...done.
+      Regenerating: 286 files at 2014-07-09 04:36:03 ...done.
+      Regenerating: 218 files at 2014-07-09 04:36:13 ...done.
+      Regenerating: 259 files at 2014-07-09 04:36:25 ...done.
+      Regenerating: 132 files at 2014-07-09 04:36:34 ...done.
+      Regenerating: 261 files at 2014-07-09 04:36:48 ...done.
+      Regenerating: 229 files at 2014-07-09 04:36:59 ...done.
+      Regenerating: 132 files at 2014-07-09 04:37:08 ...done.
+      Regenerating: 202 files at 2014-07-09 04:37:18 ...done.
+      Regenerating: 286 files at 2014-07-09 04:37:30 ...done.
+      Regenerating: 232 files at 2014-07-09 04:37:42 ...done.
+      Regenerating: 257 files at 2014-07-09 04:37:53 ...done.
+      Regenerating: 46 files at 2014-07-09 04:38:01 ...done.
+      Regenerating: 286 files at 2014-07-09 04:38:15 ...done.
+      Regenerating: 152 files at 2014-07-09 04:38:27 ...done.
+      Regenerating: 276 files at 2014-07-09 04:38:40 ...done.
+      Regenerating: 125 files at 2014-07-09 04:38:51 ...done.
+      Regenerating: 221 files at 2014-07-09 04:39:06 ...done.
+      Regenerating: 263 files at 2014-07-09 04:39:18 ...done.
+      Regenerating: 149 files at 2014-07-09 04:39:29 ...done.
+      Regenerating: 241 files at 2014-07-09 04:39:45 ...done.
+      Regenerating: 262 files at 2014-07-09 04:39:58 ...done.
+      Regenerating: 279 files at 2014-07-09 04:40:11 ...done.
+      Regenerating: 123 files at 2014-07-09 04:40:23 ...done.
+      Regenerating: 172 files at 2014-07-09 04:40:40 ...done.
+      Regenerating: 284 files at 2014-07-09 04:40:53 ...done.
+      Regenerating: 217 files at 2014-07-09 04:41:06 ...done.
+      Regenerating: 277 files at 2014-07-09 04:41:19 ...done.
+      Regenerating: 167 files at 2014-07-09 04:41:33 ...done.
+      Regenerating: 197 files at 2014-07-09 04:41:46 ...error:
+             Error: No such file or directory - /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/sb-admin-v2/blank.html
+             Error: Run jekyll build --trace for more information.
+      Regenerating: 205 files at 2014-07-09 04:42:00 ...done.
+      Regenerating: 245 files at 2014-07-09 04:42:16 ...done.
+      Regenerating: 306 files at 2014-07-09 04:42:37 ...done.
+      Regenerating: 262 files at 2014-07-09 04:42:53 ...done.
+      Regenerating: 160 files at 2014-07-09 04:43:07 ^Cimacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 2 files at 2014-07-09 06:00:25 ...done.
+      Regenerating: 253 files at 2014-07-09 06:00:34 ...done.
+      Regenerating: 227 files at 2014-07-09 06:00:42 ...done.
+      Regenerating: 46 files at 2014-07-09 06:00:46 ...done.
+      Regenerating: 265 files at 2014-07-09 06:00:51 ...done.
+      Regenerating: 265 files at 2014-07-09 06:00:55 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:00 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:05 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:09 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:13 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:18 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:22 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:27 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:31 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:35 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:40 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:44 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:49 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:53 ...done.
+      Regenerating: 265 files at 2014-07-09 06:01:59 ...done.
+      Regenerating: 81 files at 2014-07-09 06:02:03 ...done.
+      Regenerating: 265 files at 2014-07-09 06:02:08 ...done.
+      Regenerating: 265 files at 2014-07-09 06:02:14 ...done.
+      Regenerating: 107 files at 2014-07-09 06:02:19 ...done.
+      Regenerating: 265 files at 2014-07-09 06:02:24 ...done.
+      Regenerating: 265 files at 2014-07-09 06:02:29 ...done.
+      Regenerating: 153 files at 2014-07-09 06:02:33 ...done.
+      Regenerating: 265 files at 2014-07-09 06:02:41 ...done.
+      Regenerating: 35 files at 2014-07-09 06:02:45 ...done.
+      Regenerating: 265 files at 2014-07-09 06:02:50 ...done.
+      Regenerating: 265 files at 2014-07-09 06:02:56 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:01 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:05 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:09 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:14 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:19 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:23 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:27 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:32 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:36 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:40 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:45 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:50 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:54 ...done.
+      Regenerating: 265 files at 2014-07-09 06:03:59 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:03 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:07 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:12 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:16 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:21 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:25 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:30 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:34 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:38 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:42 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:47 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:51 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:55 ...done.
+      Regenerating: 265 files at 2014-07-09 06:04:59 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:04 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:08 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:13 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:17 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:21 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:26 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:30 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:34 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:39 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:43 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:48 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:53 ...done.
+      Regenerating: 265 files at 2014-07-09 06:05:58 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:02 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:06 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:10 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:15 ...done.
+      Regenerating: 153 files at 2014-07-09 06:06:19 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:25 ...done.
+      Regenerating: 79 files at 2014-07-09 06:06:29 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:34 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:39 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:44 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:49 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:53 ...done.
+      Regenerating: 265 files at 2014-07-09 06:06:58 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:02 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:06 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:10 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:15 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:20 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:25 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:29 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:33 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:38 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:42 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:46 ...done.
+      Regenerating: 153 files at 2014-07-09 06:07:50 ...done.
+      Regenerating: 265 files at 2014-07-09 06:07:57 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:02 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:07 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:11 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:15 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:19 ...done.
+      Regenerating: 249 files at 2014-07-09 06:08:23 ...done.
+      Regenerating: 169 files at 2014-07-09 06:08:28 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:34 ...done.
+      Regenerating: 21 files at 2014-07-09 06:08:37 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:42 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:46 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:51 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:55 ...done.
+      Regenerating: 265 files at 2014-07-09 06:08:59 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:04 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:08 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:12 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:17 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:21 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:25 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:29 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:34 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:38 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:42 ...done.
+      Regenerating: 153 files at 2014-07-09 06:09:46 ...done.
+      Regenerating: 112 files at 2014-07-09 06:09:50 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:54 ...done.
+      Regenerating: 265 files at 2014-07-09 06:09:59 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:03 ...done.
+      Regenerating: 253 files at 2014-07-09 06:10:08 ...done.
+      Regenerating: 12 files at 2014-07-09 06:10:11 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:16 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:20 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:25 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:29 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:33 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:37 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:42 ...done.
+      Regenerating: 253 files at 2014-07-09 06:10:47 ...done.
+      Regenerating: 12 files at 2014-07-09 06:10:50 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:55 ...done.
+      Regenerating: 265 files at 2014-07-09 06:10:59 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:03 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:08 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:12 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:16 ...done.
+      Regenerating: 160 files at 2014-07-09 06:11:20 ...done.
+      Regenerating: 105 files at 2014-07-09 06:11:24 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:28 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:33 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:37 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:41 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:45 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:49 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:53 ...done.
+      Regenerating: 265 files at 2014-07-09 06:11:57 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:01 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:05 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:09 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:13 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:16 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:20 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:25 ...done.
+      Regenerating: 153 files at 2014-07-09 06:12:29 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:34 ...done.
+      Regenerating: 153 files at 2014-07-09 06:12:38 ...done.
+      Regenerating: 265 files at 2014-07-09 06:12:44 ...done.
+      Regenerating: 184 files at 2014-07-09 06:12:48 ...done.
+      Regenerating: 253 files at 2014-07-09 06:12:54 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:00 ...done.
+      Regenerating: 153 files at 2014-07-09 06:13:04 ...done.
+      Regenerating: 112 files at 2014-07-09 06:13:08 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:12 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:17 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:21 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:24 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:30 ...done.
+      Regenerating: 112 files at 2014-07-09 06:13:34 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:38 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:42 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:46 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:50 ...done.
+      Regenerating: 265 files at 2014-07-09 06:13:55 ...done.
+      Regenerating: 215 files at 2014-07-09 06:14:00 ...done.
+      Regenerating: 226 files at 2014-07-09 06:14:05 ...done.
+      Regenerating: 112 files at 2014-07-09 06:14:09 ...done.
+      Regenerating: 265 files at 2014-07-09 06:14:14 ...done.
+      Regenerating: 265 files at 2014-07-09 06:14:18 ...done.
+      Regenerating: 155 files at 2014-07-09 06:14:22 ...done.
+      Regenerating: 110 files at 2014-07-09 06:14:26 ...done.
+      Regenerating: 265 files at 2014-07-09 06:14:30 ...done.
+      Regenerating: 265 files at 2014-07-09 06:14:35 ...done.
+      Regenerating: 153 files at 2014-07-09 06:14:38 ...done.
+      Regenerating: 265 files at 2014-07-09 06:14:45 ...done.
+      Regenerating: 52 files at 2014-07-09 06:14:48 ...done.
+      Regenerating: 265 files at 2014-07-09 06:14:52 ...done.
+      Regenerating: 265 files at 2014-07-09 06:14:58 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:02 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:06 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:10 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:15 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:19 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:24 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:28 ...done.
+      Regenerating: 153 files at 2014-07-09 06:15:31 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:37 ...done.
+      Regenerating: 104 files at 2014-07-09 06:15:41 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:47 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:51 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:55 ...done.
+      Regenerating: 265 files at 2014-07-09 06:15:58 ...done.
+      Regenerating: 180 files at 2014-07-09 06:16:03 ...done.
+      Regenerating: 232 files at 2014-07-09 06:16:10 ...done.
+      Regenerating: 169 files at 2014-07-09 06:16:24 ...done.
+      Regenerating: 265 files at 2014-07-09 06:16:29 ...done.
+      Regenerating: 265 files at 2014-07-09 06:16:34 ...done.
+      Regenerating: 265 files at 2014-07-09 06:16:38 ...done.
+      Regenerating: 265 files at 2014-07-09 06:16:42 ...done.
+      Regenerating: 153 files at 2014-07-09 06:16:45 ...done.
+      Regenerating: 189 files at 2014-07-09 06:16:51 ...done.
+      Regenerating: 263 files at 2014-07-09 06:16:57 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:02 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:07 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:11 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:15 ...done.
+      Regenerating: 221 files at 2014-07-09 06:17:19 ...done.
+      Regenerating: 44 files at 2014-07-09 06:17:23 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:29 ...done.
+      Regenerating: 108 files at 2014-07-09 06:17:32 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:38 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:42 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:46 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:51 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:55 ...done.
+      Regenerating: 265 files at 2014-07-09 06:17:59 ...done.
+      Regenerating: 265 files at 2014-07-09 06:18:03 ...done.
+      Regenerating: 246 files at 2014-07-09 06:18:07 ...done.
+      Regenerating: 172 files at 2014-07-09 06:18:13 ...done.
+      Regenerating: 261 files at 2014-07-09 06:18:20 ...done.
+      Regenerating: 135 files at 2014-07-09 06:18:38 ...done.
+      Regenerating: 167 files at 2014-07-09 06:18:54 ...done.
+      Regenerating: 166 files at 2014-07-09 06:19:04 ...done.
+      Regenerating: 176 files at 2014-07-09 06:19:13 ...done.
+      Regenerating: 168 files at 2014-07-09 06:19:22 ...done.
+      Regenerating: 222 files at 2014-07-09 06:19:33 ...done.
+      Regenerating: 205 files at 2014-07-09 06:19:42 ...done.
+      Regenerating: 59 files at 2014-07-09 06:19:47 ...done.
+      Regenerating: 265 files at 2014-07-09 06:19:53 ...done.
+      Regenerating: 242 files at 2014-07-09 06:20:01 ...done.
+      Regenerating: 205 files at 2014-07-09 06:20:11 ...done.
+      Regenerating: 207 files at 2014-07-09 06:20:22 ...done.
+      Regenerating: 265 files at 2014-07-09 06:20:31 ...done.
+      Regenerating: 153 files at 2014-07-09 06:20:37 ...done.
+      Regenerating: 267 files at 2014-07-09 06:20:48 ...done.
+      Regenerating: 192 files at 2014-07-09 06:21:02 ...done.
+      Regenerating: 171 files at 2014-07-09 06:21:14 ...done.
+      Regenerating: 260 files at 2014-07-09 06:21:23 ...done.
+      Regenerating: 265 files at 2014-07-09 06:21:34 ...done.
+      Regenerating: 184 files at 2014-07-09 06:21:43 ...done.
+      Regenerating: 237 files at 2014-07-09 06:21:51 ...done.
+      Regenerating: 245 files at 2014-07-09 06:22:00 ...done.
+      Regenerating: 142 files at 2014-07-09 06:22:10 ...done.
+      Regenerating: 181 files at 2014-07-09 06:22:18 ...done.
+      Regenerating: 240 files at 2014-07-09 06:22:25 ...done.
+      Regenerating: 267 files at 2014-07-09 06:22:32 ...done.
+      Regenerating: 245 files at 2014-07-09 06:22:39 ...done.
+      Regenerating: 227 files at 2014-07-09 06:22:47 ...done.
+      Regenerating: 222 files at 2014-07-09 06:22:58 ...done.
+      Regenerating: 137 files at 2014-07-09 06:23:07 ...done.
+      Regenerating: 266 files at 2014-07-09 06:23:15 ...done.
+      Regenerating: 267 files at 2014-07-09 06:23:23 ...done.
+      Regenerating: 166 files at 2014-07-09 06:23:30 ...done.
+      Regenerating: 245 files at 2014-07-09 06:23:37 ...done.
+      Regenerating: 192 files at 2014-07-09 06:23:44 ...done.
+      Regenerating: 206 files at 2014-07-09 06:23:57 ...done.
+      Regenerating: 189 files at 2014-07-09 06:24:07 ...done.
+      Regenerating: 251 files at 2014-07-09 06:24:18 ...done.
+      Regenerating: 138 files at 2014-07-09 06:24:27 ...done.
+      Regenerating: 267 files at 2014-07-09 06:24:36 ...done.
+      Regenerating: 196 files at 2014-07-09 06:24:45 ...done.
+      Regenerating: 190 files at 2014-07-09 06:24:52 ...done.
+      Regenerating: 232 files at 2014-07-09 06:24:58 ...done.
+      Regenerating: 192 files at 2014-07-09 06:25:05 ...done.
+      Regenerating: 120 files at 2014-07-09 06:25:12 ...done.
+      Regenerating: 269 files at 2014-07-09 06:25:20 ...done.
+      Regenerating: 265 files at 2014-07-09 06:25:27 ...done.
+      Regenerating: 264 files at 2014-07-09 06:25:35 ...done.
+      Regenerating: 153 files at 2014-07-09 06:25:42 ...done.
+      Regenerating: 242 files at 2014-07-09 06:25:49 ...done.
+      Regenerating: 244 files at 2014-07-09 06:25:56 ...done.
+      Regenerating: 128 files at 2014-07-09 06:26:04 ...done.
+      Regenerating: 267 files at 2014-07-09 06:26:13 ...done.
+      Regenerating: 163 files at 2014-07-09 06:26:20 ...done.
+      Regenerating: 199 files at 2014-07-09 06:26:28 ...done.
+      Regenerating: 238 files at 2014-07-09 06:26:35 ...done.
+      Regenerating: 181 files at 2014-07-09 06:26:44 ...done.
+      Regenerating: 206 files at 2014-07-09 06:26:51 ...done.
+      Regenerating: 264 files at 2014-07-09 06:27:00 ...done.
+      Regenerating: 152 files at 2014-07-09 06:27:06 ...done.
+      Regenerating: 258 files at 2014-07-09 06:27:14 ...done.
+      Regenerating: 228 files at 2014-07-09 06:27:21 ...done.
+      Regenerating: 222 files at 2014-07-09 06:27:28 ...done.
+      Regenerating: 153 files at 2014-07-09 06:27:35 ...done.
+      Regenerating: 264 files at 2014-07-09 06:27:45 ...done.
+      Regenerating: 126 files at 2014-07-09 06:27:52 ...done.
+      Regenerating: 152 files at 2014-07-09 06:28:00 ...done.
+      Regenerating: 246 files at 2014-07-09 06:28:10 ...done.
+      Regenerating: 179 files at 2014-07-09 06:28:18 ...done.
+      Regenerating: 235 files at 2014-07-09 06:28:25 ...done.
+      Regenerating: 154 files at 2014-07-09 06:28:34 ...done.
+      Regenerating: 156 files at 2014-07-09 06:28:42 ...done.
+      Regenerating: 264 files at 2014-07-09 06:28:51 ...done.
+      Regenerating: 201 files at 2014-07-09 06:29:00 ...done.
+      Regenerating: 209 files at 2014-07-09 06:29:10 ...done.
+      Regenerating: 269 files at 2014-07-09 06:29:20 ...done.
+      Regenerating: 130 files at 2014-07-09 06:29:31 ...done.
+      Regenerating: 168 files at 2014-07-09 06:29:39 ...done.
+      Regenerating: 225 files at 2014-07-09 06:29:49 ...done.
+      Regenerating: 205 files at 2014-07-09 06:29:59 ...done.
+      Regenerating: 241 files at 2014-07-09 06:30:09 ...done.
+      Regenerating: 272 files at 2014-07-09 06:30:19 ...done.
+      Regenerating: 216 files at 2014-07-09 06:30:30 ...done.
+      Regenerating: 156 files at 2014-07-09 06:30:40 ...done.
+      Regenerating: 244 files at 2014-07-09 06:30:50 ...done.
+      Regenerating: 133 files at 2014-07-09 06:30:58 ...done.
+      Regenerating: 254 files at 2014-07-09 06:31:10 ...done.
+      Regenerating: 187 files at 2014-07-09 06:31:20 ...done.
+      Regenerating: 168 files at 2014-07-09 06:31:32 ...done.
+      Regenerating: 249 files at 2014-07-09 06:31:41 ...done.
+      Regenerating: 197 files at 2014-07-09 06:31:51 ...done.
+      Regenerating: 179 files at 2014-07-09 06:32:01 ...done.
+      Regenerating: 208 files at 2014-07-09 06:32:11 ...done.
+      Regenerating: 148 files at 2014-07-09 06:32:24 ...done.
+      Regenerating: 261 files at 2014-07-09 06:32:35 ...done.
+      Regenerating: 29 files at 2014-07-09 06:32:42 ...done.
+      Regenerating: 208 files at 2014-07-09 06:32:55 ...done.
+      Regenerating: 258 files at 2014-07-09 06:33:05 ...done.
+      Regenerating: 217 files at 2014-07-09 06:33:19 ...done.
+      Regenerating: 160 files at 2014-07-09 06:33:30 ...done.
+      Regenerating: 206 files at 2014-07-09 06:33:42 ...done.
+      Regenerating: 241 files at 2014-07-09 06:33:54 ...done.
+      Regenerating: 88 files at 2014-07-09 06:34:05 ...done.
+      Regenerating: 226 files at 2014-07-09 06:34:21 ...done.
+      Regenerating: 50 files at 2014-07-09 06:34:30 ...done.
+      Regenerating: 257 files at 2014-07-09 06:34:45 ...done.
+      Regenerating: 215 files at 2014-07-09 06:34:56 ...done.
+      Regenerating: 259 files at 2014-07-09 06:35:08 ...done.
+      Regenerating: 264 files at 2014-07-09 06:35:23 ...done.
+      Regenerating: 239 files at 2014-07-09 06:35:36 ...done.
+      Regenerating: 224 files at 2014-07-09 06:35:47 ...done.
+      Regenerating: 197 files at 2014-07-09 06:35:58 ...done.
+      Regenerating: 242 files at 2014-07-09 06:36:11 ...done.
+      Regenerating: 177 files at 2014-07-09 06:36:27 ...done.
+      Regenerating: 173 files at 2014-07-09 06:36:40 ...done.
+      Regenerating: 164 files at 2014-07-09 06:36:54 ...done.
+      Regenerating: 199 files at 2014-07-09 06:37:09 ...done.
+      Regenerating: 248 files at 2014-07-09 06:37:25 ...done.
+      Regenerating: 215 files at 2014-07-09 06:37:38 ...done.
+      Regenerating: 259 files at 2014-07-09 06:37:53 ...done.
+      Regenerating: 254 files at 2014-07-09 06:38:07 ...done.
+      Regenerating: 203 files at 2014-07-09 06:38:23 ...done.
+      Regenerating: 245 files at 2014-07-09 06:38:37 ...done.
+      Regenerating: 173 files at 2014-07-09 06:38:52 ...done.
+      Regenerating: 203 files at 2014-07-09 06:39:05 ...done.
+      Regenerating: 227 files at 2014-07-09 06:39:24 ...done.
+      Regenerating: 178 files at 2014-07-09 06:39:37 ...done.
+      Regenerating: 140 files at 2014-07-09 06:39:49 ...done.
+      Regenerating: 250 files at 2014-07-09 06:40:08 ...done.
+      Regenerating: 264 files at 2014-07-09 06:40:22 ...done.
+      Regenerating: 234 files at 2014-07-09 06:40:36 ...done.
+      Regenerating: 238 files at 2014-07-09 06:40:53 ...done.
+      Regenerating: 219 files at 2014-07-09 06:41:12 ...done.
+      Regenerating: 160 files at 2014-07-09 06:41:24 ...done.
+      Regenerating: 166 files at 2014-07-09 06:41:40 ...done.
+      Regenerating: 263 files at 2014-07-09 06:41:56 ...done.
+      Regenerating: 232 files at 2014-07-09 06:42:13 ...done.
+      Regenerating: 191 files at 2014-07-09 06:42:27 ...done.
+      Regenerating: 161 files at 2014-07-09 06:42:41 ...done.
+      Regenerating: 225 files at 2014-07-09 06:43:03 ...done.
+      Regenerating: 176 files at 2014-07-09 06:43:18 ...done.
+      Regenerating: 168 files at 2014-07-09 06:43:38 ...done.
+      Regenerating: 199 files at 2014-07-09 06:43:52 ...done.
+      Regenerating: 265 files at 2014-07-09 06:44:16 ...done.
+      Regenerating: 145 files at 2014-07-09 06:44:33 ...done.
+      Regenerating: 230 files at 2014-07-09 06:44:50 ...done.
+      Regenerating: 206 files at 2014-07-09 06:45:11 ...done.
+      Regenerating: 51 files at 2014-07-09 06:45:30 ...done.
+      Regenerating: 188 files at 2014-07-09 06:45:49 ...done.
+      Regenerating: 91 files at 2014-07-09 06:46:05 ...done.
+      Regenerating: 263 files at 2014-07-09 06:46:27 ...done.
+      Regenerating: 113 files at 2014-07-09 06:46:45 ...done.
+      Regenerating: 206 files at 2014-07-09 06:47:05 ...done.
+      Regenerating: 240 files at 2014-07-09 06:47:21 ...done.
+      Regenerating: 164 files at 2014-07-09 06:47:47 ...done.
+      Regenerating: 174 files at 2014-07-09 06:48:02 ...done.
+      Regenerating: 202 files at 2014-07-09 06:48:22 ...done.
+      Regenerating: 143 files at 2014-07-09 06:48:52 ...done.
+      Regenerating: 226 files at 2014-07-09 06:49:19 ...done.
+      Regenerating: 138 files at 2014-07-09 06:49:38 ...done.
+      Regenerating: 181 files at 2014-07-09 06:50:05 ...done.
+      Regenerating: 200 files at 2014-07-09 06:50:22 ...done.
+      Regenerating: 227 files at 2014-07-09 06:50:47 ...done.
+      Regenerating: 193 files at 2014-07-09 06:51:04 ...done.
+      Regenerating: 261 files at 2014-07-09 06:51:36 ...done.
+      Regenerating: 173 files at 2014-07-09 06:52:05 ...done.
+      Regenerating: 116 files at 2014-07-09 06:52:20 ...done.
+      Regenerating: 164 files at 2014-07-09 06:52:49 ...done.
+      Regenerating: 115 files at 2014-07-09 06:53:16 ...done.
+      Regenerating: 208 files at 2014-07-09 06:53:36 ...done.
+      Regenerating: 140 files at 2014-07-09 06:54:06 ...done.
+      Regenerating: 185 files at 2014-07-09 06:54:29 ...done.
+      Regenerating: 199 files at 2014-07-09 06:54:59 ...done.
+      Regenerating: 174 files at 2014-07-09 06:55:18 ...done.
+      Regenerating: 263 files at 2014-07-09 06:55:47 ...done.
+      Regenerating: 153 files at 2014-07-09 06:56:11 ...done.
+      Regenerating: 259 files at 2014-07-09 06:56:46 ...done.
+      Regenerating: 119 files at 2014-07-09 06:57:04 ...done.
+      Regenerating: 239 files at 2014-07-09 06:57:30 ...done.
+      Regenerating: 243 files at 2014-07-09 06:57:57 ...done.
+      Regenerating: 160 files at 2014-07-09 06:58:28 ...done.
+      Regenerating: 153 files at 2014-07-09 06:58:50 ...done.
+      Regenerating: 238 files at 2014-07-09 06:59:26 ...done.
+      Regenerating: 177 files at 2014-07-09 06:59:50 ...done.
+      Regenerating: 202 files at 2014-07-09 07:00:19 ...done.
+      Regenerating: 220 files at 2014-07-09 07:00:53 ...done.
+      Regenerating: 176 files at 2014-07-09 07:01:18 ...done.
+      Regenerating: 188 files at 2014-07-09 07:01:58 ...done.
+      Regenerating: 45 files at 2014-07-09 07:02:38 ...done.
+      Regenerating: 218 files at 2014-07-09 07:03:07 ...done.
+      Regenerating: 230 files at 2014-07-09 07:03:35 ...done.
+      Regenerating: 166 files at 2014-07-09 07:03:57 ...done.
+      Regenerating: 222 files at 2014-07-09 07:04:40 ...done.
+      Regenerating: 236 files at 2014-07-09 07:05:12 ...done.
+      Regenerating: 76 files at 2014-07-09 07:05:45 ...done.
+      Regenerating: 199 files at 2014-07-09 07:06:11 ...done.
+      Regenerating: 183 files at 2014-07-09 07:06:54 ...done.
+      Regenerating: 74 files at 2014-07-09 07:07:18 ...done.
+      Regenerating: 209 files at 2014-07-09 07:07:51 ...done.
+      Regenerating: 248 files at 2014-07-09 07:09:15 ...done.
+      Regenerating: 248 files at 2014-07-09 07:10:23 ...error:
+             Error: No such file or directory - /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/backend/blank.html
+             Error: Run jekyll build --trace for more information.
+      Regenerating: 108 files at 2014-07-09 07:11:08 ...done.
+      Regenerating: 248 files at 2014-07-09 07:12:42 ...done.
+      Regenerating: 259 files at 2014-07-09 07:14:08 ...done.
+      Regenerating: 203 files at 2014-07-09 07:15:13 ...done.
+      Regenerating: 135 files at 2014-07-09 07:16:42 ...done.
+      Regenerating: 225 files at 2014-07-09 07:18:08 ...done.
+      Regenerating: 254 files at 2014-07-09 07:19:41 ...done.
+      Regenerating: 257 files at 2014-07-09 07:21:10 ...done.
+      Regenerating: 216 files at 2014-07-09 07:22:55 ...done.
+      Regenerating: 263 files at 2014-07-09 07:24:25 ...error:
+             Error: No such file or directory - /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/backend_flot/blank.html
+             Error: Run jekyll build --trace for more information.
+      Regenerating: 254 files at 2014-07-09 07:26:04 ...done.
+      Regenerating: 206 files at 2014-07-09 07:27:50 ...done.
+      Regenerating: 245 files at 2014-07-09 07:29:21 ...done.
+      Regenerating: 138 files at 2014-07-09 07:31:10 ...error:
+             Error: No such file or directory - /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/hovereffects.md
+             Error: Run jekyll build --trace for more information.
+      Regenerating: 117 files at 2014-07-09 07:31:54 ...done.
+^C[Listen warning]: Change block raised an exception: attempted to call a dead actor
+Backtrace:
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/celluloid-0.16.0.pre/lib/celluloid/proxies/sync_proxy.rb:23:in `method_missing'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:255:in `_silenced?'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:234:in `block (2 levels) in _reinterpret_related_changes'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:233:in `reject'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:233:in `block in _reinterpret_related_changes'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:228:in `each'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:228:in `map'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:228:in `_reinterpret_related_changes'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:176:in `_smoosh_changes'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:158:in `block in _wait_for_changes'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:148:in `loop'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:148:in `_wait_for_changes'
+	/Users/hhe/.rvm/gems/ruby-2.0.0-p451/gems/listen-2.7.5/lib/listen/listener.rb:41:in `block in start'
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ jekyll build --trace
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/Ali-Baba-Tajine.github.io
+       Destination: mamp
+      Generating... 
+                    done.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+unchanged _sass/variables.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+unchanged _sass/sticky-footer.scss
+unchanged _sass/variables.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ compass compile
+directory css/slate/ 
+unchanged _sass/abtmain.scss
+unchanged _sass/bootstrap/bootstrap.scss
+unchanged _sass/bootstrap.scss
+unchanged _sass/flatly.scss
+unchanged _sass/highlight.scss
+unchanged _sass/ihover.scss
+unchanged _sass/leaflet/L.Control.Zoomslider.scss
+unchanged _sass/leaflet/leaflet.scss
+unchanged _sass/leaflet/leaflet_custom.scss
+    error _sass/slate/bootswatch.scss (Line 18: Undefined variable: "$navbar-default-bg".)
+   create css/slate/bootswatch.css 
+   create css/slate/variables.css 
+unchanged _sass/sticky-footer.scss
+unchanged _sass/variables.scss
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ grunt swatch
+>> Local Npm module "grunt-contrib-sass" not found. Is it installed?
+Loading "Gruntfile.js" tasks...ERROR
+>> Error: Unable to read "package.json" file (Error code: ENOENT).
+Warning: Task "swatch" not found. Use --force to continue.
+
+Aborted due to warnings.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ grunt swatch
+>> Local Npm module "grunt-contrib-sass" not found. Is it installed?
+
+Running "swatch:amelia" (swatch) task
+
+Running "build:amelia" (build) task
+Warning: Task "sass:dist" not found. Use --force to continue.
+
+Aborted due to warnings.
+imacltksls-3:Ali-Baba-Tajine.github.io hhe$ grunt swatch
