@@ -3,9 +3,9 @@
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#abt-navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                    <span class="icon-bar weiss"></span>
+                    <span class="icon-bar weiss"></span>
+                    <span class="icon-bar weiss"></span>
                 </button>
       <a class="navbar-brand" href="index.html">{{ site.title }}</a>
             </div>
@@ -15,14 +15,21 @@
                     <li><a href="{{ site.url }}info.html">INFO</a></li>
                     <li><a href="{{ site.url }}blog.html">BLOG</a></li>
                     <li><a href="{{ site.url }}netz.html">NETZ</a></li>
+                    <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">BACKEND <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                              <li><a href="{{ site.url }}backend_anima/index.html">Grafische Statistik</a></li>
+                              <li><a href="{{ site.url }}backend_charts/index.html">Charts</a></li>
+                            </ul>
+                          </li>
                     <li><a href="https://shop.tajine.de" target="_blank">SHOP</a></li>
                 </ul>
                 <form class="navbar-form navbar-right" role="search">
-                    <div class="form-group">
-                      <input type="text" class="form-control" placeholder="Suchbegriff">
+                    <div class="input-group">
+                      <input type="text" class="form-control input-sm" placeholder="Suchbegriff">
+                      <button type="submit" class="btn btn-primary btn-sm"><span class="glyphicon glyphicon-search"></span>
+                      </button>
                     </div>
-                    <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span>
-                    </button>
                 </form>
             </div>
         </div>

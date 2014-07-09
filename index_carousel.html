@@ -87,10 +87,12 @@ group: index
     </div>
     <script src="./js/vendor/jquery.min.js"></script>
     <script src="./js/bootstrap.min.js"></script>
-    <script src="./js/bootstrap-touch-carousel.js"></script>
+<!--    <script src="./js/bootstrap-touch-carousel.js"></script>-->
     <script>
     $('.carousel').carousel({
-        interval: 3000
+        interval: 3000;
+        pause: "hover";
+        wrap: true
     })
     </script>
 </body>
