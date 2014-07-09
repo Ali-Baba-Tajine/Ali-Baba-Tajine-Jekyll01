@@ -8,9 +8,10 @@
 /beitraege.html
 /blog.html
 /css/bootstrap-expo.css
-/css_copy/bootstrap-expo.css
 /css_09072014/bootstrap-expo.css
+/css_copy/bootstrap-expo.css
 /expo.html
+/hero.html
 /hovereffects.html
 /iisondex.html
 /impressum.html
@@ -22,6 +23,7 @@
 /rss.xml
 /scrollingnav.html
 /sitemap.txt
+/slate.html
 /start.html
 /tags.html
 /themen.html
