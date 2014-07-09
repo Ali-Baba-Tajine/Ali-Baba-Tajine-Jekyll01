@@ -19,6 +19,7 @@
 /netz.html
 /resources.html
 /rss.xml
+/scrollingnav.html
 /sitemap.txt
 /start.html
 /tags.html
