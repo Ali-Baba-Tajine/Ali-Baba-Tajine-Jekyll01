@@ -6,11 +6,15 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Herzlich willkommen!</title>
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css_copy/the-big-picture.css" rel="stylesheet">
+    <link href="http://mamp:8888/fonts/sourcesanspro.css" rel="stylesheet" type="text/css" media="screen, projection, print" />
+    <link href="http://mamp:8888/css_copy/slatestrap.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="http://mamp:8888/css_copy/slateswatch.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="http://mamp:8888/css_copy/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
+    <link href="http://mamp:8888/css_copy/abttheme.css" rel="stylesheet" type="text/css" media="screen, projection" />
+    <link href="http://mamp:8888/css_copy/the-big-picture.css" rel="stylesheet" type="text/css" media="screen, projection" >
 </head>
 <body>
-    <nav class="navbar navbar-fixed-bottom navbar-inverse" role="navigation">
+    <nav class="navbar navbar-fixed-bottom navbar-responsive" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -29,6 +33,7 @@
                 	<li><a href="http://mamp:8888/info.html">INFO</a></li>
 									<li><a href="http://mamp:8888/blog.html">BLOG</a></li>
 									<li><a href="http://mamp:8888/netz.html">NETZ</a></li>
+									<li><a href="http://mamp:8888/backend_anima/index.html">BACK</a></li>
 									<li><a href="https://shop.tajine.de" target="_blank">SHOP</a></li>
                 </ul>
             </div>
@@ -37,12 +42,22 @@
         <!-- /.container -->
     </nav>
 
-    <div class="container">
+    <div class="container" id="home">
         <div class="row">
-            <div class="col-lg-8 col-sm-12">
-                <h1>Ali Baba Tajine</h1>
-                <p>Here's a spot for some awesome intro text. Check out the fixed nav at the bottom!</p>
-                <p>Set the background image in the CSS, pair it with some cool fonts, and you will have a rockin' start to a cool portfolio.</p>
+            <div class="col-lg-12 col-sm-12">
+<!--                <h1>Ali Baba Tajine <span>Das Original</span></h1>-->
+                <h2>Ali Baba Tajine</h2>
+                <div class="page-header" id="banner">
+                        <div class="row">
+                          <div class="col-lg-12">
+                            <h1>Topffavoriten</h1>
+                            <a href="https://shop.tajine.de/" class="btn btn-outline-inverse btn-lg" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Link', 'Shopbesuch']);">Shop</a>
+                          </div>
+                          <div class="col-lg-12">
+                            
+                          </div>
+                        </div>
+                      </div>
             </div>
         </div>
     </div>

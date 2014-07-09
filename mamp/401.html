@@ -21,8 +21,10 @@
 <!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,900">-->
 <link href="http://mamp:8888/fonts/sourcesanspro.css" rel="stylesheet" type="text/css" media="screen, projection, print" />
 <link href="http://mamp:8888/css_copy/slatestrap.css" rel="stylesheet" type="text/css" media="screen, projection" >
-<link href="http://mamp:8888/css_copy/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
 <link href="http://mamp:8888/css_copy/slateswatch.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
+<link href="http://mamp:8888/css_copy/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen, projection" >
+<link href="http://mamp:8888/css_copy/sticky-footer-navbar.css" rel="stylesheet" type="text/css" media="screen, projection" >
+<link href="http://mamp:8888/css_copy/abttheme.css" rel="stylesheet" type="text/css" media="screen, projection" />
 <link href="http://mamp:8888/css/sticky-footer.css" rel="stylesheet" type="text/css" media="screen, projection" />
 <link href="http://mamp:8888/css/highlight.css" rel="stylesheet" type="text/css" media="screen, projection" />
 <link href="http://mamp:8888/css_copy/animate.min.css" rel="stylesheet" type="text/css" media="screen, projection" />
@@ -46,7 +48,6 @@
 
 </head>
 <body id="Die Anfrage kann nicht ohne gültige Authentifizierung durchgeführt werden - HTTP Error 401 - Unauthorized">
-  <script src="js/bsa.js"></script>
 
 <!--<div id="fb-root"></div>-->
 <!--<script>(function(d, s, id) {
@@ -56,9 +57,10 @@
   js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>-->
-<div id="wrap">
+    <div id="wrap">
+      <script src="js/bsa.js"></script>
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Ihr Browser ist ziemlich veraltet.</strong> Installieren Sie eine aktuelle Version, um alle Funktionen dieser Seite zu genießen.</a></div><![endif]-->
-<nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+<nav class="navbar navbar-fixed-top navbar-responsive" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#abt-navbar-collapse">
@@ -81,13 +83,21 @@
                     <div class="form-group">
                       <input type="text" class="form-control" placeholder="Suchbegriff">
                     </div>
-                    <button type="submit" class="btn btn-primary">Suchen</button>
+                    <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span>
+                    </button>
                 </form>
             </div>
         </div>
     </nav>
 
 <div class="container" id="main" role="main">
+<!--<div class="row" id="abstand" class="hidden-sm"></div>-->
+<div class="eilmeldung">
+  <div class="container">
+      <small>Looking for Bootstrap 2.3.2 docs? We've moved it to a new home while we push forward with Bootstrap 3. Read the blog for details.</small>
+  </div>
+</div>
+
 <div class="row">
   <div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 hidden-xs">
     <ul class="nav nav-pills nav-stacked">
@@ -124,16 +134,16 @@ var Swiftype = window.Swiftype || {};
 </div>
 </div>
 <div class="footer-wrapper">
-  <footer role="contentinfo">
-    <div class="container">
-    <p>&copy; 2014 Ali Baba Tajine
-      auf Basis von <a href="https://github.com/Ali-Baba-Tajine/Ali-Baba-Tajine.github.io" target="_blank" title="Quellcode">Custom Quellcode</a>
-      and <a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap 3.1.1</a>
-    </p>
-    <p><a href="http://alibabatajine.mit-license.org" target="_blank">MIT License</a></p>
-</div>
+    <div id="footer">
+  <div class="container">
+     <ul class="breadcrumb" style="margin-bottom: 5px;">
+       <li><a href="#">Home</a></li>
+       <li><a href="#">Library</a></li>
+       <li class="active">Data</li>
+     </ul>
+   </div>
+</div>  
 
-  </footer>
 </div>
 <!--<script type="text/javascript">
   var _gaq = _gaq || [];

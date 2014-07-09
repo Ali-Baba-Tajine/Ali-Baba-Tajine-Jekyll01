@@ -9,7 +9,6 @@
 {% include abtminihead_slate.html %}
 </head>
 <body id="{{ page.title }}">
-  <script src="js/bsa.js"></script>
 
 <!--<div id="fb-root"></div>-->
 <!--<script>(function(d, s, id) {
@@ -19,11 +18,19 @@
   js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>-->
-<div id="wrap">
+    <div id="wrap">
+      <script src="js/bsa.js"></script>
 {% include browser-upgrade.html %}
 {% include abtfixedoben.html %}
 
 <div class="container" id="main" role="main">
+<!--<div class="row" id="abstand" class="hidden-sm"></div>-->
+<div class="eilmeldung">
+  <div class="container">
+      <small>Looking for Bootstrap 2.3.2 docs? We've moved it to a new home while we push forward with Bootstrap 3. Read the blog for details.</small>
+  </div>
+</div>
+
 <div class="row">
   <div class="col-lg-3 col-md-3 col-sm-4 col-xs-4 hidden-xs">
     <ul class="nav nav-pills nav-stacked">
@@ -40,9 +47,7 @@
 </div>
 </div>
 <div class="footer-wrapper">
-  <footer role="contentinfo">
     {% include abtfooter.html %}
-  </footer>
 </div>
 <!--{% include google_analytics.html %}-->
 {% include abtscripts.html %}          
