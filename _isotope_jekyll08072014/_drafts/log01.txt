@@ -1,0 +1,189 @@
+Last login: Tue Jul  8 09:18:51 on ttys000
+You have mail.
+imacltksls-3:isotope_jekyll hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 09:55:21 ...done.
+      Regenerating: 1 files at 2014-07-08 09:59:13 ...done.
+      Regenerating: 2 files at 2014-07-08 10:00:45 ...done.
+      Regenerating: 1 files at 2014-07-08 10:01:04 ...done.
+      Regenerating: 1 files at 2014-07-08 10:03:14 ...done.
+      Regenerating: 6 files at 2014-07-08 10:07:13 ...done.
+      Regenerating: 1 files at 2014-07-08 10:08:53 ...done.
+      Regenerating: 1 files at 2014-07-08 10:13:08 ...done.
+      Regenerating: 1 files at 2014-07-08 10:15:16 ...done.
+      Regenerating: 2 files at 2014-07-08 10:15:39 ...done.
+      Regenerating: 1 files at 2014-07-08 10:16:44 ...done.
+      Regenerating: 1 files at 2014-07-08 10:40:57 ...done.
+      Regenerating: 1 files at 2014-07-08 10:41:32 ...done.
+      Regenerating: 1 files at 2014-07-08 10:41:49 ...done.
+      Regenerating: 1 files at 2014-07-08 10:43:58 ...done.
+      Regenerating: 1 files at 2014-07-08 10:46:28 ...done.
+      Regenerating: 1 files at 2014-07-08 10:47:04 ...done.
+      Regenerating: 1 files at 2014-07-08 10:48:08 ...done.
+      Regenerating: 1 files at 2014-07-08 10:49:07 ...done.
+      Regenerating: 1 files at 2014-07-08 10:49:13 ...done.
+      Regenerating: 1 files at 2014-07-08 10:51:00 ...done.
+      Regenerating: 1 files at 2014-07-08 10:51:41 ...done.
+      Regenerating: 1 files at 2014-07-08 10:52:36 ...done.
+      Regenerating: 1 files at 2014-07-08 11:00:15 ...done.
+      Regenerating: 1 files at 2014-07-08 11:00:45 ...done.
+      Regenerating: 1 files at 2014-07-08 11:01:13 ...done.
+      Regenerating: 1 files at 2014-07-08 11:03:21 ...done.
+      Regenerating: 1 files at 2014-07-08 11:05:24 ...done.
+      Regenerating: 1 files at 2014-07-08 11:06:22 ...done.
+      Regenerating: 1 files at 2014-07-08 11:07:02 ...done.
+      Regenerating: 1 files at 2014-07-08 11:07:08 ...done.
+      Regenerating: 1 files at 2014-07-08 11:09:59 ...done.
+      Regenerating: 1 files at 2014-07-08 11:10:47 ...done.
+      Regenerating: 1 files at 2014-07-08 11:12:24 ...done.
+      Regenerating: 1 files at 2014-07-08 11:13:21 ...done.
+      Regenerating: 1 files at 2014-07-08 11:13:40 ...done.
+      Regenerating: 1 files at 2014-07-08 11:15:04 ...done.
+      Regenerating: 1 files at 2014-07-08 11:16:34 ...done.
+      Regenerating: 1 files at 2014-07-08 11:18:12 ...done.
+      Regenerating: 1 files at 2014-07-08 11:19:50 ...done.
+      Regenerating: 1 files at 2014-07-08 11:34:49 ...done.
+      Regenerating: 1 files at 2014-07-08 11:36:42 ...done.
+      Regenerating: 2 files at 2014-07-08 11:38:21 ...done.
+      Regenerating: 4 files at 2014-07-08 11:38:48 ...done.
+      Regenerating: 2 files at 2014-07-08 11:38:51 ...done.
+      Regenerating: 2 files at 2014-07-08 11:39:06 ...done.
+      Regenerating: 4 files at 2014-07-08 11:39:19 ...done.
+      Regenerating: 1 files at 2014-07-08 11:40:49 ...done.
+      Regenerating: 1 files at 2014-07-08 11:40:54 ...done.
+      Regenerating: 1 files at 2014-07-08 11:42:56 ...done.
+      Regenerating: 1 files at 2014-07-08 11:43:29 ...done.
+      Regenerating: 1 files at 2014-07-08 11:43:47 ...done.
+      Regenerating: 1 files at 2014-07-08 11:44:54 ...done.
+      Regenerating: 1 files at 2014-07-08 11:45:42 ...done.
+      Regenerating: 1 files at 2014-07-08 11:46:29 ...done.
+      Regenerating: 1 files at 2014-07-08 11:46:58 ...done.
+      Regenerating: 1 files at 2014-07-08 11:47:11 ...done.
+      Regenerating: 1 files at 2014-07-08 11:48:20 ...done.
+      Regenerating: 1 files at 2014-07-08 11:49:23 ...done.
+      Regenerating: 1 files at 2014-07-08 11:49:36 ...done.
+      Regenerating: 1 files at 2014-07-08 11:49:47 ...done.
+      Regenerating: 1 files at 2014-07-08 11:51:52 ...done.
+      Regenerating: 1 files at 2014-07-08 11:52:32 ...done.
+      Regenerating: 1 files at 2014-07-08 11:55:02 ...done.
+      Regenerating: 1 files at 2014-07-08 11:56:25 ...done.
+      Regenerating: 1 files at 2014-07-08 12:02:54 ...done.
+      Regenerating: 1 files at 2014-07-08 12:03:55 ...done.
+      Regenerating: 4 files at 2014-07-08 12:03:56 ...done.
+      Regenerating: 4 files at 2014-07-08 12:03:58 ...done.
+      Regenerating: 4 files at 2014-07-08 12:03:59 ...done.
+      Regenerating: 5 files at 2014-07-08 12:04:01 ...done.
+      Regenerating: 5 files at 2014-07-08 12:04:02 ...done.
+      Regenerating: 4 files at 2014-07-08 12:04:04 ...done.
+      Regenerating: 1 files at 2014-07-08 12:07:32 ...done.
+      Regenerating: 1 files at 2014-07-08 12:08:08 ...done.
+      Regenerating: 26 files at 2014-07-08 12:08:59 ...done.
+      Regenerating: 52 files at 2014-07-08 12:11:05 ...done.
+      Regenerating: 1 files at 2014-07-08 12:11:43 ...done.
+      Regenerating: 1 files at 2014-07-08 12:11:57 ...done.
+      Regenerating: 1 files at 2014-07-08 12:14:34 ...done.
+      Regenerating: 1 files at 2014-07-08 12:14:47 ...done.
+      Regenerating: 1 files at 2014-07-08 12:17:20 ...done.
+      Regenerating: 1 files at 2014-07-08 12:20:49 ...done.
+      Regenerating: 1 files at 2014-07-08 12:20:55 ...done.
+      Regenerating: 1 files at 2014-07-08 12:26:42 ...done.
+      Regenerating: 1 files at 2014-07-08 12:27:11 ...done.
+      Regenerating: 1 files at 2014-07-08 12:28:21 ...done.
+      Regenerating: 1 files at 2014-07-08 12:44:37 ...done.
+      Regenerating: 1 files at 2014-07-08 12:45:39 ...done.
+      Regenerating: 2 files at 2014-07-08 12:46:05 ...done.
+      Regenerating: 1 files at 2014-07-08 12:46:40 ...done.
+      Regenerating: 1 files at 2014-07-08 12:53:08 ...done.
+      Regenerating: 1 files at 2014-07-08 12:53:44 ...done.
+      Regenerating: 1 files at 2014-07-08 12:58:09 ...done.
+      Regenerating: 1 files at 2014-07-08 12:59:14 ...done.
+      Regenerating: 1 files at 2014-07-08 13:00:09 ...done.
+      Regenerating: 1 files at 2014-07-08 13:00:14 ...done.
+      Regenerating: 1 files at 2014-07-08 13:03:37 ...done.
+      Regenerating: 1 files at 2014-07-08 13:04:56 ...done.
+      Regenerating: 1 files at 2014-07-08 13:06:06 ...done.
+      Regenerating: 1 files at 2014-07-08 13:07:04 ...done.
+      Regenerating: 1 files at 2014-07-08 13:11:34 ...done.
+      Regenerating: 1 files at 2014-07-08 13:13:07 ...done.
+      Regenerating: 1 files at 2014-07-08 13:13:37 ...done.
+^Cimacltksls-3:isotope_jekyll hhe$ 
+imacltksls-3:isotope_jekyll hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 13:18:09 ...done.
+      Regenerating: 1 files at 2014-07-08 13:18:53 ...done.
+      Regenerating: 1 files at 2014-07-08 13:18:59 ...done.
+^Cimacltksls-3:isotope_jekyll hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 files at 2014-07-08 13:48:41 ...done.
+      Regenerating: 1 files at 2014-07-08 13:49:16 ...done.
+      Regenerating: 1 files at 2014-07-08 13:49:23 ...done.
+      Regenerating: 1 files at 2014-07-08 13:49:32 ...done.
+      Regenerating: 1 files at 2014-07-08 13:50:31 ...done.
+      Regenerating: 1 files at 2014-07-08 13:52:28 ...done.
+      Regenerating: 1 files at 2014-07-08 13:56:31 ...done.
+      Regenerating: 1 files at 2014-07-08 14:03:33 ...done.
+      Regenerating: 1 files at 2014-07-08 14:03:47 ...done.
+      Regenerating: 1 files at 2014-07-08 14:04:58 ...done.
+      Regenerating: 1 files at 2014-07-08 14:05:58 ...done.
+      Regenerating: 1 files at 2014-07-08 14:07:29 ...done.
+      Regenerating: 1 files at 2014-07-08 14:08:14 ...done.
+      Regenerating: 1 files at 2014-07-08 14:08:55 ...done.
+      Regenerating: 1 files at 2014-07-08 14:09:20 ...done.
+      Regenerating: 1 files at 2014-07-08 14:13:36 ...done.
+      Regenerating: 1 files at 2014-07-08 14:15:36 ...done.
+      Regenerating: 1 files at 2014-07-08 14:15:51 ...done.
+      Regenerating: 1 files at 2014-07-08 14:49:04 ...done.
+      Regenerating: 14 files at 2014-07-08 15:06:19 ...done.
+      Regenerating: 26 files at 2014-07-08 15:06:23 ...done.
+^Cimacltksls-3:isotope_jekyll hhe$ jekyll serve --watch
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+            Source: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll
+       Destination: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /Users/hhe/Desktop/TAJINE_WEB/_ABT_ISOTOPE/isotope_jekyll/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 40 files at 2014-07-08 15:16:05 ...done.
+      Regenerating: 1 files at 2014-07-08 15:54:50 ...done.
+      Regenerating: 2 files at 2014-07-08 15:55:34 ...done.
+      Regenerating: 1 files at 2014-07-08 15:56:28 ...done.
+      Regenerating: 1 files at 2014-07-08 16:11:58 ...done.
+      Regenerating: 2 files at 2014-07-08 16:12:14 ...done.
+      Regenerating: 1 files at 2014-07-08 16:12:29 ...done.
+      Regenerating: 1 files at 2014-07-08 16:12:46 ...done.
+      Regenerating: 1 files at 2014-07-08 16:13:04 ...done.
+      Regenerating: 1 files at 2014-07-08 16:21:42 ...done.
+      Regenerating: 1 files at 2014-07-08 16:22:20 ...done.
+      Regenerating: 1 files at 2014-07-08 16:22:36 ...done.
+      Regenerating: 2 files at 2014-07-08 16:22:38 ...done.
+

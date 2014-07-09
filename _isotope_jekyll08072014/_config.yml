@@ -1,0 +1,11 @@
+name: Ali Baba Tajine - Isotope
+permalink: /:categories/:title.html
+highlighter: true
+isotope_js: js/jquery.isotope.min.js
+jquery_js: js/jquery-1.7.1.min.js
+exclude: [minify.sh]
+
+
+
+
+
