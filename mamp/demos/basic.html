@@ -1,1 +1,224 @@
+<!doctype html>
+<html lang="de">
+<head>
+  
+  <meta charset="utf-8" />
+  <title>Basic &middot;  Demo</title>
+  
+  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  
+  <link rel="stylesheet" href="http://mamp:8888/css_copy/style.css" />
+  <link rel="stylesheet" href="http://mamp:8888/css_copy/bootstrap.min.css" />
+  <link rel="stylesheet" href="http://mamp:8888/css_copy/bootstrap-theme.css" />
+  
+  
+  <!-- scripts at bottom of page -->
 
+</head>
+<body class="demos ">
+  
+  <nav id="site-nav">
+    <h1><a href="../index.html"></a></h1>
+
+    <h2>Docs</h2>
+    
+    <ul>
+      
+        
+          <li><a href="../docs/introduction.html">Introduction</a>
+        
+      
+        
+          <li><a href="../docs/options.html">Options</a>
+        
+      
+        
+          <li><a href="../docs/methods.html">Methods</a>
+        
+      
+        
+          <li><a href="../docs/layout-modes.html">Layout modes</a>
+        
+      
+        
+          <li><a href="../docs/filtering.html">Filtering</a>
+        
+      
+        
+          <li><a href="../docs/sorting.html">Sorting</a>
+        
+      
+        
+          <li><a href="../docs/animating.html">Animating</a>
+        
+      
+        
+          <li><a href="../docs/adding-items.html">Adding items</a>
+        
+      
+        
+          <li><a href="../docs/extending-isotope.html">Extending Isotope</a>
+        
+      
+        
+          <li><a href="../docs/hash-history.html">Hash history</a>
+        
+      
+        
+          <li><a href="../docs/help.html">Help</a>
+        
+      
+        
+          <li><a href="../docs/license.html">License</a>
+        
+      
+    </ul>
+    
+    <h2>Demos</h2>
+    
+    <ul>
+      
+        
+          <li class="current"><a href="#content">Basic</a></li>
+        
+      
+        
+          <li><a href="../demos/elements-complete.html">Elements Complete</a>
+        
+      
+        
+          <li><a href="../demos/elements-partial.html">Elements Partial</a>
+        
+      
+        
+          <li><a href="../demos/layout-modes.html">Layout modes</a>
+        
+      
+        
+          <li><a href="../demos/filtering.html">Filtering</a>
+        
+      
+        
+          <li><a href="../demos/sorting.html">ABT Tabs</a>
+        
+      
+        
+          <li><a href="../demos/sorting%202.html">Sorting</a>
+        
+      
+        
+          <li><a href="../demos/sorting%203.html">Ali Baba Tajine</a>
+        
+      
+        
+          <li><a href="../demos/relayout.html">reLayout</a>
+        
+      
+        
+          <li><a href="../demos/adding-items.html">Adding items</a>
+        
+      
+        
+          <li><a href="../demos/infinite-scroll.html">Infinite Scroll</a>
+        
+      
+        
+          <li><a href="../demos/images.html">Bilder</a>
+        
+      
+        
+          <li><a href="../demos/combination-filters.html">Kombinationsfilter ABT</a>
+        
+      
+        
+          <li><a href="../demos/combination-filters%202.html">Kombinationsfilter</a>
+        
+      
+        
+          <li><a href="../demos/hash-history.html">Hash history</a>
+        
+      
+        
+          <li><a href="../demos/fluid-responsive.html">Fluid / responsive</a>
+        
+      
+        
+          <li><a href="../demos/removing.html">Removing</a>
+        
+      
+    </ul>
+    
+    <h2>Custom</h2>
+    
+    <ul>
+      
+        
+          <li><a href="../custom-layout-modes/centered-masonry.html">Centered Masonry</a>
+        
+      
+        
+          <li><a href="../custom-layout-modes/category-rows.html">Category rows</a>
+        
+      
+        
+          <li><a href="../custom-layout-modes/masonry-corner-stamp.html">Masonry corner stamp</a>
+        
+      
+        
+          <li><a href="../custom-layout-modes/masonry-gutters.html">Masonry gutters</a>
+        
+      
+        
+          <li><a href="../custom-layout-modes/spine-align.html">Spine align</a>
+        
+      
+        
+          <li><a href="../custom-layout-modes/big-graph.html">BIG Graph</a>
+        
+      
+        
+          <li><a href="../custom-layout-modes/masonry-column-shift.html">Masonry Column Shift</a>
+        
+      
+    </ul>
+    
+    <h2><a href="../tests/index.html">Tests</a></h2>
+    
+  </nav> <!-- #site-nav -->
+  
+  <section id="content">
+    
+      <h1>Basic</h1>
+    
+
+      <section id="copy">
+    <p>This is a basic demo of Isotope. Resize the browser window to see the layout animate.</p>
+  </section>
+  
+  <div id="container">
+    
+  </div> <!-- #container -->
+  
+  <script src="../js/vendor/jquery.min.js"></script>
+  <script src="../js/jquery.isotope.min.js"></script>
+  <script>
+    $(function(){
+      
+      var $container = $('#container');
+      
+      $container.isotope({
+        itemSelector: '.element'
+      });
+      
+    });
+  </script>
+  
+
+    
+    
+    
+  </section> <!-- #content -->
+  
+
+</body>
+</html>
